@@ -1,0 +1,21 @@
+project_id = "hakuna-prod-2026"
+region     = "us-east5"
+
+# Dashboard exposure
+dashboard_domain  = "inbound.hakunahq.com"
+iap_support_email = "itamar@hakunahq.com"
+dashboard_members = [
+  "domain:hakunahq.com",
+  # or be explicit:
+  # "user:itamar@hakunahq.com",
+]
+
+# Cloudflare DNS — Terraform creates the A record for inbound.hakunahq.com.
+# Token comes from $CLOUDFLARE_API_TOKEN, not this file.
+# Set to "" to skip and manage DNS by hand.
+cloudflare_zone = "hakunahq.com"
+
+# Optional overrides:
+# schedule_cron       = "*/30 * * * *"
+# min_relevance_score = 7
+# user_agent          = "hakuna-signal/1.0 (contact: itamar@hakunahq.com)"

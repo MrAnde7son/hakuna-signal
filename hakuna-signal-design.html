@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hakuna Signal — System Design (historical, Reddit-only)</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Syne:wght@400;600;700;800&display=swap');
+
+  :root {
+    --bg: #0a0a0f;
+    --surface: #111118;
+    --border: #1e1e2e;
+    --accent: #ff4d00;
+    --accent2: #ffb800;
+    --green: #00e87a;
+    --text: #e8e8f0;
+    --muted: #5a5a7a;
+    --dim: #2a2a3a;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Mono', monospace;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* Grain overlay */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: 1000;
+    opacity: 0.4;
+  }
+
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 48px 24px;
+  }
+
+  /* Header */
+  .header {
+    margin-bottom: 52px;
+    animation: fadeUp 0.6s ease both;
+  }
+
+  .label {
+    font-size: 11px;
+    letter-spacing: 0.2em;
+    color: var(--accent);
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    font-weight: 600;
+  }
+
+  h1 {
+    font-family: 'Syne', sans-serif;
+    font-size: clamp(28px, 5vw, 44px);
+    font-weight: 800;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    color: #fff;
+    margin-bottom: 12px;
+  }
+
+  h1 span { color: var(--accent); }
+
+  .subtitle {
+    color: var(--muted);
+    font-size: 13px;
+    line-height: 1.6;
+  }
+
+  /* Section */
+  .section {
+    margin-bottom: 40px;
+    animation: fadeUp 0.6s ease both;
+  }
+
+  .section-label {
+    font-size: 10px;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .section-label::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+  }
+
+  /* Pipeline */
+  .pipeline {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .pipeline-step {
+    display: flex;
+    gap: 0;
+    position: relative;
+  }
+
+  .step-connector {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 48px;
+    flex-shrink: 0;
+  }
+
+  .step-node {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 600;
+    flex-shrink: 0;
+    z-index: 2;
+    position: relative;
+  }
+
+  .step-line {
+    width: 2px;
+    flex: 1;
+    min-height: 20px;
+    background: var(--border);
+    margin: 2px 0;
+  }
+
+  .step-line.accent { background: linear-gradient(to bottom, var(--accent), var(--border)); }
+
+  .step-content {
+    flex: 1;
+    padding: 0 0 28px 16px;
+  }
+
+  .step-title {
+    font-family: 'Syne', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .step-desc {
+    font-size: 12px;
+    color: var(--muted);
+    line-height: 1.7;
+    margin-bottom: 10px;
+  }
+
+  .badge {
+    font-size: 10px;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+  }
+
+  .badge-auto { background: rgba(0,232,122,0.12); color: var(--green); border: 1px solid rgba(0,232,122,0.2); }
+  .badge-manual { background: rgba(255,77,0,0.12); color: var(--accent); border: 1px solid rgba(255,77,0,0.2); }
+  .badge-api { background: rgba(255,184,0,0.1); color: var(--accent2); border: 1px solid rgba(255,184,0,0.2); }
+
+  /* Prompt cards */
+  .tabs {
+    display: flex;
+    gap: 2px;
+    margin-bottom: 0;
+    background: var(--dim);
+    padding: 3px;
+    border-radius: 8px 8px 0 0;
+    border: 1px solid var(--border);
+    border-bottom: none;
+  }
+
+  .tab {
+    padding: 8px 16px;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    cursor: pointer;
+    border-radius: 5px;
+    color: var(--muted);
+    transition: all 0.2s;
+    border: none;
+    background: none;
+    font-family: 'IBM Plex Mono', monospace;
+  }
+
+  .tab.active {
+    background: var(--surface);
+    color: var(--text);
+  }
+
+  .tab:hover:not(.active) { color: var(--text); }
+
+  .prompt-card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 0 8px 8px 8px;
+    overflow: hidden;
+  }
+
+  .prompt-panel {
+    display: none;
+    padding: 20px;
+  }
+
+  .prompt-panel.active { display: block; }
+
+  .prompt-meta {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+  }
+
+  .prompt-purpose {
+    font-size: 12px;
+    color: var(--muted);
+    flex: 1;
+    min-width: 200px;
+  }
+
+  .code-block {
+    background: #0d0d15;
+    border: 1px solid var(--dim);
+    border-radius: 6px;
+    padding: 16px;
+    font-size: 11.5px;
+    line-height: 1.75;
+    color: #b0b0d0;
+    white-space: pre-wrap;
+    word-break: break-word;
+    max-height: 300px;
+    overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: var(--dim) transparent;
+  }
+
+  .code-block .kw { color: var(--accent); font-weight: 600; }
+  .code-block .str { color: var(--green); }
+  .code-block .comment { color: var(--muted); font-style: italic; }
+  .code-block .var { color: var(--accent2); }
+
+  /* Keywords grid */
+  .keyword-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 6px;
+  }
+
+  .keyword-item {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 6px 10px;
+    font-size: 11px;
+    color: var(--text);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: border-color 0.2s;
+  }
+
+  .keyword-item:hover { border-color: var(--accent); }
+
+  .kw-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .kw-high { background: var(--accent); }
+  .kw-med { background: var(--accent2); }
+  .kw-discard { background: var(--muted); }
+
+  /* Subreddit table */
+  .sub-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+  }
+
+  .sub-table th {
+    text-align: left;
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--muted);
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .sub-table td {
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+    line-height: 1.5;
+  }
+
+  .sub-table tr:last-child td { border-bottom: none; }
+
+  .sub-table tr:hover td { background: rgba(255,255,255,0.02); }
+
+  .sub-name {
+    color: var(--accent2);
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .sub-why { color: var(--muted); }
+
+  /* Cost table */
+  .cost-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border);
+    font-size: 12px;
+  }
+
+  .cost-row:last-child { border-bottom: none; font-weight: 600; color: #fff; }
+
+  .cost-label { color: var(--muted); }
+  .cost-val { color: var(--green); font-weight: 600; }
+
+  /* Score scale */
+  .score-scale {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+
+  .score-row {
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+    font-size: 12px;
+  }
+
+  .score-num {
+    width: 32px;
+    height: 24px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 11px;
+    flex-shrink: 0;
+  }
+
+  .score-desc { color: var(--muted); line-height: 1.5; padding-top: 3px; }
+
+  /* Callout */
+  .callout {
+    background: rgba(255,77,0,0.06);
+    border: 1px solid rgba(255,77,0,0.2);
+    border-left: 3px solid var(--accent);
+    border-radius: 0 6px 6px 0;
+    padding: 14px 16px;
+    font-size: 12px;
+    color: var(--muted);
+    line-height: 1.7;
+  }
+
+  .callout strong { color: var(--text); }
+
+  /* Stack */
+  .stack-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border);
+    font-size: 12px;
+  }
+
+  .stack-row:last-child { border-bottom: none; }
+  .stack-name { color: var(--accent2); font-weight: 600; width: 140px; flex-shrink: 0; }
+  .stack-desc { color: var(--muted); }
+
+  /* Anim */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(16px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .section:nth-child(2) { animation-delay: 0.1s; }
+  .section:nth-child(3) { animation-delay: 0.2s; }
+  .section:nth-child(4) { animation-delay: 0.3s; }
+  .section:nth-child(5) { animation-delay: 0.4s; }
+  .section:nth-child(6) { animation-delay: 0.5s; }
+
+  /* Copy button */
+  .copy-btn {
+    background: var(--dim);
+    border: 1px solid var(--border);
+    color: var(--muted);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px;
+    padding: 4px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.15s;
+    letter-spacing: 0.05em;
+  }
+
+  .copy-btn:hover { background: var(--border); color: var(--text); }
+  .copy-btn.copied { color: var(--green); border-color: rgba(0,232,122,0.3); }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <!-- Header -->
+  <div class="header">
+    <div class="label">Hakuna · Internal Tooling Design</div>
+    <h1>Reddit <span>Thread</span><br>Monitor System</h1>
+    <div class="subtitle">Auto-detect ICP pain points → Score relevance → Draft founder replies → Itamar posts manually</div>
+  </div>
+
+  <!-- Pipeline -->
+  <div class="section">
+    <div class="section-label">Pipeline</div>
+    <div class="pipeline">
+
+      <div class="pipeline-step">
+        <div class="step-connector">
+          <div class="step-node" style="background:rgba(255,184,0,0.12);border:1.5px solid rgba(255,184,0,0.3);color:var(--accent2);">1</div>
+          <div class="step-line accent"></div>
+        </div>
+        <div class="step-content">
+          <div class="step-title">Thread Ingestion <span class="badge badge-auto">Automated</span></div>
+          <div class="step-desc">PRAW polls 7 subreddits every 30 min. Pulls new threads. Deduplicates against SQLite. Runs keyword pre-filter to cut volume before any LLM call.</div>
+        </div>
+      </div>
+
+      <div class="pipeline-step">
+        <div class="step-connector">
+          <div class="step-node" style="background:rgba(255,184,0,0.12);border:1.5px solid rgba(255,184,0,0.3);color:var(--accent2);">2</div>
+          <div class="step-line"></div>
+        </div>
+        <div class="step-content">
+          <div class="step-title">Relevance Scorer <span class="badge badge-auto">Automated</span> <span class="badge badge-api">Claude API</span></div>
+          <div class="step-desc">Claude call #1. Reads thread title + body + top 3 comments. Returns a JSON score 1–10 plus pain points identified and a suggested reply angle. Threads below 7 are discarded.</div>
+        </div>
+      </div>
+
+      <div class="pipeline-step">
+        <div class="step-connector">
+          <div class="step-node" style="background:rgba(255,184,0,0.12);border:1.5px solid rgba(255,184,0,0.3);color:var(--accent2);">3</div>
+          <div class="step-line"></div>
+        </div>
+        <div class="step-content">
+          <div class="step-title">Draft Generator <span class="badge badge-auto">Automated</span> <span class="badge badge-api">Claude API</span></div>
+          <div class="step-desc">Claude call #2. Writes a reply in Itamar's voice — practitioner-first, founder disclosure, Hakuna mention at the end. Under 200 words. Plain text ready to paste.</div>
+        </div>
+      </div>
+
+      <div class="pipeline-step">
+        <div class="step-connector">
+          <div class="step-node" style="background:rgba(255,184,0,0.12);border:1.5px solid rgba(255,184,0,0.3);color:var(--accent2);">4</div>
+          <div class="step-line"></div>
+        </div>
+        <div class="step-content">
+          <div class="step-title">Slack Alert <span class="badge badge-auto">Automated</span></div>
+          <div class="step-desc">Pushes a formatted Slack message: thread link, score, pain points, risk flags, and the draft comment. Itamar reads in ~10 seconds and decides to act or skip.</div>
+        </div>
+      </div>
+
+      <div class="pipeline-step">
+        <div class="step-connector">
+          <div class="step-node" style="background:rgba(255,77,0,0.12);border:1.5px solid rgba(255,77,0,0.3);color:var(--accent);">5</div>
+          <div class="step-line" style="background:transparent;"></div>
+        </div>
+        <div class="step-content">
+          <div class="step-title">Itamar Reviews &amp; Posts <span class="badge badge-manual">Manual — Non-Negotiable</span></div>
+          <div class="step-desc">Tweaks draft if needed (usually minor), pastes into Reddit. ~2–5 min per opportunity. This human step is what keeps it authentic and protects against Reddit bans.</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Subreddits -->
+  <div class="section">
+    <div class="section-label">Target Subreddits</div>
+    <div style="background:var(--surface);border:1px solid var(--border);border-radius:8px;overflow:hidden;">
+      <table class="sub-table">
+        <thead>
+          <tr>
+            <th>Subreddit</th>
+            <th>Why it matters for Hakuna</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="sub-name">r/nessus</td><td class="sub-why">Direct Tenable users — highest intent, closest to your wedge segment</td></tr>
+          <tr><td class="sub-name">r/sysadmin</td><td class="sub-why">Core ICP — IT/security ops at mid-market companies, high volume</td></tr>
+          <tr><td class="sub-name">r/AskNetsec</td><td class="sub-why">Question format = highest-value reply opportunity, feels natural</td></tr>
+          <tr><td class="sub-name">r/cybersecurity</td><td class="sub-why">Broad but high volume, good for general VM frustration threads</td></tr>
+          <tr><td class="sub-name">r/netsec</td><td class="sub-why">Practitioners and researchers — credibility-building audience</td></tr>
+          <tr><td class="sub-name">r/qualys</td><td class="sub-why">Competitor users = warm leads already in pain</td></tr>
+          <tr><td class="sub-name">r/crowdstrike</td><td class="sub-why">Falcon EM overlap — users comparing exposure tools</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- Keywords -->
+  <div class="section">
+    <div class="section-label">Keyword Pre-Filter</div>
+    <div style="margin-bottom:10px;font-size:11px;color:var(--muted);">Runs before any LLM call to cut costs. Three tiers:</div>
+    <div style="display:flex;flex-direction:column;gap:12px;">
+      <div>
+        <div style="font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:var(--accent);margin-bottom:8px;">🔴 High Signal — always pass to scorer</div>
+        <div class="keyword-grid">
+          <div class="keyword-item"><div class="kw-dot kw-high"></div>nessus</div>
+          <div class="keyword-item"><div class="kw-dot kw-high"></div>tenable</div>
+          <div class="keyword-item"><div class="kw-dot kw-high"></div>vulnerability management</div>
+          <div class="keyword-item"><div class="kw-dot kw-high"></div>exposure management</div>
+          <div class="keyword-item"><div class="kw-dot kw-high"></div>patch prioritization</div>
+          <div class="keyword-item"><div class="kw-dot kw-high"></div>too many findings</div>
+          <div class="keyword-item"><div class="kw-dot kw-high"></div>nessus alternative</div>
+          <div class="keyword-item"><div class="kw-dot kw-high"></div>alert fatigue</div>
+          <div class="keyword-item"><div class="kw-dot kw-high"></div>vuln ticketing</div>
+          <div class="keyword-item"><div class="kw-dot kw-high"></div>remediation workflow</div>
+        </div>
+      </div>
+      <div>
+        <div style="font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:var(--accent2);margin-bottom:8px;">🟡 Medium Signal — pass if upvotes &gt; 5</div>
+        <div class="keyword-grid">
+          <div class="keyword-item"><div class="kw-dot kw-med"></div>CVE prioritization</div>
+          <div class="keyword-item"><div class="kw-dot kw-med"></div>CVSS scoring</div>
+          <div class="keyword-item"><div class="kw-dot kw-med"></div>attack surface</div>
+          <div class="keyword-item"><div class="kw-dot kw-med"></div>cloud security posture</div>
+          <div class="keyword-item"><div class="kw-dot kw-med"></div>security tool</div>
+        </div>
+      </div>
+      <div>
+        <div style="font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:var(--muted);margin-bottom:8px;">⚫ Discard Immediately</div>
+        <div class="keyword-grid">
+          <div class="keyword-item"><div class="kw-dot kw-discard"></div>hiring / salary</div>
+          <div class="keyword-item"><div class="kw-dot kw-discard"></div>CTF / capture the flag</div>
+          <div class="keyword-item"><div class="kw-dot kw-discard"></div>malware analysis (alone)</div>
+          <div class="keyword-item"><div class="kw-dot kw-discard"></div>résumé / CV</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Prompts -->
+  <div class="section">
+    <div class="section-label">Prompt Design</div>
+
+    <div class="tabs">
+      <button class="tab active" onclick="switchTab('scorer')">Prompt #1 — Scorer</button>
+      <button class="tab" onclick="switchTab('drafter')">Prompt #2 — Drafter</button>
+      <button class="tab" onclick="switchTab('slack')">Prompt #3 — Slack Alert</button>
+    </div>
+
+    <div class="prompt-card">
+      <!-- Scorer -->
+      <div class="prompt-panel active" id="tab-scorer">
+        <div class="prompt-meta">
+          <div class="prompt-purpose">Returns JSON: score 1–10, pain points, reply angle, risk flags, recommended action</div>
+          <span class="badge badge-api">Claude Sonnet</span>
+          <button class="copy-btn" onclick="copyPrompt('scorer-text')">copy</button>
+        </div>
+        <div class="code-block" id="scorer-text"><span class="kw">SYSTEM:</span>
+You are a relevance scorer for Hakuna, an agentic exposure management and
+remediation platform. Evaluate whether a Reddit thread represents a genuine
+opportunity for Hakuna's founder to add value with a reply.
+
+<span class="comment"># Hakuna solves these specific pain points:</span>
+<span class="str">1.</span> Security teams drowning in vulnerability findings with no prioritization
+<span class="str">2.</span> Manual, spreadsheet-driven remediation tracking
+<span class="str">3.</span> Nessus/Tenable users who can't afford or don't want the full Enterprise EM tier
+<span class="str">4.</span> Alert fatigue — too many CVEs, no business context
+<span class="str">5.</span> Disconnected security tools not talking to Jira/ServiceNow
+<span class="str">6.</span> No visibility into which assets are actually exposed vs. theoretical risk
+<span class="str">7.</span> EASM blind spots — unknown internet-facing assets
+
+<span class="comment"># ICP: Security engineers, VM leads, CISOs at mid-market (100–2000 employees)
+# running Nessus, Qualys, or Rapid7</span>
+
+<span class="comment"># Score 1–10:</span>
+<span class="str">10:</span> Person actively frustrated with a problem Hakuna solves, asking for alternatives
+<span class="str">8–9:</span> Clear pain point, Hakuna highly relevant
+<span class="str">6–7:</span> Adjacent topic, Hakuna adds value without feeling forced
+<span class="str">4–5:</span> Loosely related, comment would feel awkward
+<span class="str">1–3:</span> Not relevant — discard
+
+Respond ONLY with valid JSON, no markdown, no preamble:
+{
+  <span class="var">"score"</span>: &lt;integer 1-10&gt;,
+  <span class="var">"pain_points_identified"</span>: [&lt;list of strings&gt;],
+  <span class="var">"reply_angle"</span>: "&lt;one sentence on what angle the reply should take&gt;",
+  <span class="var">"risk_flags"</span>: [&lt;e.g. "OP seems hostile", "already has vendor replies"&gt;],
+  <span class="var">"recommended_action"</span>: "reply" | "monitor" | "discard"
+}
+
+<span class="kw">USER:</span>
+Subreddit: r/<span class="var">{subreddit}</span>
+Title: <span class="var">{title}</span>
+Body: <span class="var">{body}</span>
+Top comments (first 3): <span class="var">{top_comments}</span>
+Thread upvotes: <span class="var">{score}</span>
+Posted: <span class="var">{created_utc}</span></div>
+
+        <!-- Score scale -->
+        <div style="margin-top:16px;padding:14px;background:#0d0d15;border-radius:6px;border:1px solid var(--dim);">
+          <div style="font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:var(--muted);margin-bottom:10px;">Score interpretation</div>
+          <div class="score-scale">
+            <div class="score-row">
+              <div class="score-num" style="background:rgba(255,77,0,0.15);color:var(--accent);">10</div>
+              <div class="score-desc">Person actively frustrated, asking for Nessus/Tenable alternatives → reply immediately</div>
+            </div>
+            <div class="score-row">
+              <div class="score-num" style="background:rgba(255,184,0,0.1);color:var(--accent2);">7–9</div>
+              <div class="score-desc">Clear VM/remediation pain point → draft and alert</div>
+            </div>
+            <div class="score-row">
+              <div class="score-num" style="background:rgba(90,90,122,0.15);color:var(--muted);">&lt;7</div>
+              <div class="score-desc">Discard — comment would feel forced or irrelevant</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Drafter -->
+      <div class="prompt-panel" id="tab-drafter">
+        <div class="prompt-meta">
+          <div class="prompt-purpose">Writes a &lt;200 word plain-text comment in Itamar's voice. Value-first, Hakuna mention at the end.</div>
+          <span class="badge badge-api">Claude Sonnet</span>
+          <button class="copy-btn" onclick="copyPrompt('drafter-text')">copy</button>
+        </div>
+        <div class="code-block" id="drafter-text"><span class="kw">SYSTEM:</span>
+You are writing a Reddit comment on behalf of Itamar Mizrahi, co-founder
+and CEO of Hakuna (app.hakuna.com).
+
+<span class="comment"># Itamar's background (use to build credibility naturally):</span>
+- Founded Cymptom, acquired by Tenable
+- Led Tenable's Exposure Management business post-acquisition
+- Deep insider knowledge of Nessus, Tenable.sc, and the VM market
+- Now building Hakuna as the smarter alternative for mid-market teams
+
+<span class="comment"># Voice rules:</span>
+- Practitioner-first: lead with real insight, not sales language
+- Direct and honest — acknowledge tradeoffs, don't oversell
+- Specific — use real product names, real pain points, real numbers
+- Founder humility: "we're early but solving exactly this"
+- <span class="str">NEVER use:</span> "game-changer", "revolutionary", "best-in-class", "cutting-edge"
+- Mention Hakuna naturally at the END after providing genuine value
+- Disclose founder status: "Full disclosure — I built something for this"
+- Keep under 200 words unless thread is deeply technical
+
+<span class="comment"># Format rules:</span>
+- Plain text only — no markdown headers, no bullet lists
+- One paragraph of value → one sentence about Hakuna
+- End with open question or "happy to share more" — not a hard CTA
+
+<span class="kw">USER:</span>
+Thread title: <span class="var">{title}</span>
+Thread body: <span class="var">{body}</span>
+Top comments: <span class="var">{top_comments}</span>
+Pain points identified: <span class="var">{pain_points}</span>
+Suggested angle: <span class="var">{reply_angle}</span>
+Risk flags: <span class="var">{risk_flags}</span>
+
+Write the draft comment now.</div>
+      </div>
+
+      <!-- Slack -->
+      <div class="prompt-panel" id="tab-slack">
+        <div class="prompt-meta">
+          <div class="prompt-purpose">Formats the Slack alert so Itamar can decide in 10 seconds. No prompt needed — static template.</div>
+          <span class="badge badge-auto">Static template</span>
+          <button class="copy-btn" onclick="copyPrompt('slack-text')">copy</button>
+        </div>
+        <div class="code-block" id="slack-text"><span class="comment"># Slack message format (mrkdwn)</span>
+
+*🎯 Reddit Opportunity — Score <span class="var">{score}</span>/10*
+*Subreddit:* r/<span class="var">{subreddit}</span>
+*Thread:* &lt;<span class="var">{url}</span>|<span class="var">{title}</span>&gt;
+*Posted:* <span class="var">{time_ago}</span>
+
+*Pain points detected:* <span class="var">{pain_points}</span>
+*Suggested angle:* <span class="var">{reply_angle}</span>
+⚠️ *Watch out:* <span class="var">{risk_flags or "None"}</span>
+
+---
+*Draft reply (edit as needed):*
+<span class="var">{draft_comment}</span>
+
+---
+_Review thread → tweak draft → paste manually. ~2 min._</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Stack -->
+  <div class="section">
+    <div class="section-label">Tech Stack</div>
+    <div style="background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:16px 20px;">
+      <div class="stack-row"><div class="stack-name">praw</div><div class="stack-desc">Official Reddit API wrapper. Free, rate-limit safe, no scraping risk.</div></div>
+      <div class="stack-row"><div class="stack-name">anthropic SDK</div><div class="stack-desc">Claude API for scoring + drafting. claude-sonnet-4.</div></div>
+      <div class="stack-row"><div class="stack-name">sqlite3</div><div class="stack-desc">Deduplication store. No Redis needed to start.</div></div>
+      <div class="stack-row"><div class="stack-name">APScheduler</div><div class="stack-desc">Cron every 30 min. Runs in-process, no celery needed.</div></div>
+      <div class="stack-row"><div class="stack-name">Slack webhook</div><div class="stack-desc">Incoming webhook. One URL, zero infrastructure.</div></div>
+      <div class="stack-row" style="border-bottom:none;"><div class="stack-name">Render worker</div><div class="stack-desc">Already in your infra. Background worker, always-on.</div></div>
+    </div>
+  </div>
+
+  <!-- Cost -->
+  <div class="section">
+    <div class="section-label">Cost Estimate / Month</div>
+    <div style="background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:16px 20px;">
+      <div class="cost-row"><span class="cost-label">Reddit API (PRAW)</span><span class="cost-val">$0</span></div>
+      <div class="cost-row"><span class="cost-label">Claude scoring — ~2,000 threads × 500 tokens</span><span class="cost-val">~$1.50</span></div>
+      <div class="cost-row"><span class="cost-label">Claude drafting — ~200 threads × 800 tokens</span><span class="cost-val">~$1.00</span></div>
+      <div class="cost-row"><span class="cost-label">Slack webhook</span><span class="cost-val">$0</span></div>
+      <div class="cost-row"><span class="cost-label">Total</span><span class="cost-val">~$2.50 / month</span></div>
+    </div>
+  </div>
+
+  <!-- Callout -->
+  <div class="section">
+    <div class="callout">
+      <strong>Why the manual post step is non-negotiable:</strong> Security subreddits like r/netsec and r/sysadmin have highly sophisticated audiences. A reply that feels templated or generic will get called out, downvoted, or reported. Getting caught astroturfing as a founder in cybersecurity would be worse than no Reddit presence. The automation handles everything up to the post — you stay in control of what actually goes out.
+    </div>
+  </div>
+
+  <!-- Phase 2 -->
+  <div class="section">
+    <div class="section-label">Phase 2 — After MVP</div>
+    <div style="display:flex;flex-direction:column;gap:8px;">
+      <div class="keyword-item" style="padding:10px 12px;">
+        <div class="kw-dot" style="background:var(--green);"></div>
+        <span>Slack "Mark replied / Skip" buttons → feedback loop on prompt quality</span>
+      </div>
+      <div class="keyword-item" style="padding:10px 12px;">
+        <div class="kw-dot" style="background:var(--green);"></div>
+        <span>Track upvotes/replies on posted comments to tune scorer threshold</span>
+      </div>
+      <div class="keyword-item" style="padding:10px 12px;">
+        <div class="kw-dot" style="background:var(--green);"></div>
+        <span>Expand to Hacker News, Tenable Community forums, LinkedIn posts</span>
+      </div>
+      <div class="keyword-item" style="padding:10px 12px;">
+        <div class="kw-dot" style="background:var(--green);"></div>
+        <span>Weekly digest: top 5 opportunities missed (for retrospective)</span>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script>
+function switchTab(name) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.prompt-panel').forEach(p => p.classList.remove('active'));
+  event.target.classList.add('active');
+  document.getElementById('tab-' + name).classList.add('active');
+}
+
+function copyPrompt(id) {
+  const el = document.getElementById(id);
+  const text = el.innerText;
+  navigator.clipboard.writeText(text).then(() => {
+    const btn = event.target;
+    btn.textContent = 'copied ✓';
+    btn.classList.add('copied');
+    setTimeout(() => { btn.textContent = 'copy'; btn.classList.remove('copied'); }, 2000);
+  });
+}
+</script>
+</body>
+</html>

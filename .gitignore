@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+*.db
+reports/
+.venv/
+venv/
+
+# Terraform
+infra/.terraform/
+infra/terraform.tfvars
+infra/*.tfstate
+infra/*.tfstate.*
+infra/.terraform.lock.hcl.backup
+crash.log
+crash.*.log
