@@ -46,6 +46,31 @@ SOURCES = {
         "exposure-and-asset-management",
         "appsec-and-cloud",
     ],
+    "hackernews": [  # Algolia search queries — see sources/hackernews.CATEGORY_QUERIES
+        "vulnerability-scanner",
+        "vulnerability-management",
+        "attack-surface",
+        "exposure-management",
+        "patch-management",
+        "asset-discovery",
+    ],
+    "stackexchange": [  # Stack Exchange site names; SO is excluded as too noisy
+        "security",
+        "serverfault",
+    ],
+    "github": [  # owner/repo specs — issues from VM/asset/scanner OSS projects
+        "projectdiscovery/nuclei",
+        "zaproxy/zaproxy",
+        "greenbone/openvas-scanner",
+        "osquery/osquery",
+        "fleetdm/fleet",
+    ],
+    "rapid7": [  # discuss.rapid7.com Discourse boards
+        "insightvm",
+        "surface-command",
+        "insightidr",
+        "insightappsec",
+    ],
 }
 
 # How many items to fetch per (source, category) per run
@@ -59,4 +84,8 @@ ITEMS_PER_CATEGORY = {
     # G2 is products-per-category × ~25 reviews per RSS feed; cap is implicit
     # in CATEGORY_PRODUCTS inside sources/g2.py.
     "g2": 250,
+    "hackernews": 30,
+    "stackexchange": 30,
+    "github": 30,
+    "rapid7": 30,
 }

@@ -59,7 +59,7 @@ Edit `.env` with your values:
 ### Run continuously (scheduled)
 
 ```bash
-python main.py
+python src/main.py
 ```
 
 Runs the pipeline immediately, then repeats every `RUN_INTERVAL_MINUTES`. Each run appends new opportunities to `reports/data.json` and writes the dashboard to `reports/dashboard.html`.
@@ -68,23 +68,29 @@ The dashboard supports client-side filtering by source/category, score, date ran
 
 ### Run once
 
-Ctrl+C after the first run completes, or modify `main.py` to call `run_pipeline()` directly.
+Ctrl+C after the first run completes, or modify `src/main.py` to call `run_pipeline()` directly.
 
 ## Project Structure
 
 ```
-main.py             — Pipeline orchestrator and scheduler
-config.py           — Config loading from .env, source registry
-sources/            — Per-source fetchers (reddit, spiceworks, tenable, peerspot, g2)
-keyword_filter.py   — Pre-LLM keyword filtering rules
-scorer.py           — LLM relevance scoring + structured intel extraction
-drafter.py          — LLM comment drafting in founder voice (Reddit only)
-profiler.py         — Aggregates structured intel for the Market Intelligence tab
-report.py           — Dashboard generator (single-page HTML + JSON data)
-db.py               — SQLite dedup/tracking layer
-cloud_entrypoint.py — Cloud Run Job entrypoint (hydrate state → run → push state)
-dashboard_server.py — Cloud Run service that serves the dashboard from GCS
-infra/              — Terraform: Cloud Run Job + Scheduler + GCS state + IAP-protected dashboard LB
+src/                  — Application code
+  main.py             — Pipeline orchestrator and scheduler
+  config.py           — Config loading from .env, source registry
+  sources/            — Per-source fetchers (reddit, spiceworks, tenable, peerspot, g2)
+  keyword_filter.py   — Pre-LLM keyword filtering rules
+  scorer.py           — LLM relevance scoring + structured intel extraction
+  drafter.py          — LLM comment drafting in founder voice (Reddit only)
+  profiler.py         — Aggregates structured intel for the Market Intelligence tab
+  report.py           — Dashboard generator (single-page HTML + JSON data)
+  db.py               — SQLite dedup/tracking layer
+  cloud_entrypoint.py — Cloud Run Job entrypoint (hydrate state → run → push state)
+  dashboard_server.py — Cloud Run service that serves the dashboard from GCS
+scripts/              — One-off backfills and migrations (run from project root)
+web/                  — Source-of-truth dashboard.html and favicon.svg
+data/                 — Local SQLite db (gitignored at runtime)
+reports/              — Generated data.json / intel.json / dashboard.html (gitignored)
+docs/                 — Design docs
+infra/                — Terraform: Cloud Run Job + Scheduler + GCS state + IAP-protected dashboard LB
 ```
 
 ## Cost

@@ -13,7 +13,7 @@ from pathlib import Path
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 logger = logging.getLogger(__name__)
 
-DATA_FILE = Path(__file__).parent / "reports" / "data.json"
+DATA_FILE = Path(__file__).resolve().parent.parent / "reports" / "data.json"
 
 
 def main():

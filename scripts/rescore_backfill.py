@@ -3,8 +3,11 @@ through the current scorer prompt, then regenerate intel.json."""
 
 import json
 import logging
+import sys
 import time
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
 
 from scorer import score_thread
 from profiler import aggregate_profiles

@@ -7,14 +7,12 @@ __pycache__
 *.pyo
 .env
 .env.*
-seen_threads.db
-seen_threads.db.bak
-seen_threads.db.presources
+data/
 reports/
 infra/
 *.tfstate
 *.tfstate.backup
 .terraform/
-hakuna-signal-design.md
-hakuna-signal-design.html
+docs/
 README.md
+scripts/

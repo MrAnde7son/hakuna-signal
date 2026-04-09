@@ -6,12 +6,13 @@ from pathlib import Path
 
 logger = logging.getLogger(__name__)
 
-REPORT_DIR = Path(__file__).parent / "reports"
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+REPORT_DIR = PROJECT_ROOT / "reports"
 DATA_FILE = REPORT_DIR / "data.json"
 DATA_JS_FILE = REPORT_DIR / "data.js"
 INTEL_FILE = REPORT_DIR / "intel.json"
 DASHBOARD_FILE = REPORT_DIR / "dashboard.html"
-DASHBOARD_TEMPLATE = Path(__file__).parent / "dashboard.html"
+DASHBOARD_TEMPLATE = PROJECT_ROOT / "web" / "dashboard.html"
 
 
 def generate_report(opportunities: list[dict], intel: dict | None = None):

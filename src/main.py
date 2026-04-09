@@ -24,12 +24,13 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Local-dev dashboard backend. report.py writes intel.json + data.json into
-# reports/; dashboard.html and favicon.svg are hand-edited at the project root
-# (and copied into reports/ at report-time, but the root copy is the source of
-# truth so edits show up on the next browser refresh).
-PROJECT_ROOT = Path(__file__).parent
+# reports/; dashboard.html and favicon.svg live in web/ at the project root
+# (dashboard.html is copied into reports/ at report-time, but the web/ copy
+# is the source of truth so edits show up on the next browser refresh).
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 REPORTS_DIR = PROJECT_ROOT / "reports"
-ROOT_FILES = {"dashboard.html", "favicon.svg"}
+WEB_DIR = PROJECT_ROOT / "web"
+WEB_FILES = {"dashboard.html", "favicon.svg"}
 
 _local_fetch_cache: dict[str, tuple[float, bytes, str]] = {}
 
@@ -41,7 +42,7 @@ def _local_fetch(name: str) -> tuple[bytes, str] | None:
     so dashboard_server's parsed-JSON cache (which keys on id(body)) doesn't
     re-parse data.json on every API call.
     """
-    base = PROJECT_ROOT if name in ROOT_FILES else REPORTS_DIR
+    base = WEB_DIR if name in WEB_FILES else REPORTS_DIR
     path = base / name
     # Path-traversal guard: the resolved path must stay inside `base`.
     try:
@@ -98,11 +99,14 @@ def run_pipeline():
                 stats["filtered"] += 1
                 continue
 
-            # Hydrate deferred fields. Reddit leaves top_comments=None in the
-            # listing so we only pay the per-thread comment fetch for items
+            # Hydrate deferred fields. Sources that leave top_comments=None
+            # in the listing only pay the per-thread comment fetch for items
             # that survive dedup + filter (the bulk of the HTTP cost otherwise).
-            if source_name == "reddit" and thread["top_comments"] is None:
-                thread["top_comments"] = sources.reddit.fetch_comments(category, thread["id"])
+            if thread["top_comments"] is None:
+                if source_name == "reddit":
+                    thread["top_comments"] = sources.reddit.fetch_comments(category, thread["id"])
+                elif source_name == "hackernews":
+                    thread["top_comments"] = sources.hackernews.fetch_comments(thread["id"])
 
             # Score. On transient failure (LLM blip, JSON parse), do NOT
             # mark seen — let the next run retry. Permanent stuck threads

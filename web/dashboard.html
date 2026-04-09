@@ -171,6 +171,7 @@
   .company-list li.co-hidden { display: none; }
   .company-list.expanded li.co-hidden { display: list-item; }
   .company-list .co-name { color: var(--link); font-weight: 600; }
+  .company-list .co-count { color: var(--text-secondary); font-size: 0.75rem; font-weight: 500; }
   .company-list .co-meta { color: var(--text-secondary); font-size: 0.8rem; }
   .co-expand { margin-top: 0.5rem; background: var(--btn-bg); color: var(--btn-text); border: 1px solid var(--border); padding: 0.4rem 0.75rem; border-radius: 6px; cursor: pointer; font-size: 0.8rem; }
   .co-expand:hover { background: var(--btn-hover); }
@@ -710,14 +711,29 @@ function renderIntel() {
   }
 
   const COMPANY_PREVIEW = 8;
-  const companies = (INTEL.named_companies || []);
+  // named_companies has one entry per thread — dedupe by name, merge tools, count mentions.
+  const companyMap = new Map();
+  (INTEL.named_companies || []).forEach(c => {
+    if (!c || !c.name) return;
+    let agg = companyMap.get(c.name);
+    if (!agg) {
+      agg = { name: c.name, industry: null, employee_range: null, tools: new Set(), count: 0 };
+      companyMap.set(c.name, agg);
+    }
+    agg.count += 1;
+    if (!agg.industry && c.industry) agg.industry = c.industry;
+    if (!agg.employee_range && c.employee_range) agg.employee_range = c.employee_range;
+    (c.tools || []).forEach(t => agg.tools.add(t));
+  });
+  const companies = [...companyMap.values()].sort((a, b) => b.count - a.count || a.name.localeCompare(b.name));
   const companyItemsHtml = companies.map((c, i) => {
     const meta = [c.industry, c.employee_range ? c.employee_range + ' emp' : null].filter(Boolean).join(', ');
-    const tools = (c.tools || []).join(', ');
+    const tools = [...c.tools].join(', ');
     const cls = i >= COMPANY_PREVIEW ? ' class="co-hidden"' : '';
     const drillAttrs = ` data-drill-dim="company" data-drill-value="${esc(c.name)}" title="Click to view threads mentioning ${esc(c.name)}"`;
+    const countBadge = c.count > 1 ? ` <span class="co-count">×${c.count}</span>` : '';
     return `<li${cls}${drillAttrs}>
-      <span class="co-name">${c.thread_url ? '<a href="' + esc(c.thread_url) + '" target="_blank" style="color:var(--link);text-decoration:none">' + esc(c.name) + '</a>' : esc(c.name)}</span>
+      <span class="co-name">${esc(c.name)}</span>${countBadge}
       ${meta ? '<br><span class="co-meta">' + esc(meta) + '</span>' : ''}
       ${tools ? '<br><span class="co-meta">Tools: ' + esc(tools) + '</span>' : ''}
     </li>`;

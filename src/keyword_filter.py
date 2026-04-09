@@ -18,6 +18,24 @@ ALWAYS_PASS_CATEGORIES = {
     # G2 market segments (vulnerability-management already covered above)
     "exposure-and-asset-management",
     "appsec-and-cloud",
+    # Hacker News search-query slugs — query already enforces topic relevance
+    "vulnerability-scanner",
+    "attack-surface",
+    "exposure-management",
+    "asset-discovery",
+    # Rapid7 Discuss vendor boards — every post is about a Rapid7 product
+    "insightvm",
+    "surface-command",
+    "insightidr",
+    "insightappsec",
+    # GitHub repos — every issue is on the OSS scanner / asset / fleet tool
+    "projectdiscovery/nuclei",
+    "zaproxy/zaproxy",
+    "greenbone/openvas-scanner",
+    "osquery/osquery",
+    "fleetdm/fleet",
+    # Stack Exchange: NOT listed — security.stackexchange.com and serverfault.com
+    # are broad enough that we want the keyword filter to gate them.
 }
 
 HIGH_SIGNAL = [

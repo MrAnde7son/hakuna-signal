@@ -17,8 +17,8 @@ logging.basicConfig(
 )
 logger = logging.getLogger("cloud_entrypoint")
 
-ROOT = Path(__file__).parent
-DB_FILE = ROOT / "seen_threads.db"
+ROOT = Path(__file__).resolve().parent.parent
+DB_FILE = ROOT / "data" / "seen_threads.db"
 REPORTS_DIR = ROOT / "reports"
 REPORTS_PREFIX = "reports/"
 DB_OBJECT = "seen_threads.db"
@@ -32,6 +32,7 @@ def _bucket():
 
 
 def hydrate(bucket) -> None:
+    DB_FILE.parent.mkdir(parents=True, exist_ok=True)
     db_blob = bucket.blob(DB_OBJECT)
     if db_blob.exists():
         logger.info("Restoring %s from gs://%s/%s", DB_FILE.name, bucket.name, DB_OBJECT)

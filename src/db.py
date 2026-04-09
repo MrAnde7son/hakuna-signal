@@ -2,7 +2,8 @@ import json
 import sqlite3
 from pathlib import Path
 
-DB_PATH = Path(__file__).parent / "seen_threads.db"
+DB_PATH = Path(__file__).resolve().parent.parent / "data" / "seen_threads.db"
+DB_PATH.parent.mkdir(parents=True, exist_ok=True)
 
 # Single long-lived connection. The pipeline is single-threaded, so re-opening
 # per call (and re-running CREATE TABLE / migration checks each time) was

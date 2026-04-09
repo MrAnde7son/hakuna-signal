@@ -63,7 +63,7 @@ resource "google_cloud_run_v2_service" "dashboard" {
 
     containers {
       image   = "${var.region}-docker.pkg.dev/${var.project_id}/${google_artifact_registry_repository.images.repository_id}/${var.name}:${var.image_tag}"
-      command = ["python", "dashboard_server.py"]
+      command = ["python", "src/dashboard_server.py"]
 
       ports {
         container_port = 8080

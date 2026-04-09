@@ -15,4 +15,4 @@ RUN pip install -r requirements.txt
 
 COPY . .
 
-CMD ["python", "cloud_entrypoint.py"]
+CMD ["python", "src/cloud_entrypoint.py"]
