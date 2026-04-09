@@ -156,11 +156,13 @@ resource "google_compute_backend_service" "dashboard" {
   }
 
   iap {
-    enabled = true
-    # No oauth2_client_id / oauth2_client_secret: Google manages the OAuth
-    # client automatically. Modern path that avoids the deprecated IAP OAuth
-    # Admin API entirely (works in google provider v6+). The existing
-    # project-level brand is used as-is.
+    enabled              = true
+    oauth2_client_id     = var.iap_oauth_client_id
+    oauth2_client_secret = var.iap_oauth_client_secret
+    # Explicit client (not Google-managed) because the Google-managed path
+    # silently uses an org-internal-only OAuth flow on projects under a
+    # Workspace org, which 403s any consumer Gmail account regardless of
+    # IAP IAM. The explicit client respects the brand's External user_type.
   }
 
   log_config {

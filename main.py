@@ -1,10 +1,15 @@
 import logging
+import os
+import threading
 import time
 from datetime import datetime, timezone
+from mimetypes import guess_type
+from pathlib import Path
 
 import schedule
 
 import config
+import dashboard_server
 import db
 import sources
 from keyword_filter import should_process
@@ -17,6 +22,54 @@ logging.basicConfig(
     format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
 )
 logger = logging.getLogger(__name__)
+
+# Local-dev dashboard backend. report.py writes intel.json + data.json into
+# reports/; dashboard.html and favicon.svg are hand-edited at the project root
+# (and copied into reports/ at report-time, but the root copy is the source of
+# truth so edits show up on the next browser refresh).
+PROJECT_ROOT = Path(__file__).parent
+REPORTS_DIR = PROJECT_ROOT / "reports"
+ROOT_FILES = {"dashboard.html", "favicon.svg"}
+
+_local_fetch_cache: dict[str, tuple[float, bytes, str]] = {}
+
+
+def _local_fetch(name: str) -> tuple[bytes, str] | None:
+    """Local-files fetch backend for dashboard_server.serve().
+
+    Mtime-keyed cache: returns the same bytes object until the file changes,
+    so dashboard_server's parsed-JSON cache (which keys on id(body)) doesn't
+    re-parse data.json on every API call.
+    """
+    base = PROJECT_ROOT if name in ROOT_FILES else REPORTS_DIR
+    path = base / name
+    # Path-traversal guard: the resolved path must stay inside `base`.
+    try:
+        path.resolve().relative_to(base.resolve())
+    except ValueError:
+        return None
+    if not path.is_file():
+        return None
+    mtime = path.stat().st_mtime
+    cached = _local_fetch_cache.get(name)
+    if cached and cached[0] == mtime:
+        return cached[1], cached[2]
+    body = path.read_bytes()
+    ctype = guess_type(name)[0] or "application/octet-stream"
+    _local_fetch_cache[name] = (mtime, body, ctype)
+    return body, ctype
+
+
+def _start_local_dashboard() -> None:
+    """Spin up dashboard_server in a daemon thread for `python main.py` workflows."""
+    port = int(os.environ.get("PORT", "8080"))
+    threading.Thread(
+        target=dashboard_server.serve,
+        args=(_local_fetch, port),
+        daemon=True,
+        name="dashboard-server",
+    ).start()
+    logger.info("Dashboard live at http://localhost:%d", port)
 
 
 def run_pipeline():
@@ -127,6 +180,11 @@ def run_pipeline():
 
 def main():
     logger.info("Hakuna Signal starting (interval=%dm)", config.RUN_INTERVAL_MINUTES)
+
+    # Local-only: serve the dashboard in-process. cloud_entrypoint.py calls
+    # run_pipeline() directly so this never runs in prod (the prod dashboard
+    # is the separate Cloud Run service driven by dashboard_server.main()).
+    _start_local_dashboard()
 
     # Run once immediately
     run_pipeline()

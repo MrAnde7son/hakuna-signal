@@ -77,6 +77,25 @@ variable "dashboard_members" {
   default     = []
 }
 
+variable "iap_oauth_client_id" {
+  type        = string
+  description = <<-EOT
+    OAuth 2.0 Web Application client ID used by IAP to perform the OAuth
+    handshake. Create at: APIs & Services -> Credentials -> Create OAuth
+    client ID -> Web application. Authorized redirect URI must be:
+      https://iap.googleapis.com/v1/oauth/clientIds/<this-client-id>:handleRedirect
+    Set explicitly (rather than using IAP's Google-managed client) so the
+    External brand is honored — the Google-managed path silently falls back
+    to org-internal-only on Workspace projects.
+  EOT
+}
+
+variable "iap_oauth_client_secret" {
+  type        = string
+  description = "Client secret for var.iap_oauth_client_id. Keep out of VCS."
+  sensitive   = true
+}
+
 # ---------- Cloudflare DNS (cloudflare.tf) ----------
 
 variable "cloudflare_zone" {

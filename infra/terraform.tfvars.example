@@ -10,6 +10,16 @@ dashboard_members = [
   # "user:itamar@hakunahq.com",
 ]
 
+# Explicit IAP OAuth client (web application). Create at:
+#   APIs & Services -> Credentials -> Create credentials -> OAuth client ID
+#     -> Application type: Web application
+#     -> Authorized redirect URI:
+#        https://iap.googleapis.com/v1/oauth/clientIds/<CLIENT_ID>:handleRedirect
+# Required so IAP honors the brand's External user_type — the Google-managed
+# fallback path 403s consumer Gmail accounts on Workspace-org projects.
+iap_oauth_client_id     = "REPLACE_ME.apps.googleusercontent.com"
+iap_oauth_client_secret = "GOCSPX-REPLACE_ME"
+
 # Cloudflare DNS — Terraform creates the A record for inbound.hakunahq.com.
 # Token comes from $CLOUDFLARE_API_TOKEN, not this file.
 # Set to "" to skip and manage DNS by hand.
