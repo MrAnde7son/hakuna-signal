@@ -21,6 +21,7 @@ SOURCES = {
     "reddit": [
         "sysadmin",
         "nessus",
+        "tenable",
         "cybersecurity",
         "AskNetsec",
         "netsec",
