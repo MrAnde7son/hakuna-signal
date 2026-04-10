@@ -52,6 +52,12 @@ COMPANY PROFILE — infer from context clues (org size mentions, tool stack, tea
 - security_team_size: "solo", "2-5", "5-10", "10+", or null
 - maturity_level: "low" (no formal VM program), "medium" (has tools, struggling with process), \
 "high" (mature, optimizing), or null
+- country: ISO English country name if there is a clear signal (e.g., explicit mention of HQ \
+or office location, regulator/regulation specific to one country like HIPAA→"United States", \
+DSGVO/BSI→"Germany", APPI→"Japan", non-English language tied to a single locale, country-specific \
+subreddit like r/de/r/japan, or user-stated location). Use null if no confident signal — do NOT \
+guess from a US-centric default. Examples: "United States", "Germany", "Japan", "United Kingdom", \
+"Israel", "Canada", "Australia", "France", "Netherlands"
 
 TOOLS DETECTED — every security/IT tool explicitly named in the thread or comments. \
 Only include tools actually mentioned, not inferred.
@@ -81,7 +87,7 @@ Respond ONLY with valid JSON (no other text):
 "recommended_action": "reply"|"monitor"|"discard", \
 "company_profile": {"company_name": string_or_null, "industry": string_or_null, \
 "employee_range": string_or_null, "security_team_size": string_or_null, \
-"maturity_level": string_or_null}, "tools_detected": [strings], \
+"maturity_level": string_or_null, "country": string_or_null}, "tools_detected": [strings], \
 "pain_point_categories": [strings], "team_functions": [strings]}"""
 
 

@@ -249,6 +249,10 @@
     <select id="f-maturity"><option value="">All</option></select>
   </div>
   <div class="filter-group">
+    <label>Country</label>
+    <select id="f-country"><option value="">All</option></select>
+  </div>
+  <div class="filter-group">
     <label>Company</label>
     <select id="f-company"><option value="">All</option></select>
   </div>
@@ -316,6 +320,7 @@ const DRILL_DIMENSIONS = {
   maturity:       { filterId: 'f-maturity',       intelKey: 'maturity_levels' },
   industry:       { filterId: 'f-industry',       intelKey: 'industries' },
   team_size:      { filterId: 'f-team_size',      intelKey: 'security_team_sizes' },
+  country:        { filterId: 'f-country',        intelKey: 'countries' },
   company:        { filterId: 'f-company',        intelKey: null },
 };
 
@@ -363,7 +368,7 @@ function populateDimensionFilters() {
 // Filter dropdowns whose values are persisted to the URL. The URL param name is
 // the id with the "f-" prefix stripped (e.g. f-sub → ?sub=...). The same names
 // are forwarded to /api/opportunities (with f-score → min_score remapped below).
-const FILTER_IDS = ['f-sub', 'f-score', 'f-status', 'f-tool', 'f-pain', 'f-function', 'f-industry', 'f-employee_range', 'f-team_size', 'f-maturity', 'f-company', 'f-from', 'f-to', 'f-sort'];
+const FILTER_IDS = ['f-sub', 'f-score', 'f-status', 'f-tool', 'f-pain', 'f-function', 'f-industry', 'f-employee_range', 'f-team_size', 'f-maturity', 'f-country', 'f-company', 'f-from', 'f-to', 'f-sort'];
 
 function applyURLState() {
   const params = new URLSearchParams(location.search);
@@ -525,6 +530,7 @@ function renderCompanyHint(profile) {
   if (profile.employee_range) parts.push(profile.employee_range + ' employees');
   if (profile.security_team_size) parts.push('security team: ' + profile.security_team_size);
   if (profile.maturity_level && profile.maturity_level !== 'null') parts.push('maturity: ' + profile.maturity_level);
+  if (profile.country) parts.push('country: ' + profile.country);
   if (parts.length === 0) return '';
   return `<p class="company-hint">Company signals: ${esc(parts.join(' / '))}</p>`;
 }
@@ -780,6 +786,10 @@ function renderIntel() {
       <div class="intel-card">
         <h3>Security Team Size</h3>
         ${renderBarChart(INTEL.security_team_sizes, 'bar-fill-purple', 6, 'team_size')}
+      </div>
+      <div class="intel-card">
+        <h3>Countries</h3>
+        ${renderBarChart(INTEL.countries, 'bar-fill-teal', 10, 'country')}
       </div>
       <div class="intel-card">
         <h3>Named Companies</h3>

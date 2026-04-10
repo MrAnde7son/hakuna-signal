@@ -88,6 +88,7 @@ DIMENSION_MATCHERS = {
     "employee_range": lambda s, v: (s.get("company_profile") or {}).get("employee_range") == v,
     "team_size":      lambda s, v: (s.get("company_profile") or {}).get("security_team_size") == v,
     "maturity":       lambda s, v: (s.get("company_profile") or {}).get("maturity_level") == v,
+    "country":        lambda s, v: (s.get("company_profile") or {}).get("country") == v,
     "company":        lambda s, v: (s.get("company_profile") or {}).get("company_name") == v,
 }
 

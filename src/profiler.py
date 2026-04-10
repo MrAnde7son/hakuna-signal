@@ -17,6 +17,7 @@ def aggregate_profiles(opportunities: list[dict]) -> dict:
     maturity_levels = Counter()
     industries = Counter()
     security_team_sizes = Counter()
+    countries = Counter()
     named_companies = []
 
     for opp in opportunities:
@@ -45,11 +46,14 @@ def aggregate_profiles(opportunities: list[dict]) -> dict:
                 industries[profile["industry"]] += 1
             if profile.get("security_team_size"):
                 security_team_sizes[profile["security_team_size"]] += 1
+            if profile.get("country"):
+                countries[profile["country"]] += 1
             if profile.get("company_name"):
                 named_companies.append({
                     "name": profile["company_name"],
                     "industry": profile.get("industry"),
                     "employee_range": profile.get("employee_range"),
+                    "country": profile.get("country"),
                     "tools": sr.get("tools_detected", []),
                     "pain_points": sr.get("pain_point_categories", []),
                     "thread_url": opp.get("thread", {}).get("url", ""),
@@ -64,6 +68,7 @@ def aggregate_profiles(opportunities: list[dict]) -> dict:
         "maturity_levels": _counter_to_sorted_list(maturity_levels),
         "industries": _counter_to_sorted_list(industries),
         "security_team_sizes": _counter_to_sorted_list(security_team_sizes),
+        "countries": _counter_to_sorted_list(countries),
         "named_companies": named_companies,
     }
 
