@@ -104,9 +104,15 @@ echo "    image   : ${IMAGE_SHA}"
 echo
 
 echo "==> Building image via Cloud Build..."
+# --default-buckets-behavior=REGIONAL_USER_OWNED_BUCKET: Cloud Build's default
+# global logs bucket requires project Viewer to stream logs, which the
+# github-deploy SA intentionally doesn't have. Regional user-owned buckets
+# live in the project and are readable via the SA's existing storage perms.
 gcloud builds submit \
   --project "${PROJECT_ID}" \
   --tag "${IMAGE_SHA}" \
+  --default-buckets-behavior=REGIONAL_USER_OWNED_BUCKET \
+  --region "${REGION}" \
   .
 
 echo
