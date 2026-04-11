@@ -20,6 +20,8 @@ shipping the entire dataset down on first paint:
   GET /api/opportunities         — paginated, filtered, sorted page
   GET /api/opportunities/ids     — same filters, IDs only (for "mark all read")
   GET /api/sources               — distinct source/category list for the dropdown
+  GET /api/intel                 — aggregate intel re-computed over the filtered set
+                                   (used by the Market Intelligence tab's pivot mode)
 """
 import json
 import logging
@@ -233,6 +235,28 @@ def api_opportunity_ids(qs: dict) -> tuple[int, dict]:
     return HTTPStatus.OK, {"ids": ids, "total": len(ids)}
 
 
+def api_intel(qs: dict) -> tuple[int, dict]:
+    """Re-aggregate intel over a filtered slice of opportunities.
+
+    Same filter params as /api/opportunities. Powers the Market Intelligence
+    tab's pivot mode: pin tool=Nessus and the returned counts describe only
+    threads that mention Nessus, so the pain_point_categories list is
+    effectively "all pain points of Nessus".
+    """
+    from profiler import aggregate_profiles
+
+    items = fetch_parsed(DATA_BLOB)
+    if items is None:
+        return HTTPStatus.NOT_FOUND, {"error": f"{DATA_BLOB} not found"}
+    if not isinstance(items, list):
+        return HTTPStatus.INTERNAL_SERVER_ERROR, {"error": f"{DATA_BLOB} is not a JSON array"}
+    try:
+        filtered = filter_items(items, qs)
+    except ValueError as e:
+        return HTTPStatus.BAD_REQUEST, {"error": str(e)}
+    return HTTPStatus.OK, aggregate_profiles(filtered)
+
+
 def api_sources(_qs: dict) -> tuple[int, dict]:
     items = fetch_parsed(DATA_BLOB)
     if items is None:
@@ -257,6 +281,7 @@ API_ROUTES = {
     "/api/opportunities": api_opportunities,
     "/api/opportunities/ids": api_opportunity_ids,
     "/api/sources": api_sources,
+    "/api/intel": api_intel,
 }
 
 

@@ -175,6 +175,18 @@
   .company-list .co-meta { color: var(--text-secondary); font-size: 0.8rem; }
   .co-expand { margin-top: 0.5rem; background: var(--btn-bg); color: var(--btn-text); border: 1px solid var(--border); padding: 0.4rem 0.75rem; border-radius: 6px; cursor: pointer; font-size: 0.8rem; }
   .co-expand:hover { background: var(--btn-hover); }
+
+  /* Pivot mode controls (Market Intelligence tab) */
+  .intel-controls { display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; margin-bottom: 1rem; padding: 0.75rem 1rem; background: var(--bg-card); border: 1px solid var(--border-card); border-radius: 10px; }
+  .pivot-toggle { display: flex; align-items: center; gap: 0.4rem; font-size: 0.85rem; color: var(--text); cursor: pointer; user-select: none; font-weight: 600; }
+  .pivot-toggle input { cursor: pointer; }
+  .pivot-hint { font-size: 0.8rem; color: var(--text-secondary); font-style: italic; }
+  .pivot-chips { display: flex; gap: 0.4rem; flex-wrap: wrap; align-items: center; }
+  .pivot-chip { display: inline-flex; align-items: center; gap: 0.35rem; font-size: 0.8rem; padding: 3px 4px 3px 9px; background: var(--bg-tag); border: 1px solid var(--accent); color: var(--text); border-radius: 12px; }
+  .pivot-chip strong { color: var(--accent); }
+  .pivot-chip-x { background: transparent; border: none; color: var(--text-secondary); cursor: pointer; font-size: 0.9rem; padding: 0 4px; line-height: 1; border-radius: 50%; }
+  .pivot-chip-x:hover { background: var(--btn-hover); color: var(--text); }
+  .intel-card.intel-card-pinned { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
 </style>
 </head>
 <body>
@@ -297,6 +309,13 @@
 
 <!-- Market Intelligence Tab -->
 <div id="tab-intel" class="tab-content">
+  <div class="intel-controls">
+    <label class="pivot-toggle" title="In pivot mode, clicking a bar re-aggregates the other cards over only matching threads (e.g. pin tool=Nessus to see all of Nessus's pain points).">
+      <input type="checkbox" id="pivot-mode-toggle">
+      Pivot mode
+    </label>
+    <div id="pivot-chips" class="pivot-chips"></div>
+  </div>
   <div id="intel-content"></div>
 </div>
 
@@ -304,8 +323,15 @@
 const READ_KEY = 'hakuna_read_threads';
 const PAGE_SIZE = 50;
 
-// INTEL is fetched on load. Opportunities are paginated server-side via /api/opportunities.
+// INTEL is the unfiltered baseline fetched on load (drives the filter dropdowns
+// and the default Market Intelligence view). intelView is what the Intel grid
+// currently renders — equals INTEL until a pivot is active, at which point it
+// holds the result of /api/intel?<pivots>. Opportunities are paginated
+// server-side via /api/opportunities and are unaffected by pivot state.
 let INTEL = null;
+let intelView = null;
+let pivotMode = false;
+const intelPivots = {};
 let currentPage = 1;
 let lastPageMeta = { total: 0, total_pages: 1, page: 1 };
 
@@ -333,6 +359,74 @@ function drillTo(dimension, value) {
   currentPage = 1;
   switchTab('opportunities');
   render();
+}
+
+// Pivot click → pin a (dimension, value) pair and re-aggregate the intel grid
+// over only matching threads. Multiple pivots compose (AND).
+async function pivotOn(dimension, value) {
+  if (!DRILL_DIMENSIONS[dimension]) return;
+  intelPivots[dimension] = value;
+  await applyPivots();
+}
+
+async function clearPivot(dimension) {
+  delete intelPivots[dimension];
+  await applyPivots();
+}
+
+function clearAllPivots() {
+  Object.keys(intelPivots).forEach(k => delete intelPivots[k]);
+}
+
+// Refresh intelView from /api/intel using the active pivots, then re-render.
+// With no active pivots we skip the request and fall back to baseline INTEL.
+async function applyPivots() {
+  const keys = Object.keys(intelPivots);
+  if (keys.length === 0) {
+    intelView = INTEL;
+    renderIntel();
+    return;
+  }
+  const params = new URLSearchParams();
+  keys.forEach(k => params.set(k, intelPivots[k]));
+  try {
+    const res = await fetch('/api/intel?' + params.toString());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    intelView = await res.json();
+  } catch (e) {
+    console.error('pivot fetch failed', e);
+    intelView = INTEL;
+  }
+  renderIntel();
+}
+
+function renderPivotChips() {
+  const chips = document.getElementById('pivot-chips');
+  if (!chips) return;
+  const entries = Object.entries(intelPivots);
+  if (entries.length === 0) {
+    chips.innerHTML = pivotMode
+      ? '<span class="pivot-hint">Click any bar below to pivot. Pinned dimensions compose (AND).</span>'
+      : '';
+    return;
+  }
+  chips.innerHTML = entries.map(([dim, val]) =>
+    `<span class="pivot-chip">${esc(dim)}: <strong>${esc(val)}</strong>` +
+    `<button class="pivot-chip-x" data-pivot-clear="${esc(dim)}" title="Remove pivot" aria-label="Remove pivot">&times;</button></span>`
+  ).join('');
+}
+
+function setPivotMode(enabled) {
+  pivotMode = enabled;
+  const toggle = document.getElementById('pivot-mode-toggle');
+  if (toggle) toggle.checked = enabled;
+  if (!enabled && Object.keys(intelPivots).length > 0) {
+    clearAllPivots();
+    intelView = INTEL;
+    renderIntel();
+  } else {
+    renderPivotChips();
+  }
 }
 
 function populateDimensionFilters() {
@@ -451,6 +545,7 @@ async function loadData() {
       populateSubreddits(),
     ]);
     INTEL = intelRes;
+    intelView = INTEL;
   } catch (e) {
     console.error('initial load failed', e);
   }
@@ -711,15 +806,24 @@ function renderBarChart(items, fillClass, maxBars, dimension) {
 
 function renderIntel() {
   const el = document.getElementById('intel-content');
-  if (!INTEL || !INTEL.total_threads_analyzed) {
-    el.innerHTML = '<p class="empty">No market intelligence data yet. Run the pipeline to analyze threads.</p>';
+  // intelView falls back to the baseline INTEL when no pivot is active.
+  const intel = intelView || INTEL;
+  renderPivotChips();
+  if (!intel || !intel.total_threads_analyzed) {
+    const emptyMsg = (intelView && intelView !== INTEL)
+      ? 'No threads match the active pivot. Remove a pivot to widen the view.'
+      : 'No market intelligence data yet. Run the pipeline to analyze threads.';
+    el.innerHTML = `<p class="empty">${emptyMsg}</p>`;
     return;
   }
+
+  // Used below to mark pivoted cards with a highlight.
+  const pinnedCard = (dim) => intelPivots[dim] ? ' intel-card-pinned' : '';
 
   const COMPANY_PREVIEW = 8;
   // named_companies has one entry per thread — dedupe by name, merge tools, count mentions.
   const companyMap = new Map();
-  (INTEL.named_companies || []).forEach(c => {
+  (intel.named_companies || []).forEach(c => {
     if (!c || !c.name) return;
     let agg = companyMap.get(c.name);
     if (!agg) {
@@ -751,47 +855,51 @@ function renderIntel() {
     ? '<ul class="company-list">' + companyItemsHtml + '</ul>' + expandBtn
     : '<p class="empty" style="padding:1rem">No named companies detected yet</p>';
 
+  const totalLabel = (intelView && intelView !== INTEL)
+    ? 'Threads Matching Pivot'
+    : 'Threads Analyzed';
+
   el.innerHTML = `
     <div class="intel-grid">
       <div class="intel-card">
         <div class="intel-stat">
-          <div class="big-number">${INTEL.total_threads_analyzed}</div>
-          <div class="stat-label">Threads Analyzed</div>
+          <div class="big-number">${intel.total_threads_analyzed}</div>
+          <div class="stat-label">${totalLabel}</div>
         </div>
       </div>
-      <div class="intel-card">
+      <div class="intel-card${pinnedCard('tool')}">
         <h3>Tools Mentioned</h3>
-        ${renderBarChart(INTEL.tools, 'bar-fill-blue', 12, 'tool')}
+        ${renderBarChart(intel.tools, 'bar-fill-blue', 12, 'tool')}
       </div>
-      <div class="intel-card">
+      <div class="intel-card${pinnedCard('pain')}">
         <h3>Pain Point Categories</h3>
-        ${renderBarChart(INTEL.pain_point_categories, 'bar-fill-orange', 10, 'pain')}
+        ${renderBarChart(intel.pain_point_categories, 'bar-fill-orange', 10, 'pain')}
       </div>
-      <div class="intel-card">
+      <div class="intel-card${pinnedCard('function')}">
         <h3>Team Functions</h3>
-        ${renderBarChart(INTEL.team_functions, 'bar-fill-green', 10, 'function')}
+        ${renderBarChart(intel.team_functions, 'bar-fill-green', 10, 'function')}
       </div>
-      <div class="intel-card">
+      <div class="intel-card${pinnedCard('employee_range')}">
         <h3>Company Size Distribution</h3>
-        ${renderBarChart(INTEL.employee_ranges, 'bar-fill-purple', 6, 'employee_range')}
+        ${renderBarChart(intel.employee_ranges, 'bar-fill-purple', 6, 'employee_range')}
       </div>
-      <div class="intel-card">
+      <div class="intel-card${pinnedCard('maturity')}">
         <h3>Security Maturity</h3>
-        ${renderBarChart(INTEL.maturity_levels, 'bar-fill-red', 4, 'maturity')}
+        ${renderBarChart(intel.maturity_levels, 'bar-fill-red', 4, 'maturity')}
       </div>
-      <div class="intel-card">
+      <div class="intel-card${pinnedCard('industry')}">
         <h3>Industries</h3>
-        ${renderBarChart(INTEL.industries, 'bar-fill-teal', 10, 'industry')}
+        ${renderBarChart(intel.industries, 'bar-fill-teal', 10, 'industry')}
       </div>
-      <div class="intel-card">
+      <div class="intel-card${pinnedCard('team_size')}">
         <h3>Security Team Size</h3>
-        ${renderBarChart(INTEL.security_team_sizes, 'bar-fill-purple', 6, 'team_size')}
+        ${renderBarChart(intel.security_team_sizes, 'bar-fill-purple', 6, 'team_size')}
       </div>
-      <div class="intel-card">
+      <div class="intel-card${pinnedCard('country')}">
         <h3>Countries</h3>
-        ${renderBarChart(INTEL.countries, 'bar-fill-teal', 10, 'country')}
+        ${renderBarChart(intel.countries, 'bar-fill-teal', 10, 'country')}
       </div>
-      <div class="intel-card">
+      <div class="intel-card${pinnedCard('company')}">
         <h3>Named Companies</h3>
         ${companyListHtml}
       </div>
@@ -853,13 +961,30 @@ document.getElementById('page-jump').addEventListener('change', (e) => {
   if (Number.isFinite(v)) goToPage(v);
 });
 
-// Delegated click handler for drill-down on intel widgets
+// Delegated click handler for drill-down + pivot interactions on intel widgets
 document.addEventListener('click', (e) => {
   // Don't hijack actual link clicks (e.g. company name → thread URL)
   if (e.target.closest('a')) return;
+  // Pivot chip removal takes precedence over the drill target underneath.
+  const clearBtn = e.target.closest('[data-pivot-clear]');
+  if (clearBtn) {
+    clearPivot(clearBtn.dataset.pivotClear);
+    return;
+  }
   const el = e.target.closest('[data-drill-dim]');
   if (!el) return;
-  drillTo(el.dataset.drillDim, el.dataset.drillValue);
+  // In pivot mode (only meaningful on the intel tab), pin instead of drilling.
+  const intelActive = document.getElementById('tab-intel').classList.contains('active');
+  if (pivotMode && intelActive) {
+    pivotOn(el.dataset.drillDim, el.dataset.drillValue);
+  } else {
+    drillTo(el.dataset.drillDim, el.dataset.drillValue);
+  }
+});
+
+// Pivot mode toggle
+document.getElementById('pivot-mode-toggle').addEventListener('change', (e) => {
+  setPivotMode(e.target.checked);
 });
 
 function toggleTheme() {

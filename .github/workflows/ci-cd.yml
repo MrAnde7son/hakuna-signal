@@ -1,0 +1,111 @@
+name: CI/CD
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  # Serialize deploys per-ref so two pushes to main can't race the
+  # `:latest` tag move + `gcloud run deploy`. Non-main branches just get
+  # the test job and are fine to cancel-in-progress.
+  group: ci-cd-${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
+
+jobs:
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Compile check (syntax)
+        run: python -m compileall -q src scripts
+
+      - name: Import smoke check
+        # src/ uses bare imports (e.g. `import config`) so it must be on
+        # sys.path. This catches import-time errors (missing deps, broken
+        # top-level code) without needing real credentials — config.py and
+        # friends fall back to defaults when env vars are absent.
+        env:
+          PYTHONPATH: src
+        run: |
+          python -c "
+          import importlib
+          mods = [
+              'config', 'db', 'keyword_filter', 'scorer', 'drafter',
+              'report', 'profiler', 'dashboard_server', 'cloud_entrypoint',
+              'main', 'sources',
+              'sources.reddit', 'sources.spiceworks', 'sources.tenable',
+              'sources.peerspot', 'sources.g2', 'sources.hackernews',
+              'sources.stackexchange', 'sources.github', 'sources.rapid7',
+          ]
+          for m in mods:
+              importlib.import_module(m)
+              print('ok', m)
+          "
+
+      - name: Run pytest (if any tests exist)
+        # No tests today, but wire pytest up so adding a tests/ dir later
+        # turns CI green automatically without touching this workflow.
+        run: |
+          pip install pytest
+          if [ -d tests ] || compgen -G "test_*.py" > /dev/null; then
+            pytest -q
+          else
+            echo "no tests/ directory yet — skipping pytest"
+          fi
+
+  deploy:
+    name: Deploy
+    needs: test
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    # GCP_WORKLOAD_IDENTITY_PROVIDER and GCP_DEPLOY_SERVICE_ACCOUNT live
+    # under this GitHub Environment, not at repo level.
+    environment: prod
+
+    # Required for google-github-actions/auth via Workload Identity Federation.
+    permissions:
+      contents: read
+      id-token: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # deploy.sh runs `git rev-parse --short HEAD` and refuses to deploy
+          # with a dirty tree, so a normal shallow checkout is fine — but we
+          # need at least one commit, which the default depth provides.
+          fetch-depth: 1
+
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: ${{ vars.GCP_WORKLOAD_IDENTITY_PROVIDER }}
+          service_account: ${{ vars.GCP_DEPLOY_SERVICE_ACCOUNT }}
+
+      - name: Set up gcloud
+        uses: google-github-actions/setup-gcloud@v2
+        with:
+          project_id: ${{ vars.GCP_PROJECT_ID || 'hakuna-prod-2026' }}
+          # gsutil is needed by deploy.sh to sync the static dashboard.
+          install_components: gsutil
+
+      - name: Deploy
+        env:
+          PROJECT_ID: ${{ vars.GCP_PROJECT_ID || 'hakuna-prod-2026' }}
+          REGION: ${{ vars.GCP_REGION || 'us-east5' }}
+          NAME: ${{ vars.GCP_RESOURCE_NAME || 'reddit-inbound' }}
+        run: scripts/deploy.sh
