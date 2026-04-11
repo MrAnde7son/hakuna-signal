@@ -14,3 +14,7 @@ infra/*.tfstate.*
 infra/.terraform.lock.hcl.backup
 crash.log
 crash.*.log
+
+# google-github-actions/auth@v2 drops short-lived WIF credentials here in CI.
+# Ignoring keeps deploy.sh's dirty-tree check happy and prevents accidental commits.
+gha-creds-*.json
