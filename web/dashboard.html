@@ -250,12 +250,12 @@
 </div>
 
 <div class="tabs">
-  <div class="tab active" onclick="switchTab('opportunities')">Opportunities</div>
-  <div class="tab" onclick="switchTab('intel')">Market Intelligence</div>
+  <div class="tab active" onclick="switchTab('intel')">Market Intelligence</div>
+  <div class="tab" onclick="switchTab('opportunities')">Opportunities</div>
 </div>
 
 <!-- Opportunities Tab -->
-<div id="tab-opportunities" class="tab-content active">
+<div id="tab-opportunities" class="tab-content">
 
 <div class="filters">
   <div class="filter-group">
@@ -362,7 +362,7 @@
 </div>
 
 <!-- Market Intelligence Tab -->
-<div id="tab-intel" class="tab-content">
+<div id="tab-intel" class="tab-content active">
   <div class="intel-controls">
     <label class="pivot-toggle" title="In pivot mode, clicking a bar re-aggregates the other cards over only matching threads (e.g. pin tool=Nessus to see all of Nessus's pain points).">
       <input type="checkbox" id="pivot-mode-toggle">
@@ -532,8 +532,8 @@ function applyURLState() {
 
 function updateURL() {
   const params = new URLSearchParams();
-  if (document.getElementById('tab-intel').classList.contains('active')) {
-    params.set('tab', 'intel');
+  if (document.getElementById('tab-opportunities').classList.contains('active')) {
+    params.set('tab', 'opportunities');
   }
   FILTER_IDS.forEach(id => {
     const el = document.getElementById(id);
@@ -606,7 +606,8 @@ async function loadData() {
   }
   populateDimensionFilters();
   applyURLState();
-  if (new URLSearchParams(location.search).get('tab') === 'intel') switchTab('intel');
+  if (new URLSearchParams(location.search).get('tab') === 'opportunities') switchTab('opportunities');
+  renderIntel();
   render();
 }
 
