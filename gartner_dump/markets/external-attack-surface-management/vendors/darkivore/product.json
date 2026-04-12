@@ -1,0 +1,613 @@
+{
+  "product": "Darkivore",
+  "slug": "darkivore",
+  "url": "https://www.gartner.com/reviews/product/darkivore",
+  "rating": 4.8,
+  "review_count": 31,
+  "vendor": "Potech",
+  "description": "DARKIVORE, is a comprehensive Brand Protection, Cyberthreat Intelligence and Digital Risk Protection Platform, that curbs all hacking activities right from the start. DARKIVORE pre-emptively neutralizes cyber-attacks such as data breaches, brand impersonations and phishing scams,by swiftly detecting and capturing them from the surface, deep and dark web. In addition to preventing attacks, the platform monitors your digital footprint, limits breaches and even assists in generating compliance reports. DARKIVORE offers a range of features that cater to various entities and organizations, accessible through three distinct bundles: the comprehensive Digital Risk Protection bundle, the Brand Protection bundle, and the Attack Surface & Threat Intelligence bundle. This ensures that different types of needs are effectively addressed.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USD, Insurance (except health)",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDTelecommunicationReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "reviewer": "NETWORK AND SECURITY MANAGER50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "“Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USD, Insurance (except health)",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDTelecommunicationReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "reviewer": "NETWORK AND SECURITY MANAGER50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "“Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USD, Insurance (except health)",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDTelecommunicationReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "reviewer": "NETWORK AND SECURITY MANAGER50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "“Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USD, Insurance (except health)",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDTelecommunicationReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "reviewer": "NETWORK AND SECURITY MANAGER50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "“Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USD, Insurance (except health)",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDTelecommunicationReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "reviewer": "NETWORK AND SECURITY MANAGER50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "“Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USD, Insurance (except health)",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDTelecommunicationReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "reviewer": "NETWORK AND SECURITY MANAGER50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "“Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USD, Insurance (except health)",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDTelecommunicationReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "reviewer": "NETWORK AND SECURITY MANAGER50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "“Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USD, Insurance (except health)",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDTelecommunicationReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "reviewer": "NETWORK AND SECURITY MANAGER50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "“Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USD, Insurance (except health)",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDTelecommunicationReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "reviewer": "NETWORK AND SECURITY MANAGER50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "“Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USD, Insurance (except health)",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Timely Vulnerability Identification and Fixes Ensure Consistent Security Improvements",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Dashboard Simplifies Threat Detection and Monitoring for All Web Layers",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDTelecommunicationReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Platform Extends Detection to Profiles, Groups, and Posts Across Online Channels",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT<50M USDInsurance (except health)Review Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Darkivore Identifies Vulnerabilities Early and Adapts to Risk Tolerance Settings",
+      "rating": 5.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "reviewer": "NETWORK AND SECURITY MANAGER50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "smart needed investment",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    }
+  ],
+  "total_reviews_crawled": 110
+}

@@ -1,0 +1,663 @@
+{
+  "product": "Mandiant Advantage Attack Surface Management (Legacy)",
+  "slug": "mandiant-advantage-attack-surface-management-legacy",
+  "url": "https://www.gartner.com/reviews/product/mandiant-advantage-attack-surface-management-legacy",
+  "rating": 4.2,
+  "review_count": 32,
+  "vendor": "Google",
+  "description": "Mandiant Advantage Attack Surface Management, a module of the Mandiant Advantage platform, combinesextended enterprise visibility and continuous monitoring capabilities infused with the latest Mandiant Advantage Threat Intelligence to help organizations discover exposures and analyzeinternet assets across today’s dynamic, distributed and shared environments.Mandiant Advantage Attack Surface Management provides cyber security teams with a comprehensive, true view of their environment through the eyes of the attacker. This module operationalizes attacker intelligence to transform security programs from reactive mode to proactive.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Real-Time Threat Detection Improves Incident Response.”",
+      "reviewer": "MANAGER IS - CYBERSECURITY3B - 10B USD, Transportation",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“Customer Service Praised While Interface and Export Options Noted as Weak Points”",
+      "reviewer": "CISO1B - 3B USD, Consumer Goods",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "reviewer": "MANAGER IS - CYBERSECURITY1B-10B USDTransportationReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "reviewer": "IT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "reviewer": "CISO1B-10B USDConsumer GoodsReview Source",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR SOC<50M USDServices (non-Government)Review Source",
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "“Real-Time Threat Detection Improves Incident Response.”",
+      "reviewer": "MANAGER IS - CYBERSECURITY3B - 10B USD, Transportation",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“Customer Service Praised While Interface and Export Options Noted as Weak Points”",
+      "reviewer": "CISO1B - 3B USD, Consumer Goods",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "reviewer": "MANAGER IS - CYBERSECURITY1B-10B USDTransportationReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "reviewer": "IT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "reviewer": "CISO1B-10B USDConsumer GoodsReview Source",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR SOC<50M USDServices (non-Government)Review Source",
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "“Real-Time Threat Detection Improves Incident Response.”",
+      "reviewer": "MANAGER IS - CYBERSECURITY3B - 10B USD, Transportation",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“Customer Service Praised While Interface and Export Options Noted as Weak Points”",
+      "reviewer": "CISO1B - 3B USD, Consumer Goods",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "reviewer": "MANAGER IS - CYBERSECURITY1B-10B USDTransportationReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "reviewer": "IT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "reviewer": "CISO1B-10B USDConsumer GoodsReview Source",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR SOC<50M USDServices (non-Government)Review Source",
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "“Real-Time Threat Detection Improves Incident Response.”",
+      "reviewer": "MANAGER IS - CYBERSECURITY3B - 10B USD, Transportation",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“Customer Service Praised While Interface and Export Options Noted as Weak Points”",
+      "reviewer": "CISO1B - 3B USD, Consumer Goods",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "reviewer": "MANAGER IS - CYBERSECURITY1B-10B USDTransportationReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "reviewer": "IT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "reviewer": "CISO1B-10B USDConsumer GoodsReview Source",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR SOC<50M USDServices (non-Government)Review Source",
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "“Real-Time Threat Detection Improves Incident Response.”",
+      "reviewer": "MANAGER IS - CYBERSECURITY3B - 10B USD, Transportation",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“Customer Service Praised While Interface and Export Options Noted as Weak Points”",
+      "reviewer": "CISO1B - 3B USD, Consumer Goods",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "reviewer": "MANAGER IS - CYBERSECURITY1B-10B USDTransportationReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "reviewer": "IT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "reviewer": "CISO1B-10B USDConsumer GoodsReview Source",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR SOC<50M USDServices (non-Government)Review Source",
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "“Real-Time Threat Detection Improves Incident Response.”",
+      "reviewer": "MANAGER IS - CYBERSECURITY3B - 10B USD, Transportation",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“Customer Service Praised While Interface and Export Options Noted as Weak Points”",
+      "reviewer": "CISO1B - 3B USD, Consumer Goods",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "reviewer": "MANAGER IS - CYBERSECURITY1B-10B USDTransportationReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "reviewer": "IT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "reviewer": "CISO1B-10B USDConsumer GoodsReview Source",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR SOC<50M USDServices (non-Government)Review Source",
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "“Real-Time Threat Detection Improves Incident Response.”",
+      "reviewer": "MANAGER IS - CYBERSECURITY3B - 10B USD, Transportation",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“Customer Service Praised While Interface and Export Options Noted as Weak Points”",
+      "reviewer": "CISO1B - 3B USD, Consumer Goods",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "reviewer": "MANAGER IS - CYBERSECURITY1B-10B USDTransportationReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "reviewer": "IT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "reviewer": "CISO1B-10B USDConsumer GoodsReview Source",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR SOC<50M USDServices (non-Government)Review Source",
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "“Real-Time Threat Detection Improves Incident Response.”",
+      "reviewer": "MANAGER IS - CYBERSECURITY3B - 10B USD, Transportation",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“Customer Service Praised While Interface and Export Options Noted as Weak Points”",
+      "reviewer": "CISO1B - 3B USD, Consumer Goods",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "reviewer": "MANAGER IS - CYBERSECURITY1B-10B USDTransportationReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "reviewer": "IT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "reviewer": "CISO1B-10B USDConsumer GoodsReview Source",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR SOC<50M USDServices (non-Government)Review Source",
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "“Real-Time Threat Detection Improves Incident Response.”",
+      "reviewer": "MANAGER IS - CYBERSECURITY3B - 10B USD, Transportation",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“Customer Service Praised While Interface and Export Options Noted as Weak Points”",
+      "reviewer": "CISO1B - 3B USD, Consumer Goods",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "reviewer": "MANAGER IS - CYBERSECURITY1B-10B USDTransportationReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "reviewer": "IT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "reviewer": "CISO1B-10B USDConsumer GoodsReview Source",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR SOC<50M USDServices (non-Government)Review Source",
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "“Real-Time Threat Detection Improves Incident Response.”",
+      "reviewer": "MANAGER IS - CYBERSECURITY3B - 10B USD, Transportation",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“Customer Service Praised While Interface and Export Options Noted as Weak Points”",
+      "reviewer": "CISO1B - 3B USD, Consumer Goods",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "reviewer": "MANAGER IS - CYBERSECURITY1B-10B USDTransportationReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Real-Time Threat Detection Improves Incident Response.",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "reviewer": "IT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant Advantage ASM Excels In Threat Intelligence But UI Performance Lags",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Mandiant ASM Enhances Visibility but Presents Initial Setup and Complexity Challenges",
+      "rating": 4.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "reviewer": "CISO1B-10B USDConsumer GoodsReview Source",
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Customer Service Praised While Interface and Export Options Noted as Weak Points",
+      "rating": 3.0,
+      "date": "Aug 15, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR SOC<50M USDServices (non-Government)Review Source",
+      "date": "Aug 10, 2025"
+    },
+    {
+      "title": "Comprehensive Solution Eases Data Access But Commands Higher Market Pricing",
+      "rating": 5.0,
+      "date": "Aug 10, 2025"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

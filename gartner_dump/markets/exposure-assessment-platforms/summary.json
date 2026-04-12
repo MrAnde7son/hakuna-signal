@@ -1,0 +1,245 @@
+{
+  "market": "exposure-assessment-platforms",
+  "url": "https://www.gartner.com/reviews/market/exposure-assessment-platforms",
+  "vendor_count": 23,
+  "vendors": [
+    {
+      "product": "Nagomi Proactive Defense Platform",
+      "slug": "nagomi-proactive-defense-platform",
+      "url": "https://www.gartner.com/reviews/product/nagomi-proactive-defense-platform",
+      "review_count": 18,
+      "vendor": "Nagomi",
+      "description": "The Nagomi Proactive Defense Platform automates the management of security tools, enabling security teams to streamline operations, automate routine tasks, and reclaim valuable time. Using simple language, the platform connects identified threats directly to theirpotential business impacts. This capability simplifies the process of reporting coverage gaps to the board and evaluating each tool's business value. With Nagomi, Chief Information Security Officers (CISOs) gain confidence in optimizing tool effectiveness and achieving maximum ROI from their organization's security investments.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 110
+    },
+    {
+      "product": "RidgeBot",
+      "slug": "ridgebot",
+      "url": "https://www.gartner.com/reviews/product/ridgebot",
+      "rating": 4.7,
+      "review_count": 15,
+      "vendor": "Ridge Security",
+      "description": "RidgeBot by Ridge Security uses AI to automate security validation and provides automated penetration testing as well as continuous vulnerabilities validation. RidgeBot delivers continuous threat exposure management by automatically testing an organization’s entire Internet Protocol(IP)-based attack surfaces, including network infrastructure, applications, websites, IoT, and OT. RidgeBot pinpoints the most critical vulnerabilities (CVE based and non-CVE based) using ethical hacking techniques. RidgeBot maintains a library of over 36,000 plugins to launch complex penetration tests and attack simulations, with detailed reporting of results and remediation recommendation.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "Reach Security",
+      "slug": "reach-security-294493210",
+      "url": "https://www.gartner.com/reviews/product/reach-security-294493210",
+      "rating": 4.8,
+      "review_count": 13,
+      "vendor": "Reach Security",
+      "description": "Reach Security is a software designed to manage and secure digital environments against unauthorized access and cyber threats. The software offers features such as identity and access management, threat detection, and automated response capabilities toprotect sensitive information. It facilitates streamlined monitoring and incident reporting to support compliance requirements and minimize security risks. Reach Security addresses the business need for robust cybersecurity measures, helping organizations safeguard data and manage security operations efficiently across their technology infrastructure.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 110
+    },
+    {
+      "product": "CrowdStrike Falcon Exposure Management",
+      "slug": "crowdstrike-falcon-exposure-management",
+      "url": "https://www.gartner.com/reviews/product/crowdstrike-falcon-exposure-management",
+      "rating": 4.7,
+      "review_count": 78,
+      "vendor": "CrowdStrike",
+      "description": "CrowdStrike Falcon Exposure Management is a software designed to help organizations identify, assess, and manage vulnerabilities across their digital assets. It provides continuous visibility into potential attack surfaces by mapping assets, monitoring exposures, and prioritizingrisks based on severity and context. The software integrates threat intelligence and security posture evaluation to streamline the remediation process by highlighting critical vulnerabilities and offering actionable insights. It assists security teams in reducing the likelihood of breaches by enabling proactive management of security gaps, unmanaged assets, and misconfigurations. The software supports compliance efforts and operational efficiency by automating asset discovery and risk assessment processes within an organization’s infrastructure.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "XM Cyber Exposure Management Platform",
+      "slug": "xm-cyber-exposure-management-platform",
+      "url": "https://www.gartner.com/reviews/product/xm-cyber-exposure-management-platform",
+      "rating": 4.5,
+      "review_count": 38,
+      "vendor": "XM Cyber",
+      "description": "XM Cyber Exposure Management Platform is a software designed to continuously identify, analyze, and prioritize security risks within enterprise environments. It models potential attack paths across hybrid networks, highlighting vulnerabilities and misconfigurations that could beexploited by threats. The software integrates data from multiple security tools to provide actionable insights, focusing remediation efforts on issues that pose the highest risk to critical assets. XM Cyber Exposure Management Platform aims to improve the efficiency of security operations by automating risk prioritization and streamlining incident response processes, helping organizations to mitigate threats before they can impact business operations.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "Qualys Enterprise TruRisk Platform",
+      "slug": "qualys-enterprise-trurisk-platform",
+      "url": "https://www.gartner.com/reviews/product/qualys-enterprise-trurisk-platform",
+      "rating": 4.6,
+      "review_count": 42,
+      "vendor": "Qualys",
+      "description": "Qualys Enterprise TruRisk Platform is a software designed to help organizations identify, assess, and manage cybersecurity risks across their IT environments. The software consolidates asset inventory, vulnerability management, and risk assessment into a unified solutionthat integrates with enterprise security tools. It enables continuous monitoring of networks, applications, and endpoints to detect vulnerabilities and misconfigurations. The software provides actionable insights for prioritizing remediation tasks based on risk scores and asset criticality. Through automation and customizable reporting features, it streamlines compliance requirements and supports decision-making for security teams. This platform addresses the business problem of reducing exposure to cyber threats and improving operational security posture.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 110
+    },
+    {
+      "product": "ArmorCode Platform",
+      "slug": "armorcode-platform",
+      "url": "https://www.gartner.com/reviews/product/armorcode-platform",
+      "rating": 4.8,
+      "review_count": 25,
+      "vendor": "ArmorCode",
+      "description": "ArmorCode Platform is a software that delivers centralized application security posture management by integrating multiple security tools, processes, and workflows. The software aggregates vulnerabilities and findings from different sources to provide unified visibility and prioritizationof risks. It enables organizations to automate remediation, track security tasks, and coordinate communication between development and security teams. The platform facilitates policy enforcement and governance, supporting scalable management of security issues across cloud and on-premises environments. ArmorCode Platform helps organizations streamline operations, improve compliance, and reduce manual effort associated with securing software development lifecycle.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "HivePro Uni5 Xposure",
+      "slug": "hivepro-uni5-xposure",
+      "url": "https://www.gartner.com/reviews/product/hivepro-uni5-xposure",
+      "rating": 4.9,
+      "review_count": 19,
+      "vendor": "Hive Pro",
+      "description": "Uni5 Xposure is an end-to-end Threat Exposure Management platform. Embedded are both Adversarial Exposue Validation (AEV) and Exposure Assessment (EA). EA specifically identifies where your organization is exposed to real-world threats, tests security controls againstpotential exploitation, and guides teams in eliminating high-priority risks before they’re breached. It unifies CAASM and EASM to deliver complete, real-time asset visibility across internal and external surfaces, uses embedded agentless scanners for frictionless coverage, and integrates threat, vulnerability, and patch intelligence from HiveForce Labs to drive accurate, risk-based prioritization. Built-in breach and attack simulation validates control effectiveness under real-world conditions, while dynamic exposure scoring adapts continuously based on exploitability, asset criticality, and business impact. The result: fewer blind spots, faster mitigation, and smarter, risk-aligned decisions, all from a single platform.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 110
+    },
+    {
+      "product": "Tenable One",
+      "slug": "tenable-one-962082296",
+      "url": "https://www.gartner.com/reviews/product/tenable-one-962082296",
+      "rating": 4.6,
+      "review_count": 81,
+      "vendor": "Tenable",
+      "description": "Tenable One is an AI-powered exposure management platform that radically unifies security visibility, insight and action across your existing tools, and the modern attack surface – clouds, IT, OT, IoT, applications and identities. Detailed mappingof asset, identity and risk relationships empowers security analysts with the attacker’s perspective, prioritizing viable attack paths and toxic risk that can materially impact the business, before attacks begin. Workflow automation, and consistent, business-aligned metrics and reporting improve efficiency and communication across teams, reducing risk exposure, while enabling targeted use of resources and budget where they matter most. With the rich technical and business context provided by Tenable One, organizations report significant improvement in visibility across the attack surface, less time spent aggregating data for investigation and reporting, reduced SOC ticket volume, and lower cost through consolidation of redundant tools.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 110
+    },
+    {
+      "product": "OctoXLabs",
+      "slug": "octoxlabs-760508448",
+      "url": "https://www.gartner.com/reviews/product/octoxlabs-760508448",
+      "rating": 4.8,
+      "review_count": 18,
+      "vendor": "OctoXLabs",
+      "description": "OctoXLabs CAASM Platform is a software designed to enhance cyber asset visibility, management, and security for organizations. The software aggregates data from various IT, cloud, and security tools to provide a centralized view of cyberassets, including hardware, software, users, and associated risks. It supports automated data correlation and identifies gaps in asset inventories, access controls, and vulnerability exposures. The software enables security teams to streamline asset-related workflows, monitor configuration compliance, manage incident response, and remediate risks effectively. Its architecture assists businesses in addressing challenges related to asset discovery, risk prioritization, and continuous security posture improvement within complex hybrid environments.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 110
+    },
+    {
+      "product": "Cye Platform",
+      "slug": "cye-platform",
+      "url": "https://www.gartner.com/reviews/product/cye-platform",
+      "rating": 4.6,
+      "review_count": 16,
+      "vendor": "CYE",
+      "description": "Cye is an exposure management platform that gives security leaders the confidence to reduce cyber exposure with smart, defensible, ROI-driven decisions.The platform minimizes time to clarity and action with AI-driven data ingestion from virtuallyany source, attack graphs that reflect real-world exploitability across the organization’s environment, and a Cye AI Agent that accelerates insights and decision-making grounded in the organization’s data.For business-aligned prioritization, Cye quantifies exposure in business terms by calculating the likelihood and potential cost of breach. Teams turn findings into prioritized mitigation plans and operationalize remediation through integrations, reducing time from assessment to action.Continuous NIST-mapped maturity tracking, benchmarking, and board-ready automated reporting align stakeholders and demonstrate progress.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "vRx",
+      "slug": "vrx",
+      "url": "https://www.gartner.com/reviews/product/vrx",
+      "review_count": 12,
+      "vendor": "Vicarius",
+      "description": "vRx is a vulnerability management software developed by Vicarius that focuses on identifying, prioritizing, and remediating security risks across IT assets. The software enables organizations to scan for vulnerabilities within operating systems and applications, evaluatethreats based on asset criticality, and automate remediation processes without reliance on network signatures or prior threat knowledge. vRx provides real-time visibility into risk exposures and offers patch management capabilities to address security gaps. The software is designed to help businesses reduce the attack surface and maintain compliance with security standards by facilitating continuous monitoring and prioritization of vulnerability remediation tasks.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "Intruder",
+      "slug": "intruder-297105307",
+      "url": "https://www.gartner.com/reviews/product/intruder-297105307",
+      "rating": 4.6,
+      "review_count": 11,
+      "vendor": "Intruder",
+      "description": "Intruder helps lean security teams proactively uncover and fix weaknesses by unifying attack surface management, cloud security and continuous vulnerability scanning in one intuitive platform. With compliance-ready reports and actionable results prioritized by severity andexploit likelihood, Intruder helps 3,000+ customers focus on fixing what matters. Integrating seamlessly with AWS, Azure, Google Cloud, Slack, Jira and more, Intruder makes exposure management simple, effective and scalable for growing teams.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 110
+    },
+    {
+      "product": "Cymulate Exposure Management Platform",
+      "slug": "cymulate-exposure-management-platform",
+      "url": "https://www.gartner.com/reviews/product/cymulate-exposure-management-platform",
+      "rating": 4.3,
+      "review_count": 9,
+      "vendor": "Cymulate",
+      "description": "Cymulate is an exposure management platform designed to validate threats, prioritize validated exposures, and optimize threat resilience. It continuously tests how well your security controls prevent and detect real-world attacks using an extensive, production-safe attacklibrary mapped to the full kill chain and the MITRE ATT&CK framework. By combining these validation insights with vulnerability and asset data, Cymulate reveals what is truly exploitable and prioritizes exposures based on proven control performance, threat intel, and business context. The platform provides actionable guidance—IoCs, control updates, and new detection rules—and integrates with SIEM, XDR, EDR, and VM tools. Cymulate helps organizations ensure security controls perform as expected and focus resources on the risks that matter most.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "Zafran Threat Exposure Management Platform",
+      "slug": "zafran-threat-exposure-management-platform",
+      "url": "https://www.gartner.com/reviews/product/zafran-threat-exposure-management-platform",
+      "rating": 4.9,
+      "review_count": 9,
+      "vendor": "Zafran Security",
+      "description": "Zafran Threat Exposure Management Platform is a software designed to help organizations identify, prioritize, and manage cyber risks across their digital environment. The software aggregates vulnerability data from multiple sources, automates asset discovery, and analyzessecurity gaps to provide actionable insights. Its features include continuous monitoring, risk scoring, and remediation guidance to support informed decision-making in security operations. Zafran Threat Exposure Management Platform assists businesses in reducing their attack surface, optimizing vulnerability management processes, and aligning security measures with organizational risk tolerance. The software is intended to improve overall cybersecurity posture by streamlining exposure detection and response efforts.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 110
+    },
+    {
+      "product": "Brinqa Unified Exposure Management Platform",
+      "slug": "brinqa-unified-exposure-management-platform",
+      "url": "https://www.gartner.com/reviews/product/brinqa-unified-exposure-management-platform",
+      "rating": 3.9,
+      "review_count": 8,
+      "vendor": "Brinqa",
+      "description": "Threat exposure aggregation platform for high volume, complex enterprises to centralize, normalize, and enrich disparate vulnerability, business, and threat data so that they can hold their remediation teams accountable to SLAs, advise their business stakeholderson vulnerability risk tolerance, and get more done with the security team they already have. Brinqa empowers you to aggregate every detected vulnerability; automate prioritization, ticketing, and reports; and accelerates business risk reduction at scale.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "Cogent Platform",
+      "slug": "cogent-platform",
+      "url": "https://www.gartner.com/reviews/product/cogent-platform",
+      "review_count": 8,
+      "vendor": "Cogent Security",
+      "description": "Cogent Platform is a software designed to centralize and automate security operations for organizations. It streamlines case management, incident tracking, and investigation processes by integrating data from multiple sources, including security sensors, access control systems,and video surveillance. The software offers features for managing workflow, visualizing incidents, and maintaining audit trails, supporting teams in documenting and resolving security events efficiently. Cogent Platform enables a unified approach to risk management and compliance by providing analytical tools and reporting capabilities. The software assists businesses in enhancing situational awareness and optimizing decision-making within physical security environments, addressing the challenge of fragmented security information and operational inefficiencies.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 110
+    },
+    {
+      "product": "Armis Centrix",
+      "slug": "armis-centrix",
+      "url": "https://www.gartner.com/reviews/product/armis-centrix",
+      "rating": 4.3,
+      "review_count": 6,
+      "vendor": "Armis",
+      "description": "Armis Centrix for Asset Management and Security is a solution that helps organizations manage and secure their connected assets across IT, OT, IoT, medical device environments whether they are physical, virtual or a combination. Itprovides capabilities for asset discovery, classification, and tracking to improve visibility and support informed decision-making. The solution includes analytics and security features for real-time monitoring, threat detection, and response, helping organizations reduce cyber risks and maintain operational efficiency. It integrates with existing IT and security systems to support comprehensive asset governance and risk management.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "Nucleus Security Platform",
+      "slug": "nucleus-security-platform",
+      "url": "https://www.gartner.com/reviews/product/nucleus-security-platform",
+      "rating": 4.7,
+      "review_count": 6,
+      "vendor": "Nucleus",
+      "description": "Nucleus Security Platform is a software designed to centralize and automate vulnerability management across diverse security tools and sources. The software aggregates vulnerability data from scanners and repositories, enabling organizations to prioritize remediation efforts andmanage security workflows. It facilitates collaboration by providing customizable dashboards and reporting features, helping teams coordinate their responses to security issues. The software integrates with ticketing and notification systems, allowing for streamlined tracking and communication. By unifying risk assessment and response activities, Nucleus Security Platform addresses the business problem of fragmented vulnerability management, improving the efficiency and consistency of security operations.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 110
+    },
+    {
+      "product": "Seemplicity",
+      "slug": "seemplicity-1627297390",
+      "url": "https://www.gartner.com/reviews/product/seemplicity-1627297390",
+      "rating": 4.3,
+      "review_count": 6,
+      "vendor": "Seemplicity",
+      "description": "Seemplicity Exposure Assessment Platform delivers a unified approach to identifying, prioritizing, and remediating security exposures across the enterprise. Purpose-built for security, risk, and IT teams, the platform consolidates findings from multiple security tools into asingle, contextualized view, streamlining workflows, breaking down silos, and accelerating time-to-remediation. By providing actionable insights and cross-domain risk visibility, Seemplicity empowers organizations to move from reactive vulnerability management to proactive exposure reduction, improving overall security posture while reducing operational overhead.",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 110
+    },
+    {
+      "product": "Dynatrace",
+      "slug": "dynatrace-1740977225",
+      "url": "https://www.gartner.com/reviews/product/dynatrace-1740977225",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "RedSeal Platform",
+      "slug": "redseal-platform",
+      "url": "https://www.gartner.com/reviews/product/redseal-platform",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 30
+    },
+    {
+      "product": "Reclaim Security",
+      "slug": "reclaim-security-1511679728",
+      "url": "https://www.gartner.com/reviews/product/reclaim-security-1511679728",
+      "market": "exposure-assessment-platforms",
+      "total_reviews_crawled": 50
+    }
+  ]
+}

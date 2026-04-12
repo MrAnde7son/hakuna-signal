@@ -1,0 +1,612 @@
+{
+  "product": "Sevco Platform",
+  "slug": "sevco-platform",
+  "url": "https://www.gartner.com/reviews/product/sevco-platform",
+  "review_count": 6,
+  "vendor": "Sevco Security",
+  "description": "The Sevco Exposure Assessment Platform (EAP) helps enterprises manage Continuous Threat Exposure Management (CTEM) programs by scoping the attack surface, prioritizing exposures, and enabling remediation. The Sevco EAP unifies data from siloed security tools, monitorscritical risk, and proactively strengthens security posture. Gain visibility across the entire attack surface: internal, external, cloud, end users. Prioritize exposures: misconfigurations, vulnerabilities, controls gaps. Streamline cross-functional remediation: automated actions, workflows, resolution tracking. CISOs trust Sevco to reduce detection and response times for more effective exposure management.",
+  "market": "cyber-asset-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting”",
+      "reviewer": "CISO1B - 3B USD, Banking",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "reviewer": "IT Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "reviewer": "SECURITY ENGINEER10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "Information Security Engineer50M-1B USDBankingReview Source",
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "reviewer": "Sr Security Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "“Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting”",
+      "reviewer": "CISO1B - 3B USD, Banking",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "reviewer": "IT Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "reviewer": "SECURITY ENGINEER10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "Information Security Engineer50M-1B USDBankingReview Source",
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "reviewer": "Sr Security Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "“Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting”",
+      "reviewer": "CISO1B - 3B USD, Banking",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "reviewer": "IT Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "reviewer": "SECURITY ENGINEER10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "Information Security Engineer50M-1B USDBankingReview Source",
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "reviewer": "Sr Security Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "“Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting”",
+      "reviewer": "CISO1B - 3B USD, Banking",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "reviewer": "IT Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "reviewer": "SECURITY ENGINEER10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "Information Security Engineer50M-1B USDBankingReview Source",
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "reviewer": "Sr Security Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "“Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting”",
+      "reviewer": "CISO1B - 3B USD, Banking",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "reviewer": "IT Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "reviewer": "SECURITY ENGINEER10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "Information Security Engineer50M-1B USDBankingReview Source",
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "reviewer": "Sr Security Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "“Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting”",
+      "reviewer": "CISO1B - 3B USD, Banking",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "reviewer": "IT Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "reviewer": "SECURITY ENGINEER10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "Information Security Engineer50M-1B USDBankingReview Source",
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "reviewer": "Sr Security Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "“Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting”",
+      "reviewer": "CISO1B - 3B USD, Banking",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "reviewer": "IT Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "reviewer": "SECURITY ENGINEER10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "Information Security Engineer50M-1B USDBankingReview Source",
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "reviewer": "Sr Security Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "“Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting”",
+      "reviewer": "CISO1B - 3B USD, Banking",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "reviewer": "IT Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "reviewer": "SECURITY ENGINEER10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "Information Security Engineer50M-1B USDBankingReview Source",
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "reviewer": "Sr Security Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "“Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting”",
+      "reviewer": "CISO1B - 3B USD, Banking",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "reviewer": "IT Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "reviewer": "SECURITY ENGINEER10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "Information Security Engineer50M-1B USDBankingReview Source",
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "reviewer": "Sr Security Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "“Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting”",
+      "reviewer": "CISO1B - 3B USD, Banking",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco Enables Cross-Correlation of Inventories for Actionable Asset Reporting",
+      "rating": 5.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "reviewer": "IT Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: Reliable, Insightful and Easy to Use",
+      "rating": 5.0,
+      "date": "Mar 26, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "reviewer": "SECURITY ENGINEER10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco: A Benchmark in Exceptional Vendor Collaboration and Vulnerability Reporting",
+      "rating": 5.0,
+      "date": "Mar 4, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "Information Security Engineer50M-1B USDBankingReview Source",
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco's Solution: Boosts Asset Tracking, Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Mar 6, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "reviewer": "Sr Security Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jan 16, 2025"
+    },
+    {
+      "title": "Sevco Provides Excellent Agent Visibility",
+      "rating": 5.0,
+      "date": "Jan 16, 2025"
+    }
+  ],
+  "total_reviews_crawled": 110
+}

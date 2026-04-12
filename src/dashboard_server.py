@@ -257,6 +257,14 @@ def api_intel(qs: dict) -> tuple[int, dict]:
     return HTTPStatus.OK, aggregate_profiles(filtered)
 
 
+def api_landscape(_qs: dict) -> tuple[int, dict]:
+    """Return the Gartner competitive landscape data."""
+    result = fetch_parsed("gartner_landscape.json")
+    if result is None:
+        return HTTPStatus.NOT_FOUND, {"error": "gartner_landscape.json not found"}
+    return HTTPStatus.OK, result
+
+
 def api_sources(_qs: dict) -> tuple[int, dict]:
     items = fetch_parsed(DATA_BLOB)
     if items is None:
@@ -282,6 +290,7 @@ API_ROUTES = {
     "/api/opportunities/ids": api_opportunity_ids,
     "/api/sources": api_sources,
     "/api/intel": api_intel,
+    "/api/landscape": api_landscape,
 }
 
 

@@ -1,0 +1,179 @@
+[
+  {
+    "product": "Breeze Platform",
+    "slug": "breeze-platform",
+    "url": "https://www.gartner.com/reviews/product/breeze-platform",
+    "rating": 4.8,
+    "review_count": 19,
+    "vendor": "Breeze Security"
+  },
+  {
+    "product": "ALVAO Asset Management",
+    "slug": "alvao-asset-management",
+    "url": "https://www.gartner.com/reviews/product/alvao-asset-management",
+    "rating": 4.9,
+    "review_count": 14,
+    "vendor": "ALVAO",
+    "description": "ALVAO IT Asset Management (ITAM) gives organizations full lifecycle visibility and control of IT hardware and software, cutting down manual work with an intuitive tree-structured interface. With real‑time discovery via network monitoring systems, Agent, SNMP,Intune, and SCCM integration, it simplifies audits, optimizes licenses (including Microsoft 365), and supports compliance with Cyber Essentials, NIST, NIS2, and DORA. A visual CMDB maps dependencies for faster incident resolution and change planning, helping IT teams stay efficient, compliant, and cost-effective."
+  },
+  {
+    "product": "runZero",
+    "slug": "runzero-1617732381",
+    "url": "https://www.gartner.com/reviews/product/runzero-1617732381",
+    "rating": 4.6,
+    "review_count": 38,
+    "vendor": "runZero",
+    "description": "runZero is a software designed for asset discovery and inventory management within enterprise networks. It provides comprehensive visibility into connected devices by scanning and identifying hardware, software, and network attributes without requiring credentials or agents.runZero helps organizations locate unmanaged, unknown, or rogue assets and maps connections across networks for security and operational oversight. The software integrates with various security and IT management tools, enabling correlation and normalization of asset data. This facilitates the detection of vulnerabilities, misconfigurations, and compliance gaps. By automating asset inventory and network mapping, the software addresses challenges of shadow IT and asset sprawl in complex environments."
+  },
+  {
+    "product": "OctoXLabs",
+    "slug": "octoxlabs-760508448",
+    "url": "https://www.gartner.com/reviews/product/octoxlabs-760508448",
+    "rating": 4.9,
+    "review_count": 89,
+    "vendor": "OctoXLabs",
+    "description": "OctoXLabs CAASM Platform is a software designed to enhance cyber asset visibility, management, and security for organizations. The software aggregates data from various IT, cloud, and security tools to provide a centralized view of cyberassets, including hardware, software, users, and associated risks. It supports automated data correlation and identifies gaps in asset inventories, access controls, and vulnerability exposures. The software enables security teams to streamline asset-related workflows, monitor configuration compliance, manage incident response, and remediate risks effectively. Its architecture assists businesses in addressing challenges related to asset discovery, risk prioritization, and continuous security posture improvement within complex hybrid environments."
+  },
+  {
+    "product": "ThreatAware",
+    "slug": "threataware",
+    "url": "https://www.gartner.com/reviews/product/threataware",
+    "rating": 4.7,
+    "review_count": 24,
+    "vendor": "ThreatAware",
+    "description": "ThreatAware is a software designed to help organizations monitor and manage their cybersecurity posture by providing central visibility of critical assets, people, and processes. The software integrates with existing security solutions to surface gaps, suchas missing patches or policy failures, ensuring that compliance and security measures remain effective. ThreatAware automates the discovery and reporting of vulnerabilities and compliance issues, allowing businesses to identify risks and coordinate responses efficiently. The software supports the consolidation of data from multiple tools to create a single view, aiding security teams in reducing manual effort and improving incident detection and resolution. It is used to enhance oversight and control in cybersecurity management, helping organizations maintain robust protection for their digital infrastructure."
+  },
+  {
+    "product": "Lansweeper",
+    "slug": "lansweeper-393109405",
+    "url": "https://www.gartner.com/reviews/product/lansweeper-393109405",
+    "rating": 4.3,
+    "review_count": 233,
+    "vendor": "Lansweeper",
+    "description": "Lansweeper helps organizations see, understand, and make confident decisions about their technology estate across IT, OT, IoT, and Cloud. Lansweeper automatically discovers and inventories every asset: hardware, software, and user, then connects that data toinsights about usage, lifecycle, and risk. This is to create what the vendor describes as Cyber Asset Intelligence: a trusted foundation of knowledge that turns raw inventory data into clear, actionable understanding."
+  },
+  {
+    "product": "Qualys CyberSecurity Asset Management",
+    "slug": "qualys-cybersecurity-asset-management",
+    "url": "https://www.gartner.com/reviews/product/qualys-cybersecurity-asset-management",
+    "rating": 4.3,
+    "review_count": 83,
+    "vendor": "Qualys",
+    "description": "Qualys CyberSecurity Asset Management software provides automated discovery, inventory, and classification of IT, cloud, and internet-connected assets within an organization. The software identifies devices across the environment, associates context such as asset ownership and location,and tracks changes to configurations and vulnerabilities. It integrates asset data with security monitoring and compliance workflows to help organizations prioritize remediation efforts and reduce risk exposure. The software delivers visibility into unmanaged or unauthorized assets, supports policy enforcement, and enhances the response to potential cyber threats by allowing organizations to continuously monitor the security posture of their asset landscape."
+  },
+  {
+    "product": "Armis Centrix",
+    "slug": "armis-centrix",
+    "url": "https://www.gartner.com/reviews/product/armis-centrix",
+    "rating": 4.4,
+    "review_count": 74,
+    "vendor": "Armis",
+    "description": "Armis Centrix for Asset Management and Security is a solution that helps organizations manage and secure their connected assets across IT, OT, IoT, medical device environments whether they are physical, virtual or a combination. Itprovides capabilities for asset discovery, classification, and tracking to improve visibility and support informed decision-making. The solution includes analytics and security features for real-time monitoring, threat detection, and response, helping organizations reduce cyber risks and maintain operational efficiency. It integrates with existing IT and security systems to support comprehensive asset governance and risk management."
+  },
+  {
+    "product": "Axonius Asset Cloud",
+    "slug": "axonius-asset-cloud",
+    "url": "https://www.gartner.com/reviews/product/axonius-asset-cloud",
+    "rating": 4.4,
+    "review_count": 47,
+    "vendor": "Axonius",
+    "description": "Axonius Platform is a software designed to provide comprehensive asset management and cybersecurity functionality for organizations. The software aggregates data from various sources across devices, cloud services, and network infrastructure to deliver a centralized viewof assets. It automates the detection of security gaps by correlating asset inventory with policy enforcement and compliance requirements. Axonius Platform assists organizations in managing software and hardware assets, uncovering unmanaged devices, and facilitating response to vulnerabilities. Its features include integration with multiple data sources, customizable policies, and reporting capabilities to support IT and security teams in streamlining asset visibility and operational workflows."
+  },
+  {
+    "product": "JupiterOne",
+    "slug": "jupiterone",
+    "url": "https://www.gartner.com/reviews/product/jupiterone",
+    "rating": 4.4,
+    "review_count": 44,
+    "vendor": "JupiterOne",
+    "description": "JupiterOne is a cyber asset management software designed to assist organizations in gaining visibility and control over their digital environment. This software enables users to centralize and analyze data regarding their assets, including cloud infrastructure,devices, identities, applications, and network resources. JupiterOne provides automated relationship mapping among assets, facilitating security operations, compliance initiatives, and risk assessments. It supports asset inventory, policy monitoring, and incident response capabilities. The software aims to address challenges in security data aggregation, enabling teams to quickly identify gaps, monitor changes, and enforce security policies across complex technology landscapes."
+  },
+  {
+    "product": "Splunk Asset and Risk Intelligence",
+    "slug": "splunk-asset-and-risk-intelligence",
+    "url": "https://www.gartner.com/reviews/product/splunk-asset-and-risk-intelligence",
+    "rating": 4.4,
+    "review_count": 42,
+    "vendor": "Cisco Systems (Splunk)",
+    "description": "Splunk Asset and Risk Intelligence software focuses on asset visibility and risk management within enterprise environments. It aggregates and normalizes data related to physical and digital assets, delivering insights into inventory, asset health, and associatedrisk exposure. The software provides features for continuous monitoring of critical assets, assessment of asset vulnerabilities, and automated compliance reporting. Using advanced analytics, it identifies risk factors linked to asset configuration and behavior, assisting organizations in maintaining regulatory compliance and reducing operational and security risks. The software integrates with various data sources to offer centralized dashboards that support informed decision-making for risk mitigation and asset management."
+  },
+  {
+    "product": "Surface Command",
+    "slug": "surface-command",
+    "url": "https://www.gartner.com/reviews/product/surface-command",
+    "rating": 4.4,
+    "review_count": 22,
+    "vendor": "Rapid7",
+    "description": "Surface Command is a software developed by Rapid7 designed to support organizations in managing and minimizing exposure to cybersecurity threats. The software provides visibility into external digital assets and monitors changes in attack surfaces, helpingteams identify potential vulnerabilities and areas for improvement. It enables continuous inventory and assessment of internet-facing assets, prioritizes risks based on context, and streamlines workflows for remediation. The software addresses the business challenge of maintaining a secure external footprint, reducing the risk of intrusion and supporting compliance efforts by offering timely insights and actionable data for security teams."
+  },
+  {
+    "product": "Balbix",
+    "slug": "balbix-663913907",
+    "url": "https://www.gartner.com/reviews/product/balbix-663913907",
+    "review_count": 11,
+    "vendor": "Safe Security",
+    "description": "The Balbix product has been absorbed into the SAFE One Platform, an AI-native SaaS platform developed by SAFE Security to measure, manage, and mitigate cyber risk across an organization's digital landscape. The platform unifies CyberRisk Quantification (CRQ), Continuous Threat Exposure Management (CTEM), and Third-Party Risk Management (TPRM) into a single data model, enabling organizations to prioritize remediation efforts and align security investments with business impact. Using autonomous agentic workflows and over 150 API integrations, SAFE One ingests real-time telemetry from existing security tools and external feeds to provide a continuous view of risk in financial terms. Aligned with industry-accepted open standards, FAIR, MITRE ATT&CK, and STIX, SAFE One helps businesses prioritize remediation efforts through actionable intelligence based on quantified business impact rather than technical severity alone."
+  },
+  {
+    "product": "AllSecureX",
+    "slug": "allsecurex-1691142553",
+    "url": "https://www.gartner.com/reviews/product/allsecurex-1691142553",
+    "rating": 4.4,
+    "review_count": 9,
+    "vendor": "AllSecureX",
+    "description": "AllSecureX is a software designed to provide comprehensive cybersecurity management for organizations. The software offers features such as asset inventory, vulnerability management, compliance tracking, and threat intelligence integration. AllSecureX enables users to monitor their networks,identify potential security risks, and manage remediation actions through a centralized platform. The software supports various integrations to streamline workflow and enhances incident detection and response capabilities. By consolidating security operations, it aims to simplify risk identification and mitigation while ensuring regulatory compliance for businesses seeking to strengthen their information security posture."
+  },
+  {
+    "product": "Argos99",
+    "slug": "argos99",
+    "url": "https://www.gartner.com/reviews/product/argos99",
+    "rating": 4.6,
+    "review_count": 9,
+    "vendor": "Fenix24",
+    "description": "appNovi is a software designed to provide organizations with visibility into hybrid and multi-cloud environments by mapping network topology and dependencies. The software enables users to analyze and visualize network traffic flows, discover assets, andtrack application dependencies. appNovi supports incident response, vulnerability management, and segmentation projects by delivering insights into relationships between applications, workloads, and network infrastructure. It is equipped with features that facilitate network modeling, risk identification, and policy planning, aiming to help organizations optimize network security posture and streamline IT operations."
+  },
+  {
+    "product": "Essential 8 Auditor",
+    "slug": "essential-8-aditor",
+    "url": "https://www.gartner.com/reviews/product/essential-8-aditor",
+    "rating": 4.4,
+    "review_count": 7,
+    "vendor": "Huntsman Security",
+    "description": "Essential 8 Auditor delivers on-demand Threat Exposure Management, and ACSC compliance and maturity level reporting on cyber security control effectiveness, enabling organisations to quickly identify and prioritise security, compliance and resilience mitigations.It connects tosecurity management and control configurations (e.g. Active Directory/Azure, patch managers, vulnerability scanners) to derive the status of policies, controls and configurations. It uses no agents or additional scanning, making it easy to install and operate in organisations of all sizes.Clear status and maturity reports are generated for each security control providing visibility of cyber risks and operational resilience. It identifies systems, user accounts or settings that need reconfiguration, informing technical security teams on issues and executive teams on protection levels."
+  },
+  {
+    "product": "HivePro Uni5 Xposure",
+    "slug": "hivepro-uni5-xposure",
+    "url": "https://www.gartner.com/reviews/product/hivepro-uni5-xposure",
+    "rating": 4.8,
+    "review_count": 6,
+    "vendor": "Hive Pro",
+    "description": "Uni5 Xposure is an end-to-end Threat Exposure Management platform. Embedded are both Adversarial Exposue Validation (AEV) and Exposure Assessment (EA). EA specifically identifies where your organization is exposed to real-world threats, tests security controls againstpotential exploitation, and guides teams in eliminating high-priority risks before they’re breached. It unifies CAASM and EASM to deliver complete, real-time asset visibility across internal and external surfaces, uses embedded agentless scanners for frictionless coverage, and integrates threat, vulnerability, and patch intelligence from HiveForce Labs to drive accurate, risk-based prioritization. Built-in breach and attack simulation validates control effectiveness under real-world conditions, while dynamic exposure scoring adapts continuously based on exploitability, asset criticality, and business impact. The result: fewer blind spots, faster mitigation, and smarter, risk-aligned decisions, all from a single platform."
+  },
+  {
+    "product": "Panaseer Platform",
+    "slug": "panaseer-platform",
+    "url": "https://www.gartner.com/reviews/product/panaseer-platform",
+    "rating": 4.2,
+    "review_count": 6,
+    "vendor": "Panaseer",
+    "description": "Panaseer Platform is a software designed for cybersecurity and risk management, enabling organizations to automatically aggregate and analyze data from various security tools and IT assets. The software provides visibility into security controls coverage, identifiesgaps, and supports compliance reporting by integrating disparate data sources into a unified dashboard. It helps organizations measure security posture, prioritize remediation activities, and generate reports for stakeholders. The software addresses the challenge of manual and fragmented security measurement processes, facilitating data-driven decision making and continuous monitoring of security controls within complex enterprise environments."
+  },
+  {
+    "product": "Sevco Platform",
+    "slug": "sevco-platform",
+    "url": "https://www.gartner.com/reviews/product/sevco-platform",
+    "review_count": 6,
+    "vendor": "Sevco Security",
+    "description": "The Sevco Exposure Assessment Platform (EAP) helps enterprises manage Continuous Threat Exposure Management (CTEM) programs by scoping the attack surface, prioritizing exposures, and enabling remediation. The Sevco EAP unifies data from siloed security tools, monitorscritical risk, and proactively strengthens security posture. Gain visibility across the entire attack surface: internal, external, cloud, end users. Prioritize exposures: misconfigurations, vulnerabilities, controls gaps. Streamline cross-functional remediation: automated actions, workflows, resolution tracking. CISOs trust Sevco to reduce detection and response times for more effective exposure management."
+  },
+  {
+    "product": "CYRISMA",
+    "slug": "cyrisma",
+    "url": "https://www.gartner.com/reviews/product/cyrisma",
+    "rating": 4.4,
+    "review_count": 5,
+    "vendor": "Cyrisma",
+    "description": "Cyrisma is a unified platform to continuously identify and mitigate cyber risk. The software combines vulnerability management, data and asset discovery, compliance tracking, secure configuration, and dark web monitoring into one continuous experience - enablingorganizations to identify, prioritize, and remediate cyber risk efficiently."
+  }
+]

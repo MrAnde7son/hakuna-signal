@@ -1,0 +1,663 @@
+{
+  "product": "Panaseer Platform",
+  "slug": "panaseer-platform",
+  "url": "https://www.gartner.com/reviews/product/panaseer-platform",
+  "rating": 4.2,
+  "review_count": 6,
+  "vendor": "Panaseer",
+  "description": "Panaseer Platform is a software designed for cybersecurity and risk management, enabling organizations to automatically aggregate and analyze data from various security tools and IT assets. The software provides visibility into security controls coverage, identifiesgaps, and supports compliance reporting by integrating disparate data sources into a unified dashboard. It helps organizations measure security posture, prioritize remediation activities, and generate reports for stakeholders. The software addresses the challenge of manual and fragmented security measurement processes, facilitating data-driven decision making and continuous monitoring of security controls within complex enterprise environments.",
+  "market": "cyber-asset-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management”",
+      "reviewer": "GLOBAL CISO250M - 500M USD, IT Services",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "“User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities”",
+      "reviewer": "IT ASSOCIATE10B - 30B USD, Telecommunication",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "reviewer": "IT ASSOCIATE10B+ USDTelecommunicationReview Source",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "reviewer": "GLOBAL CISO50M-1B USDIT ServicesReview Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "reviewer": "IT TEAM LEADER NETWORKING AND SECURITY50M-1B USDBankingReview Source",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "reviewer": "SYSTEM ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "reviewer": "System engineer50M-1B USDIT ServicesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "“Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management”",
+      "reviewer": "GLOBAL CISO250M - 500M USD, IT Services",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "“User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities”",
+      "reviewer": "IT ASSOCIATE10B - 30B USD, Telecommunication",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "reviewer": "IT ASSOCIATE10B+ USDTelecommunicationReview Source",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "reviewer": "GLOBAL CISO50M-1B USDIT ServicesReview Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "reviewer": "IT TEAM LEADER NETWORKING AND SECURITY50M-1B USDBankingReview Source",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "reviewer": "SYSTEM ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "reviewer": "System engineer50M-1B USDIT ServicesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "“Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management”",
+      "reviewer": "GLOBAL CISO250M - 500M USD, IT Services",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "“User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities”",
+      "reviewer": "IT ASSOCIATE10B - 30B USD, Telecommunication",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "reviewer": "IT ASSOCIATE10B+ USDTelecommunicationReview Source",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "reviewer": "GLOBAL CISO50M-1B USDIT ServicesReview Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "reviewer": "IT TEAM LEADER NETWORKING AND SECURITY50M-1B USDBankingReview Source",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "reviewer": "SYSTEM ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "reviewer": "System engineer50M-1B USDIT ServicesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "“Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management”",
+      "reviewer": "GLOBAL CISO250M - 500M USD, IT Services",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "“User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities”",
+      "reviewer": "IT ASSOCIATE10B - 30B USD, Telecommunication",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "reviewer": "IT ASSOCIATE10B+ USDTelecommunicationReview Source",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "reviewer": "GLOBAL CISO50M-1B USDIT ServicesReview Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "reviewer": "IT TEAM LEADER NETWORKING AND SECURITY50M-1B USDBankingReview Source",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "reviewer": "SYSTEM ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "reviewer": "System engineer50M-1B USDIT ServicesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "“Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management”",
+      "reviewer": "GLOBAL CISO250M - 500M USD, IT Services",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "“User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities”",
+      "reviewer": "IT ASSOCIATE10B - 30B USD, Telecommunication",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "reviewer": "IT ASSOCIATE10B+ USDTelecommunicationReview Source",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "reviewer": "GLOBAL CISO50M-1B USDIT ServicesReview Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "reviewer": "IT TEAM LEADER NETWORKING AND SECURITY50M-1B USDBankingReview Source",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "reviewer": "SYSTEM ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "reviewer": "System engineer50M-1B USDIT ServicesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "“Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management”",
+      "reviewer": "GLOBAL CISO250M - 500M USD, IT Services",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "“User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities”",
+      "reviewer": "IT ASSOCIATE10B - 30B USD, Telecommunication",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "reviewer": "IT ASSOCIATE10B+ USDTelecommunicationReview Source",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "reviewer": "GLOBAL CISO50M-1B USDIT ServicesReview Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "reviewer": "IT TEAM LEADER NETWORKING AND SECURITY50M-1B USDBankingReview Source",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "reviewer": "SYSTEM ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "reviewer": "System engineer50M-1B USDIT ServicesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "“Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management”",
+      "reviewer": "GLOBAL CISO250M - 500M USD, IT Services",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "“User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities”",
+      "reviewer": "IT ASSOCIATE10B - 30B USD, Telecommunication",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "reviewer": "IT ASSOCIATE10B+ USDTelecommunicationReview Source",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "reviewer": "GLOBAL CISO50M-1B USDIT ServicesReview Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "reviewer": "IT TEAM LEADER NETWORKING AND SECURITY50M-1B USDBankingReview Source",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "reviewer": "SYSTEM ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "reviewer": "System engineer50M-1B USDIT ServicesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "“Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management”",
+      "reviewer": "GLOBAL CISO250M - 500M USD, IT Services",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "“User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities”",
+      "reviewer": "IT ASSOCIATE10B - 30B USD, Telecommunication",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "reviewer": "IT ASSOCIATE10B+ USDTelecommunicationReview Source",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "reviewer": "GLOBAL CISO50M-1B USDIT ServicesReview Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "reviewer": "IT TEAM LEADER NETWORKING AND SECURITY50M-1B USDBankingReview Source",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "reviewer": "SYSTEM ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "reviewer": "System engineer50M-1B USDIT ServicesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "“Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management”",
+      "reviewer": "GLOBAL CISO250M - 500M USD, IT Services",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "“User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities”",
+      "reviewer": "IT ASSOCIATE10B - 30B USD, Telecommunication",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "reviewer": "IT ASSOCIATE10B+ USDTelecommunicationReview Source",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "reviewer": "GLOBAL CISO50M-1B USDIT ServicesReview Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "reviewer": "IT TEAM LEADER NETWORKING AND SECURITY50M-1B USDBankingReview Source",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "reviewer": "SYSTEM ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "reviewer": "System engineer50M-1B USDIT ServicesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "“Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management”",
+      "reviewer": "GLOBAL CISO250M - 500M USD, IT Services",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "“User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities”",
+      "reviewer": "IT ASSOCIATE10B - 30B USD, Telecommunication",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "reviewer": "IT ASSOCIATE10B+ USDTelecommunicationReview Source",
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "User-Friendly Dashboard Faces Criticism Surrounding Customisation Capabilities",
+      "rating": 3.0,
+      "date": "Nov 7, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "reviewer": "GLOBAL CISO50M-1B USDIT ServicesReview Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Comprehensive Security Oversight Enables Efficient Risk Assessment and Asset Management",
+      "rating": 5.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "reviewer": "IT TEAM LEADER NETWORKING AND SECURITY50M-1B USDBankingReview Source",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated GDPR Compliance Monitoring With Audit Trails and Issue Ticketing Feature",
+      "rating": 4.0,
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "reviewer": "SYSTEM ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Automated Security Metrics and Comprehensive Data Integration Highlight Platform Strengths",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "reviewer": "System engineer50M-1B USDIT ServicesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Panaseer platform:A solution for cybersecurity",
+      "rating": 3.0,
+      "date": "Feb 28, 2024"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

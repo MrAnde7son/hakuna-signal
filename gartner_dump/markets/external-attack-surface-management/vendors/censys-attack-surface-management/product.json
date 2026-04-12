@@ -1,0 +1,613 @@
+{
+  "product": "Censys Attack Surface Management",
+  "slug": "censys-attack-surface-management",
+  "url": "https://www.gartner.com/reviews/product/censys-attack-surface-management",
+  "rating": 4.5,
+  "review_count": 13,
+  "vendor": "Censys",
+  "description": "Censys Attack Surface Management is a software designed to help organizations identify, monitor, and manage internet-facing assets. The software continuously discovers external infrastructure, provides an inventory of assets, and highlights exposures and risks associated withthose assets. It offers features such as automated asset discovery, vulnerability detection, and real-time change monitoring. The software allows security and IT teams to gain visibility into unknown or unauthorized assets, reducing the risk of external threats by helping to address security gaps across digital infrastructure. Censys Attack Surface Management addresses the business problem of incomplete asset inventory and unmanaged external exposure, supporting organizations in their efforts to improve their security posture and response capabilities.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“A great tool for finding hidden risks”",
+      "reviewer": "DIRECTOR, IT OPERATIONS1B - 3B USD, Insurance (except health)",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT OPERATIONS1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY ANALYST<50M USDIT ServicesReview Source",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "reviewer": "OT SECURITY50M-1B USDManufacturingReview Source",
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST GRC10B+ USDBankingReview Source",
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "“A great tool for finding hidden risks”",
+      "reviewer": "DIRECTOR, IT OPERATIONS1B - 3B USD, Insurance (except health)",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT OPERATIONS1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY ANALYST<50M USDIT ServicesReview Source",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "reviewer": "OT SECURITY50M-1B USDManufacturingReview Source",
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST GRC10B+ USDBankingReview Source",
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "“A great tool for finding hidden risks”",
+      "reviewer": "DIRECTOR, IT OPERATIONS1B - 3B USD, Insurance (except health)",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT OPERATIONS1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY ANALYST<50M USDIT ServicesReview Source",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "reviewer": "OT SECURITY50M-1B USDManufacturingReview Source",
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST GRC10B+ USDBankingReview Source",
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "“A great tool for finding hidden risks”",
+      "reviewer": "DIRECTOR, IT OPERATIONS1B - 3B USD, Insurance (except health)",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT OPERATIONS1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY ANALYST<50M USDIT ServicesReview Source",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "reviewer": "OT SECURITY50M-1B USDManufacturingReview Source",
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST GRC10B+ USDBankingReview Source",
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "“A great tool for finding hidden risks”",
+      "reviewer": "DIRECTOR, IT OPERATIONS1B - 3B USD, Insurance (except health)",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT OPERATIONS1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY ANALYST<50M USDIT ServicesReview Source",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "reviewer": "OT SECURITY50M-1B USDManufacturingReview Source",
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST GRC10B+ USDBankingReview Source",
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "“A great tool for finding hidden risks”",
+      "reviewer": "DIRECTOR, IT OPERATIONS1B - 3B USD, Insurance (except health)",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT OPERATIONS1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY ANALYST<50M USDIT ServicesReview Source",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "reviewer": "OT SECURITY50M-1B USDManufacturingReview Source",
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST GRC10B+ USDBankingReview Source",
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "“A great tool for finding hidden risks”",
+      "reviewer": "DIRECTOR, IT OPERATIONS1B - 3B USD, Insurance (except health)",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT OPERATIONS1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY ANALYST<50M USDIT ServicesReview Source",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "reviewer": "OT SECURITY50M-1B USDManufacturingReview Source",
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST GRC10B+ USDBankingReview Source",
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "“A great tool for finding hidden risks”",
+      "reviewer": "DIRECTOR, IT OPERATIONS1B - 3B USD, Insurance (except health)",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT OPERATIONS1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY ANALYST<50M USDIT ServicesReview Source",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "reviewer": "OT SECURITY50M-1B USDManufacturingReview Source",
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST GRC10B+ USDBankingReview Source",
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "“A great tool for finding hidden risks”",
+      "reviewer": "DIRECTOR, IT OPERATIONS1B - 3B USD, Insurance (except health)",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT OPERATIONS1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY ANALYST<50M USDIT ServicesReview Source",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "reviewer": "OT SECURITY50M-1B USDManufacturingReview Source",
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST GRC10B+ USDBankingReview Source",
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "“A great tool for finding hidden risks”",
+      "reviewer": "DIRECTOR, IT OPERATIONS1B - 3B USD, Insurance (except health)",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT OPERATIONS1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "A great tool for finding hidden risks",
+      "rating": 4.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Censys ASM Offers Accurate Visibility But Presents Challenges With Cost and Context",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY ANALYST<50M USDIT ServicesReview Source",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "External Asset Exposure Prioritized Despite Complexity in Advanced Use",
+      "rating": 4.0,
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "reviewer": "OT SECURITY50M-1B USDManufacturingReview Source",
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Helpful Answers Provided Quickly, But Some Features Require More Practical Examples",
+      "rating": 4.0,
+      "date": "Sep 1, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST GRC10B+ USDBankingReview Source",
+      "date": "Aug 12, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Discovery Enhances Visibility But Requires Time To Manage Data",
+      "rating": 4.0,
+      "date": "Aug 12, 2025"
+    }
+  ],
+  "total_reviews_crawled": 110
+}

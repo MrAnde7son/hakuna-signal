@@ -1,0 +1,613 @@
+{
+  "product": "Assetnote Continuous Security Platform",
+  "slug": "assetnote-continuous-security-platform",
+  "url": "https://www.gartner.com/reviews/product/assetnote-continuous-security-platform",
+  "rating": 4.4,
+  "review_count": 15,
+  "vendor": "Searchlight Cyber",
+  "description": "Assetnote Continuous Security Platform is a software designed to automate and enhance the process of external attack surface management for organizations. The software continuously monitors internet-facing assets to identify vulnerabilities, misconfigurations, and exposures. It providesreal-time visibility into asset inventory, tracks changes in the attack surface, and detects security issues that could be targeted by adversaries. By integrating with workflow tools and enabling customizable alerting, the software supports the detection and prioritization of critical risks. Assetnote Continuous Security Platform addresses the business problem of maintaining comprehensive oversight and proactive management of digital assets to reduce security risks and support ongoing compliance with security standards.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Agentless Discovery and Contextual Forensics Streamline External Asset Security Management”",
+      "reviewer": "ASSOCIATE500M - 1B USD, Media",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "reviewer": "ASSOCIATE50M-1B USDMediaReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "reviewer": "CYBER SECURITY ASSISTANT50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDMediaReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDBankingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "reviewer": "Assistant Director Of Safety And Security50M-1B USDIT ServicesReview Source",
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "“Agentless Discovery and Contextual Forensics Streamline External Asset Security Management”",
+      "reviewer": "ASSOCIATE500M - 1B USD, Media",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "reviewer": "ASSOCIATE50M-1B USDMediaReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "reviewer": "CYBER SECURITY ASSISTANT50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDMediaReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDBankingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "reviewer": "Assistant Director Of Safety And Security50M-1B USDIT ServicesReview Source",
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "“Agentless Discovery and Contextual Forensics Streamline External Asset Security Management”",
+      "reviewer": "ASSOCIATE500M - 1B USD, Media",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "reviewer": "ASSOCIATE50M-1B USDMediaReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "reviewer": "CYBER SECURITY ASSISTANT50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDMediaReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDBankingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "reviewer": "Assistant Director Of Safety And Security50M-1B USDIT ServicesReview Source",
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "“Agentless Discovery and Contextual Forensics Streamline External Asset Security Management”",
+      "reviewer": "ASSOCIATE500M - 1B USD, Media",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "reviewer": "ASSOCIATE50M-1B USDMediaReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "reviewer": "CYBER SECURITY ASSISTANT50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDMediaReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDBankingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "reviewer": "Assistant Director Of Safety And Security50M-1B USDIT ServicesReview Source",
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "“Agentless Discovery and Contextual Forensics Streamline External Asset Security Management”",
+      "reviewer": "ASSOCIATE500M - 1B USD, Media",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "reviewer": "ASSOCIATE50M-1B USDMediaReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "reviewer": "CYBER SECURITY ASSISTANT50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDMediaReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDBankingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "reviewer": "Assistant Director Of Safety And Security50M-1B USDIT ServicesReview Source",
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "“Agentless Discovery and Contextual Forensics Streamline External Asset Security Management”",
+      "reviewer": "ASSOCIATE500M - 1B USD, Media",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "reviewer": "ASSOCIATE50M-1B USDMediaReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "reviewer": "CYBER SECURITY ASSISTANT50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDMediaReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDBankingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "reviewer": "Assistant Director Of Safety And Security50M-1B USDIT ServicesReview Source",
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "“Agentless Discovery and Contextual Forensics Streamline External Asset Security Management”",
+      "reviewer": "ASSOCIATE500M - 1B USD, Media",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "reviewer": "ASSOCIATE50M-1B USDMediaReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "reviewer": "CYBER SECURITY ASSISTANT50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDMediaReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDBankingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "reviewer": "Assistant Director Of Safety And Security50M-1B USDIT ServicesReview Source",
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "“Agentless Discovery and Contextual Forensics Streamline External Asset Security Management”",
+      "reviewer": "ASSOCIATE500M - 1B USD, Media",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "reviewer": "ASSOCIATE50M-1B USDMediaReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "reviewer": "CYBER SECURITY ASSISTANT50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDMediaReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDBankingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "reviewer": "Assistant Director Of Safety And Security50M-1B USDIT ServicesReview Source",
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "“Agentless Discovery and Contextual Forensics Streamline External Asset Security Management”",
+      "reviewer": "ASSOCIATE500M - 1B USD, Media",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "reviewer": "ASSOCIATE50M-1B USDMediaReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "reviewer": "CYBER SECURITY ASSISTANT50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDMediaReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDBankingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "reviewer": "Assistant Director Of Safety And Security50M-1B USDIT ServicesReview Source",
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "“Agentless Discovery and Contextual Forensics Streamline External Asset Security Management”",
+      "reviewer": "ASSOCIATE500M - 1B USD, Media",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "reviewer": "ASSOCIATE50M-1B USDMediaReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Agentless Discovery and Contextual Forensics Streamline External Asset Security Management",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "reviewer": "CYBER SECURITY ASSISTANT50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real Time Alerts Stand Out Despite Issues With Performance and Complex Interface",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDMediaReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Powerful Asset Discovery Process complicated by noisy IP rotations",
+      "rating": 4.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDBankingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Research-Driven Vulnerability Insights Aid Remediation but UI Navigation Feels Clunky",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "reviewer": "Assistant Director Of Safety And Security50M-1B USDIT ServicesReview Source",
+      "date": "Jul 30, 2025"
+    },
+    {
+      "title": "User-Friendly Interface Benefits Security Teams Yet Could Be Simpler For Non-Experts",
+      "rating": 4.0,
+      "date": "Jul 30, 2025"
+    }
+  ],
+  "total_reviews_crawled": 110
+}

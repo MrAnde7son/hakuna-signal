@@ -1,0 +1,612 @@
+{
+  "product": "Breeze Platform",
+  "slug": "breeze-platform",
+  "url": "https://www.gartner.com/reviews/product/breeze-platform",
+  "rating": 4.8,
+  "review_count": 19,
+  "vendor": "Breeze Security",
+  "market": "cyber-asset-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Powerful platform that delivers strong visibility and prioritized remediation”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT500M - 1B USD, Manufacturing",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY SPECIALIST1B-10B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER1B-10B USDBankingReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "reviewer": "IT Manager<50M USDSoftwareReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "“Powerful platform that delivers strong visibility and prioritized remediation”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT500M - 1B USD, Manufacturing",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY SPECIALIST1B-10B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER1B-10B USDBankingReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "reviewer": "IT Manager<50M USDSoftwareReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "“Powerful platform that delivers strong visibility and prioritized remediation”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT500M - 1B USD, Manufacturing",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY SPECIALIST1B-10B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER1B-10B USDBankingReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "reviewer": "IT Manager<50M USDSoftwareReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "“Powerful platform that delivers strong visibility and prioritized remediation”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT500M - 1B USD, Manufacturing",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY SPECIALIST1B-10B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER1B-10B USDBankingReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "reviewer": "IT Manager<50M USDSoftwareReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "“Powerful platform that delivers strong visibility and prioritized remediation”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT500M - 1B USD, Manufacturing",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY SPECIALIST1B-10B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER1B-10B USDBankingReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "reviewer": "IT Manager<50M USDSoftwareReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "“Powerful platform that delivers strong visibility and prioritized remediation”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT500M - 1B USD, Manufacturing",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY SPECIALIST1B-10B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER1B-10B USDBankingReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "reviewer": "IT Manager<50M USDSoftwareReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "“Powerful platform that delivers strong visibility and prioritized remediation”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT500M - 1B USD, Manufacturing",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY SPECIALIST1B-10B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER1B-10B USDBankingReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "reviewer": "IT Manager<50M USDSoftwareReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "“Powerful platform that delivers strong visibility and prioritized remediation”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT500M - 1B USD, Manufacturing",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY SPECIALIST1B-10B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER1B-10B USDBankingReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "reviewer": "IT Manager<50M USDSoftwareReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "“Powerful platform that delivers strong visibility and prioritized remediation”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT500M - 1B USD, Manufacturing",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY SPECIALIST1B-10B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER1B-10B USDBankingReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "reviewer": "IT Manager<50M USDSoftwareReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "“Powerful platform that delivers strong visibility and prioritized remediation”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT500M - 1B USD, Manufacturing",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Powerful platform that delivers strong visibility and prioritized remediation",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY SPECIALIST1B-10B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Features Enhance Workflow Efficiency on Breeze Platform",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Best in Class Support",
+      "rating": 5.0,
+      "date": "Nov 26, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER1B-10B USDBankingReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Multi-Layer Visibility Enhanced, Yet Reporting and Scalability Require Further Development",
+      "rating": 4.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "reviewer": "IT Manager<50M USDSoftwareReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Secure IT Infrastructure Tool Offers Intuitive Interface and Responsive Service Team",
+      "rating": 5.0,
+      "date": "Feb 5, 2026"
+    }
+  ],
+  "total_reviews_crawled": 110
+}

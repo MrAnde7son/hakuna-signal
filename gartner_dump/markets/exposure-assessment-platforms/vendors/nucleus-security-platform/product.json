@@ -1,0 +1,613 @@
+{
+  "product": "Nucleus Security Platform",
+  "slug": "nucleus-security-platform",
+  "url": "https://www.gartner.com/reviews/product/nucleus-security-platform",
+  "rating": 4.7,
+  "review_count": 6,
+  "vendor": "Nucleus",
+  "description": "Nucleus Security Platform is a software designed to centralize and automate vulnerability management across diverse security tools and sources. The software aggregates vulnerability data from scanners and repositories, enabling organizations to prioritize remediation efforts andmanage security workflows. It facilitates collaboration by providing customizable dashboards and reporting features, helping teams coordinate their responses to security issues. The software integrates with ticketing and notification systems, allowing for streamlined tracking and communication. By unifying risk assessment and response activities, Nucleus Security Platform addresses the business problem of fragmented vulnerability management, improving the efficiency and consistency of security operations.",
+  "market": "exposure-assessment-platforms",
+  "reviews": [
+    {
+      "title": "“Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management”",
+      "reviewer": "Manager, IT Security and Risk Management3B - 10B USD, Healthcare and Biotech",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "reviewer": "Software Developer10B+ USDTransportationReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDIT ServicesReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "reviewer": "LEAD ENGINEER, CYBERSECURITY50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "reviewer": "Software Development Manager1B-10B USDSoftwareReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "“Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management”",
+      "reviewer": "Manager, IT Security and Risk Management3B - 10B USD, Healthcare and Biotech",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "reviewer": "Software Developer10B+ USDTransportationReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDIT ServicesReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "reviewer": "LEAD ENGINEER, CYBERSECURITY50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "reviewer": "Software Development Manager1B-10B USDSoftwareReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "“Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management”",
+      "reviewer": "Manager, IT Security and Risk Management3B - 10B USD, Healthcare and Biotech",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "reviewer": "Software Developer10B+ USDTransportationReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDIT ServicesReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "reviewer": "LEAD ENGINEER, CYBERSECURITY50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "reviewer": "Software Development Manager1B-10B USDSoftwareReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "“Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management”",
+      "reviewer": "Manager, IT Security and Risk Management3B - 10B USD, Healthcare and Biotech",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "reviewer": "Software Developer10B+ USDTransportationReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDIT ServicesReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "reviewer": "LEAD ENGINEER, CYBERSECURITY50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "reviewer": "Software Development Manager1B-10B USDSoftwareReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "“Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management”",
+      "reviewer": "Manager, IT Security and Risk Management3B - 10B USD, Healthcare and Biotech",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "reviewer": "Software Developer10B+ USDTransportationReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDIT ServicesReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "reviewer": "LEAD ENGINEER, CYBERSECURITY50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "reviewer": "Software Development Manager1B-10B USDSoftwareReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "“Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management”",
+      "reviewer": "Manager, IT Security and Risk Management3B - 10B USD, Healthcare and Biotech",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "reviewer": "Software Developer10B+ USDTransportationReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDIT ServicesReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "reviewer": "LEAD ENGINEER, CYBERSECURITY50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "reviewer": "Software Development Manager1B-10B USDSoftwareReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "“Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management”",
+      "reviewer": "Manager, IT Security and Risk Management3B - 10B USD, Healthcare and Biotech",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "reviewer": "Software Developer10B+ USDTransportationReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDIT ServicesReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "reviewer": "LEAD ENGINEER, CYBERSECURITY50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "reviewer": "Software Development Manager1B-10B USDSoftwareReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "“Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management”",
+      "reviewer": "Manager, IT Security and Risk Management3B - 10B USD, Healthcare and Biotech",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "reviewer": "Software Developer10B+ USDTransportationReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDIT ServicesReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "reviewer": "LEAD ENGINEER, CYBERSECURITY50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "reviewer": "Software Development Manager1B-10B USDSoftwareReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "“Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management”",
+      "reviewer": "Manager, IT Security and Risk Management3B - 10B USD, Healthcare and Biotech",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "reviewer": "Software Developer10B+ USDTransportationReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDIT ServicesReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "reviewer": "LEAD ENGINEER, CYBERSECURITY50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "reviewer": "Software Development Manager1B-10B USDSoftwareReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "“Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management”",
+      "reviewer": "Manager, IT Security and Risk Management3B - 10B USD, Healthcare and Biotech",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nucleus Security Reduces Manual Workloads But Demands Cultural Change in Risk Management",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "reviewer": "Software Developer10B+ USDTransportationReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Risk-Based Approach Enhances Process While Reporting Flexibility Remains Restricted",
+      "rating": 5.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDIT ServicesReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "User-Friendly GUI and Efficient Reporting Highlight Strengths and Areas for Enhancement",
+      "rating": 4.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "reviewer": "LEAD ENGINEER, CYBERSECURITY50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Teams Benefit from Nucleus’s Intuitive Design Despite Handling Large Volumes of Data",
+      "rating": 5.0,
+      "date": "Dec 3, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "reviewer": "Software Development Manager1B-10B USDSoftwareReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Great partnership !",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    }
+  ],
+  "total_reviews_crawled": 110
+}

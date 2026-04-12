@@ -1,0 +1,663 @@
+{
+  "product": "Bitsight Cyber Risk Intellligence",
+  "slug": "bitsight-cyber-risk-intelligence",
+  "url": "https://www.gartner.com/reviews/product/bitsight-cyber-risk-intelligence",
+  "rating": 4.5,
+  "review_count": 37,
+  "vendor": "Bitsight",
+  "description": "Bitsight Cyber Risk Intelligence is a software designed to provide organizations with insights into cyber risk by analyzing and monitoring security performance data from both internal systems and external third parties. The software aggregates informationfrom various sources to assess vulnerability exposure, threat severity, and overall security posture. It enables businesses to identify potential risk areas, evaluate the effectiveness of security controls, and benchmark their cyber resilience against industry standards. By delivering continuous risk assessments and actionable intelligence, the software supports decision-making processes related to security investments, vendor management, and regulatory compliance. The primary business problem addressed involves the need for continuous visibility into cybersecurity risks and the capacity to manage and mitigate those risks effectively.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort”",
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USD, Banking",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "“Bitsight Enhances Real-Time Cyber Risk Monitoring With Executive-Focused Reporting Tools”",
+      "reviewer": "Cyber Security Assistant250M - 500M USD, IT Services",
+      "date": "Oct 8, 2025"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USDBankingReview Source",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk ManagementGov't/PS/EdGovernmentReview Source",
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "“Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort”",
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USD, Banking",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "“Bitsight Enhances Real-Time Cyber Risk Monitoring With Executive-Focused Reporting Tools”",
+      "reviewer": "Cyber Security Assistant250M - 500M USD, IT Services",
+      "date": "Oct 8, 2025"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USDBankingReview Source",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk ManagementGov't/PS/EdGovernmentReview Source",
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "“Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort”",
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USD, Banking",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "“Bitsight Enhances Real-Time Cyber Risk Monitoring With Executive-Focused Reporting Tools”",
+      "reviewer": "Cyber Security Assistant250M - 500M USD, IT Services",
+      "date": "Oct 8, 2025"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USDBankingReview Source",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk ManagementGov't/PS/EdGovernmentReview Source",
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "“Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort”",
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USD, Banking",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "“Bitsight Enhances Real-Time Cyber Risk Monitoring With Executive-Focused Reporting Tools”",
+      "reviewer": "Cyber Security Assistant250M - 500M USD, IT Services",
+      "date": "Oct 8, 2025"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USDBankingReview Source",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk ManagementGov't/PS/EdGovernmentReview Source",
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "“Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort”",
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USD, Banking",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "“Bitsight Enhances Real-Time Cyber Risk Monitoring With Executive-Focused Reporting Tools”",
+      "reviewer": "Cyber Security Assistant250M - 500M USD, IT Services",
+      "date": "Oct 8, 2025"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USDBankingReview Source",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk ManagementGov't/PS/EdGovernmentReview Source",
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "“Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort”",
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USD, Banking",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "“Bitsight Enhances Real-Time Cyber Risk Monitoring With Executive-Focused Reporting Tools”",
+      "reviewer": "Cyber Security Assistant250M - 500M USD, IT Services",
+      "date": "Oct 8, 2025"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USDBankingReview Source",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk ManagementGov't/PS/EdGovernmentReview Source",
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "“Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort”",
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USD, Banking",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "“Bitsight Enhances Real-Time Cyber Risk Monitoring With Executive-Focused Reporting Tools”",
+      "reviewer": "Cyber Security Assistant250M - 500M USD, IT Services",
+      "date": "Oct 8, 2025"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USDBankingReview Source",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk ManagementGov't/PS/EdGovernmentReview Source",
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "“Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort”",
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USD, Banking",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "“Bitsight Enhances Real-Time Cyber Risk Monitoring With Executive-Focused Reporting Tools”",
+      "reviewer": "Cyber Security Assistant250M - 500M USD, IT Services",
+      "date": "Oct 8, 2025"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USDBankingReview Source",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk ManagementGov't/PS/EdGovernmentReview Source",
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "“Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort”",
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USD, Banking",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "“Bitsight Enhances Real-Time Cyber Risk Monitoring With Executive-Focused Reporting Tools”",
+      "reviewer": "Cyber Security Assistant250M - 500M USD, IT Services",
+      "date": "Oct 8, 2025"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USDBankingReview Source",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk ManagementGov't/PS/EdGovernmentReview Source",
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "“Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort”",
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USD, Banking",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "“Bitsight Enhances Real-Time Cyber Risk Monitoring With Executive-Focused Reporting Tools”",
+      "reviewer": "Cyber Security Assistant250M - 500M USD, IT Services",
+      "date": "Oct 8, 2025"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, DIGITAL SOLUTIONS<50M USDBankingReview Source",
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "Peer Benchmarking and Third-Party Monitoring Enhance Risk Oversight With Minimal Effort",
+      "rating": 5.0,
+      "date": "Feb 18, 2026"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "BitSight Assists With Third Party Risk Program but Scoring System Feels Limited",
+      "rating": 4.0,
+      "date": "Dec 18, 2025"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Accurate Findings and Detailed Analysis Enhance Help Prioritize Remediation Activities",
+      "rating": 4.0,
+      "date": "Jan 12, 2026"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Efficient and easy domain risk management tool",
+      "rating": 5.0,
+      "date": "Oct 6, 2025"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk ManagementGov't/PS/EdGovernmentReview Source",
+      "date": "Feb 17, 2026"
+    },
+    {
+      "title": "Reports Improve Cybersecurity Awareness but Lack Timely Pre-Drop Alerts",
+      "rating": 4.0,
+      "date": "Feb 17, 2026"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

@@ -1,0 +1,663 @@
+{
+  "product": "Essential 8 Auditor",
+  "slug": "essential-8-aditor",
+  "url": "https://www.gartner.com/reviews/product/essential-8-aditor",
+  "rating": 4.4,
+  "review_count": 7,
+  "vendor": "Huntsman Security",
+  "description": "Essential 8 Auditor delivers on-demand Threat Exposure Management, and ACSC compliance and maturity level reporting on cyber security control effectiveness, enabling organisations to quickly identify and prioritise security, compliance and resilience mitigations.It connects tosecurity management and control configurations (e.g. Active Directory/Azure, patch managers, vulnerability scanners) to derive the status of policies, controls and configurations. It uses no agents or additional scanning, making it easy to install and operate in organisations of all sizes.Clear status and maturity reports are generated for each security control providing visibility of cyber risks and operational resilience. It identifies systems, user accounts or settings that need reconfiguration, informing technical security teams on issues and executive teams on protection levels.",
+  "market": "cyber-asset-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Streamlined ACSC compliance”",
+      "reviewer": "IT ASSOCIATEGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "“Outdated Interface and Update Process Present Hurdles Despite Strong Integration”",
+      "reviewer": "Information Security Specialist50M - 250M USD, Miscellaneous",
+      "date": "Aug 11, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDTransportationReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Specialist50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "reviewer": "Senior Systems and Network Engineer50M-1B USDInsurance (except health)Review Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER50M-1B USDBankingReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "“Streamlined ACSC compliance”",
+      "reviewer": "IT ASSOCIATEGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "“Outdated Interface and Update Process Present Hurdles Despite Strong Integration”",
+      "reviewer": "Information Security Specialist50M - 250M USD, Miscellaneous",
+      "date": "Aug 11, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDTransportationReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Specialist50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "reviewer": "Senior Systems and Network Engineer50M-1B USDInsurance (except health)Review Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER50M-1B USDBankingReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "“Streamlined ACSC compliance”",
+      "reviewer": "IT ASSOCIATEGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "“Outdated Interface and Update Process Present Hurdles Despite Strong Integration”",
+      "reviewer": "Information Security Specialist50M - 250M USD, Miscellaneous",
+      "date": "Aug 11, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDTransportationReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Specialist50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "reviewer": "Senior Systems and Network Engineer50M-1B USDInsurance (except health)Review Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER50M-1B USDBankingReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "“Streamlined ACSC compliance”",
+      "reviewer": "IT ASSOCIATEGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "“Outdated Interface and Update Process Present Hurdles Despite Strong Integration”",
+      "reviewer": "Information Security Specialist50M - 250M USD, Miscellaneous",
+      "date": "Aug 11, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDTransportationReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Specialist50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "reviewer": "Senior Systems and Network Engineer50M-1B USDInsurance (except health)Review Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER50M-1B USDBankingReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "“Streamlined ACSC compliance”",
+      "reviewer": "IT ASSOCIATEGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "“Outdated Interface and Update Process Present Hurdles Despite Strong Integration”",
+      "reviewer": "Information Security Specialist50M - 250M USD, Miscellaneous",
+      "date": "Aug 11, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDTransportationReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Specialist50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "reviewer": "Senior Systems and Network Engineer50M-1B USDInsurance (except health)Review Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER50M-1B USDBankingReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "“Streamlined ACSC compliance”",
+      "reviewer": "IT ASSOCIATEGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "“Outdated Interface and Update Process Present Hurdles Despite Strong Integration”",
+      "reviewer": "Information Security Specialist50M - 250M USD, Miscellaneous",
+      "date": "Aug 11, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDTransportationReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Specialist50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "reviewer": "Senior Systems and Network Engineer50M-1B USDInsurance (except health)Review Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER50M-1B USDBankingReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "“Streamlined ACSC compliance”",
+      "reviewer": "IT ASSOCIATEGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "“Outdated Interface and Update Process Present Hurdles Despite Strong Integration”",
+      "reviewer": "Information Security Specialist50M - 250M USD, Miscellaneous",
+      "date": "Aug 11, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDTransportationReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Specialist50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "reviewer": "Senior Systems and Network Engineer50M-1B USDInsurance (except health)Review Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER50M-1B USDBankingReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "“Streamlined ACSC compliance”",
+      "reviewer": "IT ASSOCIATEGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "“Outdated Interface and Update Process Present Hurdles Despite Strong Integration”",
+      "reviewer": "Information Security Specialist50M - 250M USD, Miscellaneous",
+      "date": "Aug 11, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDTransportationReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Specialist50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "reviewer": "Senior Systems and Network Engineer50M-1B USDInsurance (except health)Review Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER50M-1B USDBankingReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "“Streamlined ACSC compliance”",
+      "reviewer": "IT ASSOCIATEGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "“Outdated Interface and Update Process Present Hurdles Despite Strong Integration”",
+      "reviewer": "Information Security Specialist50M - 250M USD, Miscellaneous",
+      "date": "Aug 11, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDTransportationReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Specialist50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "reviewer": "Senior Systems and Network Engineer50M-1B USDInsurance (except health)Review Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER50M-1B USDBankingReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "“Streamlined ACSC compliance”",
+      "reviewer": "IT ASSOCIATEGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "“Outdated Interface and Update Process Present Hurdles Despite Strong Integration”",
+      "reviewer": "Information Security Specialist50M - 250M USD, Miscellaneous",
+      "date": "Aug 11, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Streamlined ACSC compliance",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDTransportationReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Well-Structured Product With Trusted Recognition but Limited Flexibility Observed",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Specialist50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Technical Team Provides Effective Guidance During and After Tool Setup Process",
+      "rating": 5.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "reviewer": "Senior Systems and Network Engineer50M-1B USDInsurance (except health)Review Source",
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Security Engineers Demonstrate In-Depth Product Knowledge in Customer Interactions",
+      "rating": 4.0,
+      "date": "Aug 27, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "reviewer": "IT MANAGER50M-1B USDBankingReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Risk Mitigation Made Efficient With ACSC-Compliant Essential 8 Framework",
+      "rating": 4.0,
+      "date": "Aug 18, 2025"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

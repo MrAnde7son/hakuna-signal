@@ -1,0 +1,613 @@
+{
+  "product": "Tenable One",
+  "slug": "tenable-one-962082296",
+  "url": "https://www.gartner.com/reviews/product/tenable-one-962082296",
+  "rating": 4.6,
+  "review_count": 81,
+  "vendor": "Tenable",
+  "description": "Tenable One is an AI-powered exposure management platform that radically unifies security visibility, insight and action across your existing tools, and the modern attack surface – clouds, IT, OT, IoT, applications and identities. Detailed mappingof asset, identity and risk relationships empowers security analysts with the attacker’s perspective, prioritizing viable attack paths and toxic risk that can materially impact the business, before attacks begin. Workflow automation, and consistent, business-aligned metrics and reporting improve efficiency and communication across teams, reducing risk exposure, while enabling targeted use of resources and budget where they matter most. With the rich technical and business context provided by Tenable One, organizations report significant improvement in visibility across the attack surface, less time spent aggregating data for investigation and reporting, reduced SOC ticket volume, and lower cost through consolidation of redundant tools.",
+  "market": "exposure-assessment-platforms",
+  "reviews": [
+    {
+      "title": "“Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited”",
+      "reviewer": "Manager, IT Security and Risk Management10B - 30B USD, Healthcare and Biotech",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDHealthcare and BiotechReview Source",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "reviewer": "CISO10B+ USDInsurance (except health)Review Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "“Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited”",
+      "reviewer": "Manager, IT Security and Risk Management10B - 30B USD, Healthcare and Biotech",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDHealthcare and BiotechReview Source",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "reviewer": "CISO10B+ USDInsurance (except health)Review Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "“Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited”",
+      "reviewer": "Manager, IT Security and Risk Management10B - 30B USD, Healthcare and Biotech",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDHealthcare and BiotechReview Source",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "reviewer": "CISO10B+ USDInsurance (except health)Review Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "“Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited”",
+      "reviewer": "Manager, IT Security and Risk Management10B - 30B USD, Healthcare and Biotech",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDHealthcare and BiotechReview Source",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "reviewer": "CISO10B+ USDInsurance (except health)Review Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "“Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited”",
+      "reviewer": "Manager, IT Security and Risk Management10B - 30B USD, Healthcare and Biotech",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDHealthcare and BiotechReview Source",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "reviewer": "CISO10B+ USDInsurance (except health)Review Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "“Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited”",
+      "reviewer": "Manager, IT Security and Risk Management10B - 30B USD, Healthcare and Biotech",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDHealthcare and BiotechReview Source",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "reviewer": "CISO10B+ USDInsurance (except health)Review Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "“Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited”",
+      "reviewer": "Manager, IT Security and Risk Management10B - 30B USD, Healthcare and Biotech",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDHealthcare and BiotechReview Source",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "reviewer": "CISO10B+ USDInsurance (except health)Review Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "“Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited”",
+      "reviewer": "Manager, IT Security and Risk Management10B - 30B USD, Healthcare and Biotech",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDHealthcare and BiotechReview Source",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "reviewer": "CISO10B+ USDInsurance (except health)Review Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "“Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited”",
+      "reviewer": "Manager, IT Security and Risk Management10B - 30B USD, Healthcare and Biotech",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDHealthcare and BiotechReview Source",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "reviewer": "CISO10B+ USDInsurance (except health)Review Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "“Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited”",
+      "reviewer": "Manager, IT Security and Risk Management10B - 30B USD, Healthcare and Biotech",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDHealthcare and BiotechReview Source",
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Platform Excels In Asset Coverage Though Data Accuracy And Reporting Features Limited",
+      "rating": 5.0,
+      "date": "Oct 3, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "reviewer": "CISO10B+ USDInsurance (except health)Review Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Game-Changing Exposure Assessment Platform that Connects Risk to Business Impact",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Keeps you aware of Vulnerabilities in your environment",
+      "rating": 4.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Effective Collaboration With Tenable Leads to Improved Tool Deployment and Usage",
+      "rating": 4.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDConstructionReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Web App Scanning Enhances Visibility but Licensing and Support Pose Difficulties",
+      "rating": 4.0,
+      "date": "Oct 17, 2025"
+    }
+  ],
+  "total_reviews_crawled": 110
+}

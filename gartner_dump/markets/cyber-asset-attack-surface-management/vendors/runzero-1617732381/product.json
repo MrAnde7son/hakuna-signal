@@ -1,0 +1,663 @@
+{
+  "product": "runZero",
+  "slug": "runzero-1617732381",
+  "url": "https://www.gartner.com/reviews/product/runzero-1617732381",
+  "rating": 4.6,
+  "review_count": 38,
+  "vendor": "runZero",
+  "description": "runZero is a software designed for asset discovery and inventory management within enterprise networks. It provides comprehensive visibility into connected devices by scanning and identifying hardware, software, and network attributes without requiring credentials or agents.runZero helps organizations locate unmanaged, unknown, or rogue assets and maps connections across networks for security and operational oversight. The software integrates with various security and IT management tools, enabling correlation and normalization of asset data. This facilitates the detection of vulnerabilities, misconfigurations, and compliance gaps. By automating asset inventory and network mapping, the software addresses challenges of shadow IT and asset sprawl in complex environments.",
+  "market": "cyber-asset-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements”",
+      "reviewer": "LEAD SECURITY ENGINEER50M - 250M USD, Banking",
+      "date": "Aug 26, 2025"
+    },
+    {
+      "title": "“satisfied but it can be improved”",
+      "reviewer": "Development<50M USD, Software",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "reviewer": "LEAD SECURITY ENGINEER50M-1B USDBankingReview Source",
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "reviewer": "IT SERVICES ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "reviewer": "Information Security Compliance Engineer50M-1B USDMiscellaneousReview Source",
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "reviewer": "IT services50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security OfficerGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "“Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements”",
+      "reviewer": "LEAD SECURITY ENGINEER50M - 250M USD, Banking",
+      "date": "Aug 26, 2025"
+    },
+    {
+      "title": "“satisfied but it can be improved”",
+      "reviewer": "Development<50M USD, Software",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "reviewer": "LEAD SECURITY ENGINEER50M-1B USDBankingReview Source",
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "reviewer": "IT SERVICES ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "reviewer": "Information Security Compliance Engineer50M-1B USDMiscellaneousReview Source",
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "reviewer": "IT services50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security OfficerGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "“Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements”",
+      "reviewer": "LEAD SECURITY ENGINEER50M - 250M USD, Banking",
+      "date": "Aug 26, 2025"
+    },
+    {
+      "title": "“satisfied but it can be improved”",
+      "reviewer": "Development<50M USD, Software",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "reviewer": "LEAD SECURITY ENGINEER50M-1B USDBankingReview Source",
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "reviewer": "IT SERVICES ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "reviewer": "Information Security Compliance Engineer50M-1B USDMiscellaneousReview Source",
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "reviewer": "IT services50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security OfficerGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "“Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements”",
+      "reviewer": "LEAD SECURITY ENGINEER50M - 250M USD, Banking",
+      "date": "Aug 26, 2025"
+    },
+    {
+      "title": "“satisfied but it can be improved”",
+      "reviewer": "Development<50M USD, Software",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "reviewer": "LEAD SECURITY ENGINEER50M-1B USDBankingReview Source",
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "reviewer": "IT SERVICES ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "reviewer": "Information Security Compliance Engineer50M-1B USDMiscellaneousReview Source",
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "reviewer": "IT services50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security OfficerGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "“Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements”",
+      "reviewer": "LEAD SECURITY ENGINEER50M - 250M USD, Banking",
+      "date": "Aug 26, 2025"
+    },
+    {
+      "title": "“satisfied but it can be improved”",
+      "reviewer": "Development<50M USD, Software",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "reviewer": "LEAD SECURITY ENGINEER50M-1B USDBankingReview Source",
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "reviewer": "IT SERVICES ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "reviewer": "Information Security Compliance Engineer50M-1B USDMiscellaneousReview Source",
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "reviewer": "IT services50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security OfficerGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "“Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements”",
+      "reviewer": "LEAD SECURITY ENGINEER50M - 250M USD, Banking",
+      "date": "Aug 26, 2025"
+    },
+    {
+      "title": "“satisfied but it can be improved”",
+      "reviewer": "Development<50M USD, Software",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "reviewer": "LEAD SECURITY ENGINEER50M-1B USDBankingReview Source",
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "reviewer": "IT SERVICES ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "reviewer": "Information Security Compliance Engineer50M-1B USDMiscellaneousReview Source",
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "reviewer": "IT services50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security OfficerGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "“Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements”",
+      "reviewer": "LEAD SECURITY ENGINEER50M - 250M USD, Banking",
+      "date": "Aug 26, 2025"
+    },
+    {
+      "title": "“satisfied but it can be improved”",
+      "reviewer": "Development<50M USD, Software",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "reviewer": "LEAD SECURITY ENGINEER50M-1B USDBankingReview Source",
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "reviewer": "IT SERVICES ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "reviewer": "Information Security Compliance Engineer50M-1B USDMiscellaneousReview Source",
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "reviewer": "IT services50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security OfficerGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "“Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements”",
+      "reviewer": "LEAD SECURITY ENGINEER50M - 250M USD, Banking",
+      "date": "Aug 26, 2025"
+    },
+    {
+      "title": "“satisfied but it can be improved”",
+      "reviewer": "Development<50M USD, Software",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "reviewer": "LEAD SECURITY ENGINEER50M-1B USDBankingReview Source",
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "reviewer": "IT SERVICES ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "reviewer": "Information Security Compliance Engineer50M-1B USDMiscellaneousReview Source",
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "reviewer": "IT services50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security OfficerGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "“Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements”",
+      "reviewer": "LEAD SECURITY ENGINEER50M - 250M USD, Banking",
+      "date": "Aug 26, 2025"
+    },
+    {
+      "title": "“satisfied but it can be improved”",
+      "reviewer": "Development<50M USD, Software",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "reviewer": "LEAD SECURITY ENGINEER50M-1B USDBankingReview Source",
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "reviewer": "IT SERVICES ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "reviewer": "Information Security Compliance Engineer50M-1B USDMiscellaneousReview Source",
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "reviewer": "IT services50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security OfficerGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "“Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements”",
+      "reviewer": "LEAD SECURITY ENGINEER50M - 250M USD, Banking",
+      "date": "Aug 26, 2025"
+    },
+    {
+      "title": "“satisfied but it can be improved”",
+      "reviewer": "Development<50M USD, Software",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "reviewer": "LEAD SECURITY ENGINEER50M-1B USDBankingReview Source",
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "Comprehensive Data Correlation Achieved With Minimal On-Premise Setup Requirements",
+      "rating": 5.0,
+      "date": "Aug 25, 2025"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "reviewer": "IT SERVICES ASSOCIATEGov't/PS/EdEducationReview Source",
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "runZero for the Win!",
+      "rating": 4.0,
+      "date": "Feb 23, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "reviewer": "Information Security Compliance Engineer50M-1B USDMiscellaneousReview Source",
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Great asset to find all your assets.",
+      "rating": 5.0,
+      "date": "Feb 14, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "reviewer": "IT services50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "Runzero is good, simple",
+      "rating": 5.0,
+      "date": "Feb 28, 2024"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security OfficerGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 29, 2023"
+    },
+    {
+      "title": "An excellent inventory tool",
+      "rating": 5.0,
+      "date": "Sep 29, 2023"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

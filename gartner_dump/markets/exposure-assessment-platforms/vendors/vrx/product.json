@@ -1,0 +1,662 @@
+{
+  "product": "vRx",
+  "slug": "vrx",
+  "url": "https://www.gartner.com/reviews/product/vrx",
+  "review_count": 12,
+  "vendor": "Vicarius",
+  "description": "vRx is a vulnerability management software developed by Vicarius that focuses on identifying, prioritizing, and remediating security risks across IT assets. The software enables organizations to scan for vulnerabilities within operating systems and applications, evaluatethreats based on asset criticality, and automate remediation processes without reliance on network signatures or prior threat knowledge. vRx provides real-time visibility into risk exposures and offers patch management capabilities to address security gaps. The software is designed to help businesses reduce the attack surface and maintain compliance with security standards by facilitating continuous monitoring and prioritization of vulnerability remediation tasks.",
+  "market": "exposure-assessment-platforms",
+  "reviews": [
+    {
+      "title": "“Mining company that works with vRx”",
+      "reviewer": "Director, IT Security and Risk Management250M - 500M USD, Manufacturing",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "“vRX the automatic app updater”",
+      "reviewer": "SYS ADMIN<50M USD, Retail",
+      "date": "Feb 22, 2024"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "reviewer": "MANAGER<50M USDIT ServicesReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "reviewer": "ManagerGov't/PS/EdGovernmentReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Engineer<50M USDTelecommunicationReview Source",
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "“Mining company that works with vRx”",
+      "reviewer": "Director, IT Security and Risk Management250M - 500M USD, Manufacturing",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "“vRX the automatic app updater”",
+      "reviewer": "SYS ADMIN<50M USD, Retail",
+      "date": "Feb 22, 2024"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "reviewer": "MANAGER<50M USDIT ServicesReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "reviewer": "ManagerGov't/PS/EdGovernmentReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Engineer<50M USDTelecommunicationReview Source",
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "“Mining company that works with vRx”",
+      "reviewer": "Director, IT Security and Risk Management250M - 500M USD, Manufacturing",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "“vRX the automatic app updater”",
+      "reviewer": "SYS ADMIN<50M USD, Retail",
+      "date": "Feb 22, 2024"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "reviewer": "MANAGER<50M USDIT ServicesReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "reviewer": "ManagerGov't/PS/EdGovernmentReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Engineer<50M USDTelecommunicationReview Source",
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "“Mining company that works with vRx”",
+      "reviewer": "Director, IT Security and Risk Management250M - 500M USD, Manufacturing",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "“vRX the automatic app updater”",
+      "reviewer": "SYS ADMIN<50M USD, Retail",
+      "date": "Feb 22, 2024"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "reviewer": "MANAGER<50M USDIT ServicesReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "reviewer": "ManagerGov't/PS/EdGovernmentReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Engineer<50M USDTelecommunicationReview Source",
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "“Mining company that works with vRx”",
+      "reviewer": "Director, IT Security and Risk Management250M - 500M USD, Manufacturing",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "“vRX the automatic app updater”",
+      "reviewer": "SYS ADMIN<50M USD, Retail",
+      "date": "Feb 22, 2024"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "reviewer": "MANAGER<50M USDIT ServicesReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "reviewer": "ManagerGov't/PS/EdGovernmentReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Engineer<50M USDTelecommunicationReview Source",
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "“Mining company that works with vRx”",
+      "reviewer": "Director, IT Security and Risk Management250M - 500M USD, Manufacturing",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "“vRX the automatic app updater”",
+      "reviewer": "SYS ADMIN<50M USD, Retail",
+      "date": "Feb 22, 2024"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "reviewer": "MANAGER<50M USDIT ServicesReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "reviewer": "ManagerGov't/PS/EdGovernmentReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Engineer<50M USDTelecommunicationReview Source",
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "“Mining company that works with vRx”",
+      "reviewer": "Director, IT Security and Risk Management250M - 500M USD, Manufacturing",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "“vRX the automatic app updater”",
+      "reviewer": "SYS ADMIN<50M USD, Retail",
+      "date": "Feb 22, 2024"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "reviewer": "MANAGER<50M USDIT ServicesReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "reviewer": "ManagerGov't/PS/EdGovernmentReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Engineer<50M USDTelecommunicationReview Source",
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "“Mining company that works with vRx”",
+      "reviewer": "Director, IT Security and Risk Management250M - 500M USD, Manufacturing",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "“vRX the automatic app updater”",
+      "reviewer": "SYS ADMIN<50M USD, Retail",
+      "date": "Feb 22, 2024"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "reviewer": "MANAGER<50M USDIT ServicesReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "reviewer": "ManagerGov't/PS/EdGovernmentReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Engineer<50M USDTelecommunicationReview Source",
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "“Mining company that works with vRx”",
+      "reviewer": "Director, IT Security and Risk Management250M - 500M USD, Manufacturing",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "“vRX the automatic app updater”",
+      "reviewer": "SYS ADMIN<50M USD, Retail",
+      "date": "Feb 22, 2024"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "reviewer": "MANAGER<50M USDIT ServicesReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "reviewer": "ManagerGov't/PS/EdGovernmentReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Engineer<50M USDTelecommunicationReview Source",
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "“Mining company that works with vRx”",
+      "reviewer": "Director, IT Security and Risk Management250M - 500M USD, Manufacturing",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "“vRX the automatic app updater”",
+      "reviewer": "SYS ADMIN<50M USD, Retail",
+      "date": "Feb 22, 2024"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Mining company that works with vRx",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "reviewer": "MANAGER<50M USDIT ServicesReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Vicarius Platform Praised For Intuitive Console And Consistent Performance Without Issues",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "reviewer": "ManagerGov't/PS/EdGovernmentReview Source",
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Ease of Use Tempered by Script Requirements and Unintuitive Program Removal",
+      "rating": 5.0,
+      "date": "Jan 27, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Patch and Script Features Appreciated but Documentation Lacks Clarity",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "reviewer": "Cyber Security Engineer<50M USDTelecommunicationReview Source",
+      "date": "Aug 20, 2025"
+    },
+    {
+      "title": "A Game-Changing Exposure Assessment platform that delivers on its promises",
+      "rating": 5.0,
+      "date": "Aug 20, 2025"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

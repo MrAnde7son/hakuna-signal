@@ -1,0 +1,663 @@
+{
+  "product": "Recorded Future Attack Surface Intelligence",
+  "slug": "recorded-future-attack-surface-intelligence",
+  "url": "https://www.gartner.com/reviews/product/recorded-future-attack-surface-intelligence",
+  "rating": 4.4,
+  "review_count": 16,
+  "vendor": "Recorded Future",
+  "description": "Recorded Future Attack Surface Intelligence is a software designed to provide visibility into an organization's external digital assets and associated risks. The software collects and analyzes data from a range of sources to map theorganization's internet-facing infrastructure, identify exposures, and assess vulnerabilities. It enables security teams to continuously monitor their digital footprint, helping to uncover unauthorized or forgotten assets and prioritize mitigation efforts. The software aims to address the challenge of managing and securing an expanding attack surface by offering real-time insights, automated asset discovery, and contextual risk assessment to support effective security operations and incident response.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume”",
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B - 30B USD, Manufacturing",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "“A Close Look at Intelligence Gathering Platforms”",
+      "reviewer": "Senior Manager - Threat Intelligence30B + USD, Banking",
+      "date": "Apr 18, 2024"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDRetailReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "reviewer": "Principal IT Security Engineer50M-1B USDIT ServicesReview Source",
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY OFFICER, TVM50M-1B USDBankingReview Source",
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDMediaReview Source",
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "“Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume”",
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B - 30B USD, Manufacturing",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "“A Close Look at Intelligence Gathering Platforms”",
+      "reviewer": "Senior Manager - Threat Intelligence30B + USD, Banking",
+      "date": "Apr 18, 2024"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDRetailReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "reviewer": "Principal IT Security Engineer50M-1B USDIT ServicesReview Source",
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY OFFICER, TVM50M-1B USDBankingReview Source",
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDMediaReview Source",
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "“Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume”",
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B - 30B USD, Manufacturing",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "“A Close Look at Intelligence Gathering Platforms”",
+      "reviewer": "Senior Manager - Threat Intelligence30B + USD, Banking",
+      "date": "Apr 18, 2024"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDRetailReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "reviewer": "Principal IT Security Engineer50M-1B USDIT ServicesReview Source",
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY OFFICER, TVM50M-1B USDBankingReview Source",
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDMediaReview Source",
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "“Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume”",
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B - 30B USD, Manufacturing",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "“A Close Look at Intelligence Gathering Platforms”",
+      "reviewer": "Senior Manager - Threat Intelligence30B + USD, Banking",
+      "date": "Apr 18, 2024"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDRetailReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "reviewer": "Principal IT Security Engineer50M-1B USDIT ServicesReview Source",
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY OFFICER, TVM50M-1B USDBankingReview Source",
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDMediaReview Source",
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "“Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume”",
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B - 30B USD, Manufacturing",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "“A Close Look at Intelligence Gathering Platforms”",
+      "reviewer": "Senior Manager - Threat Intelligence30B + USD, Banking",
+      "date": "Apr 18, 2024"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDRetailReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "reviewer": "Principal IT Security Engineer50M-1B USDIT ServicesReview Source",
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY OFFICER, TVM50M-1B USDBankingReview Source",
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDMediaReview Source",
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "“Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume”",
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B - 30B USD, Manufacturing",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "“A Close Look at Intelligence Gathering Platforms”",
+      "reviewer": "Senior Manager - Threat Intelligence30B + USD, Banking",
+      "date": "Apr 18, 2024"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDRetailReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "reviewer": "Principal IT Security Engineer50M-1B USDIT ServicesReview Source",
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY OFFICER, TVM50M-1B USDBankingReview Source",
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDMediaReview Source",
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "“Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume”",
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B - 30B USD, Manufacturing",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "“A Close Look at Intelligence Gathering Platforms”",
+      "reviewer": "Senior Manager - Threat Intelligence30B + USD, Banking",
+      "date": "Apr 18, 2024"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDRetailReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "reviewer": "Principal IT Security Engineer50M-1B USDIT ServicesReview Source",
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY OFFICER, TVM50M-1B USDBankingReview Source",
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDMediaReview Source",
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "“Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume”",
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B - 30B USD, Manufacturing",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "“A Close Look at Intelligence Gathering Platforms”",
+      "reviewer": "Senior Manager - Threat Intelligence30B + USD, Banking",
+      "date": "Apr 18, 2024"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDRetailReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "reviewer": "Principal IT Security Engineer50M-1B USDIT ServicesReview Source",
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY OFFICER, TVM50M-1B USDBankingReview Source",
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDMediaReview Source",
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "“Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume”",
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B - 30B USD, Manufacturing",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "“A Close Look at Intelligence Gathering Platforms”",
+      "reviewer": "Senior Manager - Threat Intelligence30B + USD, Banking",
+      "date": "Apr 18, 2024"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDRetailReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "reviewer": "Principal IT Security Engineer50M-1B USDIT ServicesReview Source",
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY OFFICER, TVM50M-1B USDBankingReview Source",
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDMediaReview Source",
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "“Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume”",
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B - 30B USD, Manufacturing",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "“A Close Look at Intelligence Gathering Platforms”",
+      "reviewer": "Senior Manager - Threat Intelligence30B + USD, Banking",
+      "date": "Apr 18, 2024"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "reviewer": "INFORMATION SECURITY GOVERNANCE10B+ USDManufacturingReview Source",
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Intelligence Platform Offers Strong Context Amid High Data Volume",
+      "rating": 4.0,
+      "date": "Sep 24, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDRetailReview Source",
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Attack Surface Intelligence is/was the best in terms of quality of the findings!",
+      "rating": 5.0,
+      "date": "Oct 17, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "reviewer": "Principal IT Security Engineer50M-1B USDIT ServicesReview Source",
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Recorded Future Offers Comprehensive Exposure View but Requires Significant Tuning",
+      "rating": 4.0,
+      "date": "May 8, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY OFFICER, TVM50M-1B USDBankingReview Source",
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Spotting Unmanaged Resources: A Look Into Recorded Future",
+      "rating": 5.0,
+      "date": "Feb 26, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDMediaReview Source",
+      "date": "Feb 12, 2025"
+    },
+    {
+      "title": "Aiding Intelligence Gathering: Evaluating the Benefits and Shortcomings",
+      "rating": 4.0,
+      "date": "Feb 12, 2025"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

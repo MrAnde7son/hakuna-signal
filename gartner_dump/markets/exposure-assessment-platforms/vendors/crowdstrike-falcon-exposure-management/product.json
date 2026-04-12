@@ -1,0 +1,663 @@
+{
+  "product": "CrowdStrike Falcon Exposure Management",
+  "slug": "crowdstrike-falcon-exposure-management",
+  "url": "https://www.gartner.com/reviews/product/crowdstrike-falcon-exposure-management",
+  "rating": 4.7,
+  "review_count": 78,
+  "vendor": "CrowdStrike",
+  "description": "CrowdStrike Falcon Exposure Management is a software designed to help organizations identify, assess, and manage vulnerabilities across their digital assets. It provides continuous visibility into potential attack surfaces by mapping assets, monitoring exposures, and prioritizingrisks based on severity and context. The software integrates threat intelligence and security posture evaluation to streamline the remediation process by highlighting critical vulnerabilities and offering actionable insights. It assists security teams in reducing the likelihood of breaches by enabling proactive management of security gaps, unmanaged assets, and misconfigurations. The software supports compliance efforts and operational efficiency by automating asset discovery and risk assessment processes within an organization’s infrastructure.",
+  "market": "exposure-assessment-platforms",
+  "reviews": [
+    {
+      "title": "“AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.”",
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M - 250M USD, IT Services",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "“Good product. Increases your security posture.”",
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 17, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATE<50M USDServices (non-Government)Review Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "reviewer": "Engineer50M-1B USDIT ServicesReview Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "reviewer": "ITS-SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "reviewer": "It Security & Risk Management Associate<50M USDConsumer GoodsReview Source",
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "“AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.”",
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M - 250M USD, IT Services",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "“Good product. Increases your security posture.”",
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 17, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATE<50M USDServices (non-Government)Review Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "reviewer": "Engineer50M-1B USDIT ServicesReview Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "reviewer": "ITS-SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "reviewer": "It Security & Risk Management Associate<50M USDConsumer GoodsReview Source",
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "“AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.”",
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M - 250M USD, IT Services",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "“Good product. Increases your security posture.”",
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 17, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATE<50M USDServices (non-Government)Review Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "reviewer": "Engineer50M-1B USDIT ServicesReview Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "reviewer": "ITS-SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "reviewer": "It Security & Risk Management Associate<50M USDConsumer GoodsReview Source",
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "“AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.”",
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M - 250M USD, IT Services",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "“Good product. Increases your security posture.”",
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 17, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATE<50M USDServices (non-Government)Review Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "reviewer": "Engineer50M-1B USDIT ServicesReview Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "reviewer": "ITS-SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "reviewer": "It Security & Risk Management Associate<50M USDConsumer GoodsReview Source",
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "“AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.”",
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M - 250M USD, IT Services",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "“Good product. Increases your security posture.”",
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 17, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATE<50M USDServices (non-Government)Review Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "reviewer": "Engineer50M-1B USDIT ServicesReview Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "reviewer": "ITS-SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "reviewer": "It Security & Risk Management Associate<50M USDConsumer GoodsReview Source",
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "“AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.”",
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M - 250M USD, IT Services",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "“Good product. Increases your security posture.”",
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 17, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATE<50M USDServices (non-Government)Review Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "reviewer": "Engineer50M-1B USDIT ServicesReview Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "reviewer": "ITS-SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "reviewer": "It Security & Risk Management Associate<50M USDConsumer GoodsReview Source",
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "“AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.”",
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M - 250M USD, IT Services",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "“Good product. Increases your security posture.”",
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 17, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATE<50M USDServices (non-Government)Review Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "reviewer": "Engineer50M-1B USDIT ServicesReview Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "reviewer": "ITS-SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "reviewer": "It Security & Risk Management Associate<50M USDConsumer GoodsReview Source",
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "“AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.”",
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M - 250M USD, IT Services",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "“Good product. Increases your security posture.”",
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 17, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATE<50M USDServices (non-Government)Review Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "reviewer": "Engineer50M-1B USDIT ServicesReview Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "reviewer": "ITS-SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "reviewer": "It Security & Risk Management Associate<50M USDConsumer GoodsReview Source",
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "“AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.”",
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M - 250M USD, IT Services",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "“Good product. Increases your security posture.”",
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 17, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATE<50M USDServices (non-Government)Review Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "reviewer": "Engineer50M-1B USDIT ServicesReview Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "reviewer": "ITS-SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "reviewer": "It Security & Risk Management Associate<50M USDConsumer GoodsReview Source",
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "“AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.”",
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M - 250M USD, IT Services",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "“Good product. Increases your security posture.”",
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 17, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "reviewer": "NETWORK AND SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "AI-driven, unified exposure management that delivers real-time visibility, precise risk prioritization, and streamlined remediation through a single agent - empowering organizations to proactively reduce cyber risk with intelligence, speed, and simplicity.",
+      "rating": 4.0,
+      "date": "Oct 19, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "reviewer": "IT ASSOCIATE<50M USDServices (non-Government)Review Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Automated Asset Discovery and Real-Time Risk Assessment Streamline Decision Making",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "reviewer": "Engineer50M-1B USDIT ServicesReview Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Prioritization of Risks Improves Security Management After Adapting to Falcon Dashboards",
+      "rating": 4.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "reviewer": "ITS-SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Exposure Management Module improves Threat Analysis and Patch Management Processes",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "reviewer": "It Security & Risk Management Associate<50M USDConsumer GoodsReview Source",
+      "date": "Mar 17, 2026"
+    },
+    {
+      "title": "Want to CRUSH vulnerabilities? ExpoMan is here to help!",
+      "rating": 5.0,
+      "date": "Mar 17, 2026"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

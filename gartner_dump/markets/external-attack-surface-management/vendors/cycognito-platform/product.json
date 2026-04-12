@@ -1,0 +1,663 @@
+{
+  "product": "CyCognito Platform",
+  "slug": "cycognito-platform",
+  "url": "https://www.gartner.com/reviews/product/cycognito-platform",
+  "rating": 4.7,
+  "review_count": 39,
+  "vendor": "CyCognito",
+  "description": "CyCognito Platform is a software designed to help organizations identify and manage security risks across their external attack surface. By automatically discovering assets and assessing vulnerabilities, the software enables continuous monitoring of externally exposed systemsand applications. CyCognito Platform utilizes reconnaissance techniques to provide comprehensive visibility of unknown, unmanaged, and unprotected assets that could be targeted in cyber attacks. The software delivers actionable insights to prioritize remediation efforts, facilitating proactive risk reduction and supporting compliance initiatives. Through automated analysis and contextual risk assessment, CyCognito Platform addresses the challenge of shadow IT and asset sprawl, assisting security teams in reducing their exposure to threats.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response”",
+      "reviewer": "VULNERABILITY MANAGER<50M USD, IT Services",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "“Explore the Ease of Finding and Focusing on Big Issues with this Software”",
+      "reviewer": "Research and Development Associate<50M USD, Energy and Utilities",
+      "date": "Jun 13, 2024"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "SECURITY ANALYST50M-1B USDTelecommunicationReview Source",
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "reviewer": "Security Engineer50M-1B USDServices (non-Government)Review Source",
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDTravel and HospitalityReview Source",
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDIT ServicesReview Source",
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "“Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response”",
+      "reviewer": "VULNERABILITY MANAGER<50M USD, IT Services",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "“Explore the Ease of Finding and Focusing on Big Issues with this Software”",
+      "reviewer": "Research and Development Associate<50M USD, Energy and Utilities",
+      "date": "Jun 13, 2024"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "SECURITY ANALYST50M-1B USDTelecommunicationReview Source",
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "reviewer": "Security Engineer50M-1B USDServices (non-Government)Review Source",
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDTravel and HospitalityReview Source",
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDIT ServicesReview Source",
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "“Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response”",
+      "reviewer": "VULNERABILITY MANAGER<50M USD, IT Services",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "“Explore the Ease of Finding and Focusing on Big Issues with this Software”",
+      "reviewer": "Research and Development Associate<50M USD, Energy and Utilities",
+      "date": "Jun 13, 2024"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "SECURITY ANALYST50M-1B USDTelecommunicationReview Source",
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "reviewer": "Security Engineer50M-1B USDServices (non-Government)Review Source",
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDTravel and HospitalityReview Source",
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDIT ServicesReview Source",
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "“Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response”",
+      "reviewer": "VULNERABILITY MANAGER<50M USD, IT Services",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "“Explore the Ease of Finding and Focusing on Big Issues with this Software”",
+      "reviewer": "Research and Development Associate<50M USD, Energy and Utilities",
+      "date": "Jun 13, 2024"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "SECURITY ANALYST50M-1B USDTelecommunicationReview Source",
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "reviewer": "Security Engineer50M-1B USDServices (non-Government)Review Source",
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDTravel and HospitalityReview Source",
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDIT ServicesReview Source",
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "“Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response”",
+      "reviewer": "VULNERABILITY MANAGER<50M USD, IT Services",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "“Explore the Ease of Finding and Focusing on Big Issues with this Software”",
+      "reviewer": "Research and Development Associate<50M USD, Energy and Utilities",
+      "date": "Jun 13, 2024"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "SECURITY ANALYST50M-1B USDTelecommunicationReview Source",
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "reviewer": "Security Engineer50M-1B USDServices (non-Government)Review Source",
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDTravel and HospitalityReview Source",
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDIT ServicesReview Source",
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "“Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response”",
+      "reviewer": "VULNERABILITY MANAGER<50M USD, IT Services",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "“Explore the Ease of Finding and Focusing on Big Issues with this Software”",
+      "reviewer": "Research and Development Associate<50M USD, Energy and Utilities",
+      "date": "Jun 13, 2024"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "SECURITY ANALYST50M-1B USDTelecommunicationReview Source",
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "reviewer": "Security Engineer50M-1B USDServices (non-Government)Review Source",
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDTravel and HospitalityReview Source",
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDIT ServicesReview Source",
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "“Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response”",
+      "reviewer": "VULNERABILITY MANAGER<50M USD, IT Services",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "“Explore the Ease of Finding and Focusing on Big Issues with this Software”",
+      "reviewer": "Research and Development Associate<50M USD, Energy and Utilities",
+      "date": "Jun 13, 2024"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "SECURITY ANALYST50M-1B USDTelecommunicationReview Source",
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "reviewer": "Security Engineer50M-1B USDServices (non-Government)Review Source",
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDTravel and HospitalityReview Source",
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDIT ServicesReview Source",
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "“Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response”",
+      "reviewer": "VULNERABILITY MANAGER<50M USD, IT Services",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "“Explore the Ease of Finding and Focusing on Big Issues with this Software”",
+      "reviewer": "Research and Development Associate<50M USD, Energy and Utilities",
+      "date": "Jun 13, 2024"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "SECURITY ANALYST50M-1B USDTelecommunicationReview Source",
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "reviewer": "Security Engineer50M-1B USDServices (non-Government)Review Source",
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDTravel and HospitalityReview Source",
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDIT ServicesReview Source",
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "“Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response”",
+      "reviewer": "VULNERABILITY MANAGER<50M USD, IT Services",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "“Explore the Ease of Finding and Focusing on Big Issues with this Software”",
+      "reviewer": "Research and Development Associate<50M USD, Energy and Utilities",
+      "date": "Jun 13, 2024"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "SECURITY ANALYST50M-1B USDTelecommunicationReview Source",
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "reviewer": "Security Engineer50M-1B USDServices (non-Government)Review Source",
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDTravel and HospitalityReview Source",
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDIT ServicesReview Source",
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "“Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response”",
+      "reviewer": "VULNERABILITY MANAGER<50M USD, IT Services",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "“Explore the Ease of Finding and Focusing on Big Issues with this Software”",
+      "reviewer": "Research and Development Associate<50M USD, Energy and Utilities",
+      "date": "Jun 13, 2024"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "reviewer": "VULNERABILITY MANAGER<50M USDIT ServicesReview Source",
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Realm Management Amid Periodic Sluggishness in Platform Response",
+      "rating": 4.0,
+      "date": "Sep 15, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "SECURITY ANALYST50M-1B USDTelecommunicationReview Source",
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "Supportive CVE Protection Yet slight gap on Broader Coverage of Emerging Vulnerabilities",
+      "rating": 5.0,
+      "date": "Jun 18, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "reviewer": "Security Engineer50M-1B USDServices (non-Government)Review Source",
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "CyCognito's Impact: Exploring Key Features and Ease of Use",
+      "rating": 5.0,
+      "date": "Apr 15, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDTravel and HospitalityReview Source",
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Cycognitos: A Reliable Force in Managing External Attack Surface",
+      "rating": 5.0,
+      "date": "Apr 24, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDIT ServicesReview Source",
+      "date": "Jan 17, 2025"
+    },
+    {
+      "title": "Effortless setup and overall experience",
+      "rating": 5.0,
+      "date": "Jan 17, 2025"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

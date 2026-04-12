@@ -1,0 +1,663 @@
+{
+  "product": "Lansweeper",
+  "slug": "lansweeper-393109405",
+  "url": "https://www.gartner.com/reviews/product/lansweeper-393109405",
+  "rating": 4.3,
+  "review_count": 233,
+  "vendor": "Lansweeper",
+  "description": "Lansweeper helps organizations see, understand, and make confident decisions about their technology estate across IT, OT, IoT, and Cloud. Lansweeper automatically discovers and inventories every asset: hardware, software, and user, then connects that data toinsights about usage, lifecycle, and risk. This is to create what the vendor describes as Cyber Asset Intelligence: a trusted foundation of knowledge that turns raw inventory data into clear, actionable understanding.",
+  "market": "cyber-asset-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.”",
+      "reviewer": "Manager, It Security And Risk Management10B - 30B USD, Manufacturing",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“A good tool, but in part data interpretation could prove difficult”",
+      "reviewer": "ENGINEER<50M USD, Banking",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management10B+ USDManufacturingReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDIT ServicesReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "reviewer": "Software Developer<50M USDIT ServicesReview Source",
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "reviewer": "Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "reviewer": "It AssociateGov't/PS/EdEducationReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "“Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.”",
+      "reviewer": "Manager, It Security And Risk Management10B - 30B USD, Manufacturing",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“A good tool, but in part data interpretation could prove difficult”",
+      "reviewer": "ENGINEER<50M USD, Banking",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management10B+ USDManufacturingReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDIT ServicesReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "reviewer": "Software Developer<50M USDIT ServicesReview Source",
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "reviewer": "Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "reviewer": "It AssociateGov't/PS/EdEducationReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "“Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.”",
+      "reviewer": "Manager, It Security And Risk Management10B - 30B USD, Manufacturing",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“A good tool, but in part data interpretation could prove difficult”",
+      "reviewer": "ENGINEER<50M USD, Banking",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management10B+ USDManufacturingReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDIT ServicesReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "reviewer": "Software Developer<50M USDIT ServicesReview Source",
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "reviewer": "Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "reviewer": "It AssociateGov't/PS/EdEducationReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "“Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.”",
+      "reviewer": "Manager, It Security And Risk Management10B - 30B USD, Manufacturing",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“A good tool, but in part data interpretation could prove difficult”",
+      "reviewer": "ENGINEER<50M USD, Banking",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management10B+ USDManufacturingReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDIT ServicesReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "reviewer": "Software Developer<50M USDIT ServicesReview Source",
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "reviewer": "Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "reviewer": "It AssociateGov't/PS/EdEducationReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "“Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.”",
+      "reviewer": "Manager, It Security And Risk Management10B - 30B USD, Manufacturing",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“A good tool, but in part data interpretation could prove difficult”",
+      "reviewer": "ENGINEER<50M USD, Banking",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management10B+ USDManufacturingReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDIT ServicesReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "reviewer": "Software Developer<50M USDIT ServicesReview Source",
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "reviewer": "Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "reviewer": "It AssociateGov't/PS/EdEducationReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "“Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.”",
+      "reviewer": "Manager, It Security And Risk Management10B - 30B USD, Manufacturing",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“A good tool, but in part data interpretation could prove difficult”",
+      "reviewer": "ENGINEER<50M USD, Banking",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management10B+ USDManufacturingReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDIT ServicesReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "reviewer": "Software Developer<50M USDIT ServicesReview Source",
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "reviewer": "Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "reviewer": "It AssociateGov't/PS/EdEducationReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "“Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.”",
+      "reviewer": "Manager, It Security And Risk Management10B - 30B USD, Manufacturing",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“A good tool, but in part data interpretation could prove difficult”",
+      "reviewer": "ENGINEER<50M USD, Banking",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management10B+ USDManufacturingReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDIT ServicesReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "reviewer": "Software Developer<50M USDIT ServicesReview Source",
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "reviewer": "Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "reviewer": "It AssociateGov't/PS/EdEducationReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "“Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.”",
+      "reviewer": "Manager, It Security And Risk Management10B - 30B USD, Manufacturing",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“A good tool, but in part data interpretation could prove difficult”",
+      "reviewer": "ENGINEER<50M USD, Banking",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management10B+ USDManufacturingReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDIT ServicesReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "reviewer": "Software Developer<50M USDIT ServicesReview Source",
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "reviewer": "Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "reviewer": "It AssociateGov't/PS/EdEducationReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "“Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.”",
+      "reviewer": "Manager, It Security And Risk Management10B - 30B USD, Manufacturing",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“A good tool, but in part data interpretation could prove difficult”",
+      "reviewer": "ENGINEER<50M USD, Banking",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management10B+ USDManufacturingReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDIT ServicesReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "reviewer": "Software Developer<50M USDIT ServicesReview Source",
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "reviewer": "Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "reviewer": "It AssociateGov't/PS/EdEducationReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "“Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.”",
+      "reviewer": "Manager, It Security And Risk Management10B - 30B USD, Manufacturing",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“A good tool, but in part data interpretation could prove difficult”",
+      "reviewer": "ENGINEER<50M USD, Banking",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management10B+ USDManufacturingReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Useful tool for network discovery and maintaining an accurate asset inventory and identifying security gaps using Microsoft vulnerability reports.",
+      "rating": 4.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDIT ServicesReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Comprehensive asset discovery solution that could be more intuitive in advanced confoigurations",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "reviewer": "Software Developer<50M USDIT ServicesReview Source",
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Strong asset visibility and inventory tracking, with best results when governance is defined early",
+      "rating": 4.0,
+      "date": "Mar 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "reviewer": "Engineering Manager50M-1B USDIT ServicesReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Not just an inventory tool, for mid-sized organizations it fits very well",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "reviewer": "It AssociateGov't/PS/EdEducationReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Powerful and reliable once set up, with excellent visibility into assets.",
+      "rating": 4.0,
+      "date": "Feb 12, 2026"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

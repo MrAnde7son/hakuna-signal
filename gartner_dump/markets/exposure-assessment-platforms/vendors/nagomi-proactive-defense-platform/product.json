@@ -1,0 +1,612 @@
+{
+  "product": "Nagomi Proactive Defense Platform",
+  "slug": "nagomi-proactive-defense-platform",
+  "url": "https://www.gartner.com/reviews/product/nagomi-proactive-defense-platform",
+  "review_count": 18,
+  "vendor": "Nagomi",
+  "description": "The Nagomi Proactive Defense Platform automates the management of security tools, enabling security teams to streamline operations, automate routine tasks, and reclaim valuable time. Using simple language, the platform connects identified threats directly to theirpotential business impacts. This capability simplifies the process of reporting coverage gaps to the board and evaluating each tool's business value. With Nagomi, Chief Information Security Officers (CISOs) gain confidence in optimizing tool effectiveness and achieving maximum ROI from their organization's security investments.",
+  "market": "exposure-assessment-platforms",
+  "reviews": [
+    {
+      "title": "“Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights”",
+      "reviewer": "IT Security & Risk Management Associate10B - 30B USD, Manufacturing",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDManufacturingReview Source",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDInsurance (except health)Review Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "reviewer": "Director of IT50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDBankingReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDBankingReview Source",
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "“Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights”",
+      "reviewer": "IT Security & Risk Management Associate10B - 30B USD, Manufacturing",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDManufacturingReview Source",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDInsurance (except health)Review Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "reviewer": "Director of IT50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDBankingReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDBankingReview Source",
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "“Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights”",
+      "reviewer": "IT Security & Risk Management Associate10B - 30B USD, Manufacturing",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDManufacturingReview Source",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDInsurance (except health)Review Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "reviewer": "Director of IT50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDBankingReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDBankingReview Source",
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "“Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights”",
+      "reviewer": "IT Security & Risk Management Associate10B - 30B USD, Manufacturing",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDManufacturingReview Source",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDInsurance (except health)Review Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "reviewer": "Director of IT50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDBankingReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDBankingReview Source",
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "“Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights”",
+      "reviewer": "IT Security & Risk Management Associate10B - 30B USD, Manufacturing",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDManufacturingReview Source",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDInsurance (except health)Review Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "reviewer": "Director of IT50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDBankingReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDBankingReview Source",
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "“Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights”",
+      "reviewer": "IT Security & Risk Management Associate10B - 30B USD, Manufacturing",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDManufacturingReview Source",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDInsurance (except health)Review Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "reviewer": "Director of IT50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDBankingReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDBankingReview Source",
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "“Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights”",
+      "reviewer": "IT Security & Risk Management Associate10B - 30B USD, Manufacturing",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDManufacturingReview Source",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDInsurance (except health)Review Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "reviewer": "Director of IT50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDBankingReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDBankingReview Source",
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "“Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights”",
+      "reviewer": "IT Security & Risk Management Associate10B - 30B USD, Manufacturing",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDManufacturingReview Source",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDInsurance (except health)Review Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "reviewer": "Director of IT50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDBankingReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDBankingReview Source",
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "“Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights”",
+      "reviewer": "IT Security & Risk Management Associate10B - 30B USD, Manufacturing",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDManufacturingReview Source",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDInsurance (except health)Review Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "reviewer": "Director of IT50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDBankingReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDBankingReview Source",
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "“Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights”",
+      "reviewer": "IT Security & Risk Management Associate10B - 30B USD, Manufacturing",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDManufacturingReview Source",
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Nagomi Platform Aggregates Data and Adds Context for Actionable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 29, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDInsurance (except health)Review Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Attentive Support Addresses Integration Issues With Security Tools and Vendor Platforms",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "reviewer": "Director of IT50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Stitches information from your existing security tools together to enable better visibility",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDBankingReview Source",
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Security Posture Quantification, Executive Reporting, and Metric Trending",
+      "rating": 5.0,
+      "date": "Dec 2, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDBankingReview Source",
+      "date": "Apr 3, 2025"
+    },
+    {
+      "title": "Nagomi is a game changer for CISO's",
+      "rating": 5.0,
+      "date": "Apr 3, 2025"
+    }
+  ],
+  "total_reviews_crawled": 110
+}

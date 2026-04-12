@@ -1,0 +1,613 @@
+{
+  "product": "Zafran Threat Exposure Management Platform",
+  "slug": "zafran-threat-exposure-management-platform",
+  "url": "https://www.gartner.com/reviews/product/zafran-threat-exposure-management-platform",
+  "rating": 4.9,
+  "review_count": 9,
+  "vendor": "Zafran Security",
+  "description": "Zafran Threat Exposure Management Platform is a software designed to help organizations identify, prioritize, and manage cyber risks across their digital environment. The software aggregates vulnerability data from multiple sources, automates asset discovery, and analyzessecurity gaps to provide actionable insights. Its features include continuous monitoring, risk scoring, and remediation guidance to support informed decision-making in security operations. Zafran Threat Exposure Management Platform assists businesses in reducing their attack surface, optimizing vulnerability management processes, and aligning security measures with organizational risk tolerance. The software is intended to improve overall cybersecurity posture by streamlining exposure detection and response efforts.",
+  "market": "exposure-assessment-platforms",
+  "reviews": [
+    {
+      "title": "“Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Healthcare and Biotech",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDInsurance (except health)Review Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDMiscellaneousReview Source",
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDHealthcare and BiotechReview Source",
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "“Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Healthcare and Biotech",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDInsurance (except health)Review Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDMiscellaneousReview Source",
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDHealthcare and BiotechReview Source",
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "“Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Healthcare and Biotech",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDInsurance (except health)Review Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDMiscellaneousReview Source",
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDHealthcare and BiotechReview Source",
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "“Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Healthcare and Biotech",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDInsurance (except health)Review Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDMiscellaneousReview Source",
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDHealthcare and BiotechReview Source",
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "“Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Healthcare and Biotech",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDInsurance (except health)Review Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDMiscellaneousReview Source",
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDHealthcare and BiotechReview Source",
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "“Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Healthcare and Biotech",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDInsurance (except health)Review Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDMiscellaneousReview Source",
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDHealthcare and BiotechReview Source",
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "“Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Healthcare and Biotech",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDInsurance (except health)Review Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDMiscellaneousReview Source",
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDHealthcare and BiotechReview Source",
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "“Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Healthcare and Biotech",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDInsurance (except health)Review Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDMiscellaneousReview Source",
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDHealthcare and BiotechReview Source",
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "“Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Healthcare and Biotech",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDInsurance (except health)Review Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDMiscellaneousReview Source",
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDHealthcare and BiotechReview Source",
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "“Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Healthcare and Biotech",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Zafran Enhances Vulnerability Assessment With Contextual Risk Insights and Reduced Noise",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDInsurance (except health)Review Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Continuous Threat Exposure Management Enables Real-Time Risk Scoring for Vulnerabilities",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDMiscellaneousReview Source",
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Supportive Team Enhances Zafran Experience for Security Analysts at Children’s",
+      "rating": 5.0,
+      "date": "Feb 23, 2026"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "reviewer": "Director, IT Security and Risk Management50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Vulnerability prioritization far exceeded our expectations",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDHealthcare and BiotechReview Source",
+      "date": "Feb 20, 2026"
+    },
+    {
+      "title": "Comprehensive Risk Insights Delivered Through Multiple Technology Feed Integration",
+      "rating": 5.0,
+      "date": "Feb 20, 2026"
+    }
+  ],
+  "total_reviews_crawled": 110
+}

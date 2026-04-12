@@ -1,0 +1,663 @@
+{
+  "product": "Surface Command",
+  "slug": "surface-command",
+  "url": "https://www.gartner.com/reviews/product/surface-command",
+  "rating": 4.4,
+  "review_count": 22,
+  "vendor": "Rapid7",
+  "description": "Surface Command is a software developed by Rapid7 designed to support organizations in managing and minimizing exposure to cybersecurity threats. The software provides visibility into external digital assets and monitors changes in attack surfaces, helpingteams identify potential vulnerabilities and areas for improvement. It enables continuous inventory and assessment of internet-facing assets, prioritizes risks based on context, and streamlines workflows for remediation. The software addresses the business challenge of maintaining a secure external footprint, reducing the risk of intrusion and supporting compliance efforts by offering timely insights and actionable data for security teams.",
+  "market": "cyber-asset-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays”",
+      "reviewer": "Manager of IT Services<50M USD, Services (non-Government)",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "“Single-console access is convenient but faces slow loading and limited reporting features”",
+      "reviewer": "CYBERSECURITY ENGINEER3B - 10B USD, Retail",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "reviewer": "Manager of IT Services<50M USDServices (non-Government)Review Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "reviewer": "CYBERSECURITY ENGINEER1B-10B USDRetailReview Source",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "reviewer": "SENIOR SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "“Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays”",
+      "reviewer": "Manager of IT Services<50M USD, Services (non-Government)",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "“Single-console access is convenient but faces slow loading and limited reporting features”",
+      "reviewer": "CYBERSECURITY ENGINEER3B - 10B USD, Retail",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "reviewer": "Manager of IT Services<50M USDServices (non-Government)Review Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "reviewer": "CYBERSECURITY ENGINEER1B-10B USDRetailReview Source",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "reviewer": "SENIOR SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "“Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays”",
+      "reviewer": "Manager of IT Services<50M USD, Services (non-Government)",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "“Single-console access is convenient but faces slow loading and limited reporting features”",
+      "reviewer": "CYBERSECURITY ENGINEER3B - 10B USD, Retail",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "reviewer": "Manager of IT Services<50M USDServices (non-Government)Review Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "reviewer": "CYBERSECURITY ENGINEER1B-10B USDRetailReview Source",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "reviewer": "SENIOR SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "“Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays”",
+      "reviewer": "Manager of IT Services<50M USD, Services (non-Government)",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "“Single-console access is convenient but faces slow loading and limited reporting features”",
+      "reviewer": "CYBERSECURITY ENGINEER3B - 10B USD, Retail",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "reviewer": "Manager of IT Services<50M USDServices (non-Government)Review Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "reviewer": "CYBERSECURITY ENGINEER1B-10B USDRetailReview Source",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "reviewer": "SENIOR SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "“Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays”",
+      "reviewer": "Manager of IT Services<50M USD, Services (non-Government)",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "“Single-console access is convenient but faces slow loading and limited reporting features”",
+      "reviewer": "CYBERSECURITY ENGINEER3B - 10B USD, Retail",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "reviewer": "Manager of IT Services<50M USDServices (non-Government)Review Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "reviewer": "CYBERSECURITY ENGINEER1B-10B USDRetailReview Source",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "reviewer": "SENIOR SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "“Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays”",
+      "reviewer": "Manager of IT Services<50M USD, Services (non-Government)",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "“Single-console access is convenient but faces slow loading and limited reporting features”",
+      "reviewer": "CYBERSECURITY ENGINEER3B - 10B USD, Retail",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "reviewer": "Manager of IT Services<50M USDServices (non-Government)Review Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "reviewer": "CYBERSECURITY ENGINEER1B-10B USDRetailReview Source",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "reviewer": "SENIOR SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "“Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays”",
+      "reviewer": "Manager of IT Services<50M USD, Services (non-Government)",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "“Single-console access is convenient but faces slow loading and limited reporting features”",
+      "reviewer": "CYBERSECURITY ENGINEER3B - 10B USD, Retail",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "reviewer": "Manager of IT Services<50M USDServices (non-Government)Review Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "reviewer": "CYBERSECURITY ENGINEER1B-10B USDRetailReview Source",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "reviewer": "SENIOR SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "“Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays”",
+      "reviewer": "Manager of IT Services<50M USD, Services (non-Government)",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "“Single-console access is convenient but faces slow loading and limited reporting features”",
+      "reviewer": "CYBERSECURITY ENGINEER3B - 10B USD, Retail",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "reviewer": "Manager of IT Services<50M USDServices (non-Government)Review Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "reviewer": "CYBERSECURITY ENGINEER1B-10B USDRetailReview Source",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "reviewer": "SENIOR SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "“Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays”",
+      "reviewer": "Manager of IT Services<50M USD, Services (non-Government)",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "“Single-console access is convenient but faces slow loading and limited reporting features”",
+      "reviewer": "CYBERSECURITY ENGINEER3B - 10B USD, Retail",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "reviewer": "Manager of IT Services<50M USDServices (non-Government)Review Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "reviewer": "CYBERSECURITY ENGINEER1B-10B USDRetailReview Source",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "reviewer": "SENIOR SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "“Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays”",
+      "reviewer": "Manager of IT Services<50M USD, Services (non-Government)",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "“Single-console access is convenient but faces slow loading and limited reporting features”",
+      "reviewer": "CYBERSECURITY ENGINEER3B - 10B USD, Retail",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "reviewer": "Manager of IT Services<50M USDServices (non-Government)Review Source",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Comprehensive Asset Visibility Strengthens Early Detection Despite Occasional Scan Delays",
+      "rating": 5.0,
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "reviewer": "CYBERSECURITY ENGINEER1B-10B USDRetailReview Source",
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Single-console access is convenient but faces slow loading and limited reporting features",
+      "rating": 3.0,
+      "date": "Nov 5, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Comprehensive Data Ingestion Enables Detection of Hidden Vulnerabilities in systems and configurations",
+      "rating": 5.0,
+      "date": "Oct 24, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Real-Time Visibility Uncovers Systems Lacking Agents and Security Tool Integration",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "reviewer": "SENIOR SECURITY ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Ease of Management Highlights Command Surface’s Strengths And Potential Limitations",
+      "rating": 4.0,
+      "date": "Oct 27, 2025"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

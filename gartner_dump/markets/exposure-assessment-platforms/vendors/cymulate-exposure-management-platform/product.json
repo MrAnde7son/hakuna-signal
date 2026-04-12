@@ -1,0 +1,663 @@
+{
+  "product": "Cymulate Exposure Management Platform",
+  "slug": "cymulate-exposure-management-platform",
+  "url": "https://www.gartner.com/reviews/product/cymulate-exposure-management-platform",
+  "rating": 4.3,
+  "review_count": 9,
+  "vendor": "Cymulate",
+  "description": "Cymulate is an exposure management platform designed to validate threats, prioritize validated exposures, and optimize threat resilience. It continuously tests how well your security controls prevent and detect real-world attacks using an extensive, production-safe attacklibrary mapped to the full kill chain and the MITRE ATT&CK framework. By combining these validation insights with vulnerability and asset data, Cymulate reveals what is truly exploitable and prioritizes exposures based on proven control performance, threat intel, and business context. The platform provides actionable guidance—IoCs, control updates, and new detection rules—and integrates with SIEM, XDR, EDR, and VM tools. Cymulate helps organizations ensure security controls perform as expected and focus resources on the risks that matter most.",
+  "market": "exposure-assessment-platforms",
+  "reviews": [
+    {
+      "title": "“Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation”",
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "“Easy Setup and Simulation Features Helped With Exposure Management Decision Making”",
+      "reviewer": "Cybersecurity Analyst3B - 10B USD, Manufacturing",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdEducationReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "reviewer": "HEAD OF INFORMATION SECURITY1B-10B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDFinance (non-banking)Review Source",
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "reviewer": "Cybersecurity Analyst1B-10B USDManufacturingReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "“Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation”",
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "“Easy Setup and Simulation Features Helped With Exposure Management Decision Making”",
+      "reviewer": "Cybersecurity Analyst3B - 10B USD, Manufacturing",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdEducationReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "reviewer": "HEAD OF INFORMATION SECURITY1B-10B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDFinance (non-banking)Review Source",
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "reviewer": "Cybersecurity Analyst1B-10B USDManufacturingReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "“Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation”",
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "“Easy Setup and Simulation Features Helped With Exposure Management Decision Making”",
+      "reviewer": "Cybersecurity Analyst3B - 10B USD, Manufacturing",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdEducationReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "reviewer": "HEAD OF INFORMATION SECURITY1B-10B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDFinance (non-banking)Review Source",
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "reviewer": "Cybersecurity Analyst1B-10B USDManufacturingReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "“Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation”",
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "“Easy Setup and Simulation Features Helped With Exposure Management Decision Making”",
+      "reviewer": "Cybersecurity Analyst3B - 10B USD, Manufacturing",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdEducationReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "reviewer": "HEAD OF INFORMATION SECURITY1B-10B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDFinance (non-banking)Review Source",
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "reviewer": "Cybersecurity Analyst1B-10B USDManufacturingReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "“Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation”",
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "“Easy Setup and Simulation Features Helped With Exposure Management Decision Making”",
+      "reviewer": "Cybersecurity Analyst3B - 10B USD, Manufacturing",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdEducationReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "reviewer": "HEAD OF INFORMATION SECURITY1B-10B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDFinance (non-banking)Review Source",
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "reviewer": "Cybersecurity Analyst1B-10B USDManufacturingReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "“Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation”",
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "“Easy Setup and Simulation Features Helped With Exposure Management Decision Making”",
+      "reviewer": "Cybersecurity Analyst3B - 10B USD, Manufacturing",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdEducationReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "reviewer": "HEAD OF INFORMATION SECURITY1B-10B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDFinance (non-banking)Review Source",
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "reviewer": "Cybersecurity Analyst1B-10B USDManufacturingReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "“Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation”",
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "“Easy Setup and Simulation Features Helped With Exposure Management Decision Making”",
+      "reviewer": "Cybersecurity Analyst3B - 10B USD, Manufacturing",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdEducationReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "reviewer": "HEAD OF INFORMATION SECURITY1B-10B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDFinance (non-banking)Review Source",
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "reviewer": "Cybersecurity Analyst1B-10B USDManufacturingReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "“Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation”",
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "“Easy Setup and Simulation Features Helped With Exposure Management Decision Making”",
+      "reviewer": "Cybersecurity Analyst3B - 10B USD, Manufacturing",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdEducationReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "reviewer": "HEAD OF INFORMATION SECURITY1B-10B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDFinance (non-banking)Review Source",
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "reviewer": "Cybersecurity Analyst1B-10B USDManufacturingReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "“Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation”",
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "“Easy Setup and Simulation Features Helped With Exposure Management Decision Making”",
+      "reviewer": "Cybersecurity Analyst3B - 10B USD, Manufacturing",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdEducationReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "reviewer": "HEAD OF INFORMATION SECURITY1B-10B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDFinance (non-banking)Review Source",
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "reviewer": "Cybersecurity Analyst1B-10B USDManufacturingReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "“Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation”",
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/ED 5,000 - 50,000 Employees, Education",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "“Easy Setup and Simulation Features Helped With Exposure Management Decision Making”",
+      "reviewer": "Cybersecurity Analyst3B - 10B USD, Manufacturing",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdEducationReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Realistic Attack Simulations Strengthen Security Validation and Risk-Based Remediation",
+      "rating": 5.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "reviewer": "HEAD OF INFORMATION SECURITY1B-10B USDEnergy and UtilitiesReview Source",
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Truly exceptional!",
+      "rating": 5.0,
+      "date": "Feb 24, 2026"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Immediate Threats Feature Accurately Maps Current Campaigns, Exposing Security Gaps",
+      "rating": 5.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDFinance (non-banking)Review Source",
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Essential tool to test the cybersecurity posture and countermeasure il place; deep know-how needed to understand findings and remediation action to take to improve",
+      "rating": 4.0,
+      "date": "Feb 26, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "reviewer": "Cybersecurity Analyst1B-10B USDManufacturingReview Source",
+      "date": "Feb 5, 2026"
+    },
+    {
+      "title": "Easy Setup and Simulation Features Helped With Exposure Management Decision Making",
+      "rating": 2.0,
+      "date": "Feb 5, 2026"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

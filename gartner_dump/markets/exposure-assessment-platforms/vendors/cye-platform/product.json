@@ -1,0 +1,663 @@
+{
+  "product": "Cye Platform",
+  "slug": "cye-platform",
+  "url": "https://www.gartner.com/reviews/product/cye-platform",
+  "rating": 4.6,
+  "review_count": 16,
+  "vendor": "CYE",
+  "description": "Cye is an exposure management platform that gives security leaders the confidence to reduce cyber exposure with smart, defensible, ROI-driven decisions.The platform minimizes time to clarity and action with AI-driven data ingestion from virtuallyany source, attack graphs that reflect real-world exploitability across the organization’s environment, and a Cye AI Agent that accelerates insights and decision-making grounded in the organization’s data.For business-aligned prioritization, Cye quantifies exposure in business terms by calculating the likelihood and potential cost of breach. Teams turn findings into prioritized mitigation plans and operationalize remediation through integrations, reducing time from assessment to action.Continuous NIST-mapped maturity tracking, benchmarking, and board-ready automated reporting align stakeholders and demonstrate progress.",
+  "market": "exposure-assessment-platforms",
+  "reviews": [
+    {
+      "title": "“CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.”",
+      "reviewer": "Chief Information Security Officer1B - 3B USD, Retail",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "“Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform”",
+      "reviewer": "It Security & Risk Management Associate1B - 3B USD, Services (non-Government)",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "reviewer": "It Security & Risk Management Associate1B-10B USDServices (non-Government)Review Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDRetailReview Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "reviewer": "IT Associate1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "reviewer": "VP, IT1B-10B USDBankingReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "“CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.”",
+      "reviewer": "Chief Information Security Officer1B - 3B USD, Retail",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "“Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform”",
+      "reviewer": "It Security & Risk Management Associate1B - 3B USD, Services (non-Government)",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "reviewer": "It Security & Risk Management Associate1B-10B USDServices (non-Government)Review Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDRetailReview Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "reviewer": "IT Associate1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "reviewer": "VP, IT1B-10B USDBankingReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "“CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.”",
+      "reviewer": "Chief Information Security Officer1B - 3B USD, Retail",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "“Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform”",
+      "reviewer": "It Security & Risk Management Associate1B - 3B USD, Services (non-Government)",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "reviewer": "It Security & Risk Management Associate1B-10B USDServices (non-Government)Review Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDRetailReview Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "reviewer": "IT Associate1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "reviewer": "VP, IT1B-10B USDBankingReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "“CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.”",
+      "reviewer": "Chief Information Security Officer1B - 3B USD, Retail",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "“Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform”",
+      "reviewer": "It Security & Risk Management Associate1B - 3B USD, Services (non-Government)",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "reviewer": "It Security & Risk Management Associate1B-10B USDServices (non-Government)Review Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDRetailReview Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "reviewer": "IT Associate1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "reviewer": "VP, IT1B-10B USDBankingReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "“CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.”",
+      "reviewer": "Chief Information Security Officer1B - 3B USD, Retail",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "“Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform”",
+      "reviewer": "It Security & Risk Management Associate1B - 3B USD, Services (non-Government)",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "reviewer": "It Security & Risk Management Associate1B-10B USDServices (non-Government)Review Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDRetailReview Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "reviewer": "IT Associate1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "reviewer": "VP, IT1B-10B USDBankingReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "“CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.”",
+      "reviewer": "Chief Information Security Officer1B - 3B USD, Retail",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "“Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform”",
+      "reviewer": "It Security & Risk Management Associate1B - 3B USD, Services (non-Government)",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "reviewer": "It Security & Risk Management Associate1B-10B USDServices (non-Government)Review Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDRetailReview Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "reviewer": "IT Associate1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "reviewer": "VP, IT1B-10B USDBankingReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "“CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.”",
+      "reviewer": "Chief Information Security Officer1B - 3B USD, Retail",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "“Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform”",
+      "reviewer": "It Security & Risk Management Associate1B - 3B USD, Services (non-Government)",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "reviewer": "It Security & Risk Management Associate1B-10B USDServices (non-Government)Review Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDRetailReview Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "reviewer": "IT Associate1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "reviewer": "VP, IT1B-10B USDBankingReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "“CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.”",
+      "reviewer": "Chief Information Security Officer1B - 3B USD, Retail",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "“Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform”",
+      "reviewer": "It Security & Risk Management Associate1B - 3B USD, Services (non-Government)",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "reviewer": "It Security & Risk Management Associate1B-10B USDServices (non-Government)Review Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDRetailReview Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "reviewer": "IT Associate1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "reviewer": "VP, IT1B-10B USDBankingReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "“CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.”",
+      "reviewer": "Chief Information Security Officer1B - 3B USD, Retail",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "“Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform”",
+      "reviewer": "It Security & Risk Management Associate1B - 3B USD, Services (non-Government)",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "reviewer": "It Security & Risk Management Associate1B-10B USDServices (non-Government)Review Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDRetailReview Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "reviewer": "IT Associate1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "reviewer": "VP, IT1B-10B USDBankingReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "“CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.”",
+      "reviewer": "Chief Information Security Officer1B - 3B USD, Retail",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "“Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform”",
+      "reviewer": "It Security & Risk Management Associate1B - 3B USD, Services (non-Government)",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "reviewer": "It Security & Risk Management Associate1B-10B USDServices (non-Government)Review Source",
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "Challenges in Achieving Unified Reporting Across Multiple Subsidiaries With CYE Platform",
+      "rating": 3.0,
+      "date": "Mar 24, 2026"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDRetailReview Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "CYESEC Hyver Offers Precise Risk Reduction - cutting the noise and fix what matters.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "reviewer": "IT Associate1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Hyver Review",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDManufacturingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Mitigation Steps Aid in Addressing Findings And Are Company Specific",
+      "rating": 5.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "reviewer": "VP, IT1B-10B USDBankingReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Strategic Partnership with CYE Strengthens Our Security Posture",
+      "rating": 5.0,
+      "date": "Dec 11, 2025"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

@@ -1,0 +1,613 @@
+{
+  "product": "Reach Security",
+  "slug": "reach-security-294493210",
+  "url": "https://www.gartner.com/reviews/product/reach-security-294493210",
+  "rating": 4.8,
+  "review_count": 13,
+  "vendor": "Reach Security",
+  "description": "Reach Security is a software designed to manage and secure digital environments against unauthorized access and cyber threats. The software offers features such as identity and access management, threat detection, and automated response capabilities toprotect sensitive information. It facilitates streamlined monitoring and incident reporting to support compliance requirements and minimize security risks. Reach Security addresses the business need for robust cybersecurity measures, helping organizations safeguard data and manage security operations efficiently across their technology infrastructure.",
+  "market": "exposure-assessment-platforms",
+  "reviews": [
+    {
+      "title": "“Let Reach get your security tooling ducks in a row”",
+      "reviewer": "Manager, IT Security and Risk Management50M - 250M USD, Manufacturing",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "reviewer": "Development Operational Engineers50M-1B USDManufacturingReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "reviewer": "IT security engineer1B-10B USDConsumer GoodsReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "reviewer": "Deputy CISO, VP, Technology & Strategy1B-10B USDManufacturingReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "“Let Reach get your security tooling ducks in a row”",
+      "reviewer": "Manager, IT Security and Risk Management50M - 250M USD, Manufacturing",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "reviewer": "Development Operational Engineers50M-1B USDManufacturingReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "reviewer": "IT security engineer1B-10B USDConsumer GoodsReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "reviewer": "Deputy CISO, VP, Technology & Strategy1B-10B USDManufacturingReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "“Let Reach get your security tooling ducks in a row”",
+      "reviewer": "Manager, IT Security and Risk Management50M - 250M USD, Manufacturing",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "reviewer": "Development Operational Engineers50M-1B USDManufacturingReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "reviewer": "IT security engineer1B-10B USDConsumer GoodsReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "reviewer": "Deputy CISO, VP, Technology & Strategy1B-10B USDManufacturingReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "“Let Reach get your security tooling ducks in a row”",
+      "reviewer": "Manager, IT Security and Risk Management50M - 250M USD, Manufacturing",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "reviewer": "Development Operational Engineers50M-1B USDManufacturingReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "reviewer": "IT security engineer1B-10B USDConsumer GoodsReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "reviewer": "Deputy CISO, VP, Technology & Strategy1B-10B USDManufacturingReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "“Let Reach get your security tooling ducks in a row”",
+      "reviewer": "Manager, IT Security and Risk Management50M - 250M USD, Manufacturing",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "reviewer": "Development Operational Engineers50M-1B USDManufacturingReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "reviewer": "IT security engineer1B-10B USDConsumer GoodsReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "reviewer": "Deputy CISO, VP, Technology & Strategy1B-10B USDManufacturingReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "“Let Reach get your security tooling ducks in a row”",
+      "reviewer": "Manager, IT Security and Risk Management50M - 250M USD, Manufacturing",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "reviewer": "Development Operational Engineers50M-1B USDManufacturingReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "reviewer": "IT security engineer1B-10B USDConsumer GoodsReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "reviewer": "Deputy CISO, VP, Technology & Strategy1B-10B USDManufacturingReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "“Let Reach get your security tooling ducks in a row”",
+      "reviewer": "Manager, IT Security and Risk Management50M - 250M USD, Manufacturing",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "reviewer": "Development Operational Engineers50M-1B USDManufacturingReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "reviewer": "IT security engineer1B-10B USDConsumer GoodsReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "reviewer": "Deputy CISO, VP, Technology & Strategy1B-10B USDManufacturingReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "“Let Reach get your security tooling ducks in a row”",
+      "reviewer": "Manager, IT Security and Risk Management50M - 250M USD, Manufacturing",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "reviewer": "Development Operational Engineers50M-1B USDManufacturingReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "reviewer": "IT security engineer1B-10B USDConsumer GoodsReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "reviewer": "Deputy CISO, VP, Technology & Strategy1B-10B USDManufacturingReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "“Let Reach get your security tooling ducks in a row”",
+      "reviewer": "Manager, IT Security and Risk Management50M - 250M USD, Manufacturing",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "reviewer": "Development Operational Engineers50M-1B USDManufacturingReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "reviewer": "IT security engineer1B-10B USDConsumer GoodsReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "reviewer": "Deputy CISO, VP, Technology & Strategy1B-10B USDManufacturingReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "“Let Reach get your security tooling ducks in a row”",
+      "reviewer": "Manager, IT Security and Risk Management50M - 250M USD, Manufacturing",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDManufacturingReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Let Reach get your security tooling ducks in a row",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "reviewer": "Development Operational Engineers50M-1B USDManufacturingReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Effective AI Security Operations Platform Faces Maturity And Usability Challenges",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "reviewer": "CISO1B-10B USDBankingReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Less noise, more impact.",
+      "rating": 4.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "reviewer": "IT security engineer1B-10B USDConsumer GoodsReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Conditional Access Implementation Noted as Easy With Responsive Support Team",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "reviewer": "Deputy CISO, VP, Technology & Strategy1B-10B USDManufacturingReview Source",
+      "date": "Aug 6, 2025"
+    },
+    {
+      "title": "Understand and Unlock the Full Power of your Security Tools",
+      "rating": 5.0,
+      "date": "Aug 6, 2025"
+    }
+  ],
+  "total_reviews_crawled": 110
+}

@@ -1,0 +1,659 @@
+{
+  "product": "Dynatrace",
+  "slug": "dynatrace-1740977225",
+  "url": "https://www.gartner.com/reviews/product/dynatrace-1740977225",
+  "market": "exposure-assessment-platforms",
+  "reviews": [
+    {
+      "title": "“DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist”",
+      "reviewer": "IT Associate50M - 250M USD, Software",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Poor guidance and support after purchase and a general tendency to translate any request for assistance into an excuse to increase contract spend.”",
+      "reviewer": "SENIOR SITE RELIABILITY ENGINEER500M - 1B USD, Insurance (except health)",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "reviewer": "IT Associate50M-1B USDSoftwareReview Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "reviewer": "IT Manager1B-10B USDFinance (non-banking)Review Source",
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "reviewer": "Senior Manager - Site Reliability Engine10B+ USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "reviewer": "IT Manager10B+ USDManufacturingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "“DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist”",
+      "reviewer": "IT Associate50M - 250M USD, Software",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Poor guidance and support after purchase and a general tendency to translate any request for assistance into an excuse to increase contract spend.”",
+      "reviewer": "SENIOR SITE RELIABILITY ENGINEER500M - 1B USD, Insurance (except health)",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "reviewer": "IT Associate50M-1B USDSoftwareReview Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "reviewer": "IT Manager1B-10B USDFinance (non-banking)Review Source",
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "reviewer": "Senior Manager - Site Reliability Engine10B+ USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "reviewer": "IT Manager10B+ USDManufacturingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "“DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist”",
+      "reviewer": "IT Associate50M - 250M USD, Software",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Poor guidance and support after purchase and a general tendency to translate any request for assistance into an excuse to increase contract spend.”",
+      "reviewer": "SENIOR SITE RELIABILITY ENGINEER500M - 1B USD, Insurance (except health)",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "reviewer": "IT Associate50M-1B USDSoftwareReview Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "reviewer": "IT Manager1B-10B USDFinance (non-banking)Review Source",
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "reviewer": "Senior Manager - Site Reliability Engine10B+ USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "reviewer": "IT Manager10B+ USDManufacturingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "“DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist”",
+      "reviewer": "IT Associate50M - 250M USD, Software",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Poor guidance and support after purchase and a general tendency to translate any request for assistance into an excuse to increase contract spend.”",
+      "reviewer": "SENIOR SITE RELIABILITY ENGINEER500M - 1B USD, Insurance (except health)",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "reviewer": "IT Associate50M-1B USDSoftwareReview Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "reviewer": "IT Manager1B-10B USDFinance (non-banking)Review Source",
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "reviewer": "Senior Manager - Site Reliability Engine10B+ USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "reviewer": "IT Manager10B+ USDManufacturingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "“DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist”",
+      "reviewer": "IT Associate50M - 250M USD, Software",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Poor guidance and support after purchase and a general tendency to translate any request for assistance into an excuse to increase contract spend.”",
+      "reviewer": "SENIOR SITE RELIABILITY ENGINEER500M - 1B USD, Insurance (except health)",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "reviewer": "IT Associate50M-1B USDSoftwareReview Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "reviewer": "IT Manager1B-10B USDFinance (non-banking)Review Source",
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "reviewer": "Senior Manager - Site Reliability Engine10B+ USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "reviewer": "IT Manager10B+ USDManufacturingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "“DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist”",
+      "reviewer": "IT Associate50M - 250M USD, Software",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Poor guidance and support after purchase and a general tendency to translate any request for assistance into an excuse to increase contract spend.”",
+      "reviewer": "SENIOR SITE RELIABILITY ENGINEER500M - 1B USD, Insurance (except health)",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "reviewer": "IT Associate50M-1B USDSoftwareReview Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "reviewer": "IT Manager1B-10B USDFinance (non-banking)Review Source",
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "reviewer": "Senior Manager - Site Reliability Engine10B+ USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "reviewer": "IT Manager10B+ USDManufacturingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "“DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist”",
+      "reviewer": "IT Associate50M - 250M USD, Software",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Poor guidance and support after purchase and a general tendency to translate any request for assistance into an excuse to increase contract spend.”",
+      "reviewer": "SENIOR SITE RELIABILITY ENGINEER500M - 1B USD, Insurance (except health)",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "reviewer": "IT Associate50M-1B USDSoftwareReview Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "reviewer": "IT Manager1B-10B USDFinance (non-banking)Review Source",
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "reviewer": "Senior Manager - Site Reliability Engine10B+ USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "reviewer": "IT Manager10B+ USDManufacturingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "“DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist”",
+      "reviewer": "IT Associate50M - 250M USD, Software",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Poor guidance and support after purchase and a general tendency to translate any request for assistance into an excuse to increase contract spend.”",
+      "reviewer": "SENIOR SITE RELIABILITY ENGINEER500M - 1B USD, Insurance (except health)",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "reviewer": "IT Associate50M-1B USDSoftwareReview Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "reviewer": "IT Manager1B-10B USDFinance (non-banking)Review Source",
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "reviewer": "Senior Manager - Site Reliability Engine10B+ USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "reviewer": "IT Manager10B+ USDManufacturingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "“DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist”",
+      "reviewer": "IT Associate50M - 250M USD, Software",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Poor guidance and support after purchase and a general tendency to translate any request for assistance into an excuse to increase contract spend.”",
+      "reviewer": "SENIOR SITE RELIABILITY ENGINEER500M - 1B USD, Insurance (except health)",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "reviewer": "IT Associate50M-1B USDSoftwareReview Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "reviewer": "IT Manager1B-10B USDFinance (non-banking)Review Source",
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "reviewer": "Senior Manager - Site Reliability Engine10B+ USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "reviewer": "IT Manager10B+ USDManufacturingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "“DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist”",
+      "reviewer": "IT Associate50M - 250M USD, Software",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Poor guidance and support after purchase and a general tendency to translate any request for assistance into an excuse to increase contract spend.”",
+      "reviewer": "SENIOR SITE RELIABILITY ENGINEER500M - 1B USD, Insurance (except health)",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "reviewer": "IT Associate50M-1B USDSoftwareReview Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "DQL Centralization Praised Yet Deployment and Documentation Difficulties Persist",
+      "rating": 4.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "reviewer": "IT Manager1B-10B USDFinance (non-banking)Review Source",
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Collaboration Approach and Early Insights Noted in Dynatrace Implementation Experience",
+      "rating": 5.0,
+      "date": "Feb 6, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "reviewer": "Senior Manager - Site Reliability Engine10B+ USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Easy Data Querying and Monitoring Features Enhance SRE Workflow Effectiveness",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "reviewer": "IT Manager10B+ USDManufacturingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Classic and New App Versions Create Confusion for Dynatrace Platform Beginners",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDBankingReview Source",
+      "date": "Jan 28, 2026"
+    },
+    {
+      "title": "Comprehensive Observability Available In Dynatrace, License Costs Impact Smaller Companies",
+      "rating": 5.0,
+      "date": "Jan 28, 2026"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

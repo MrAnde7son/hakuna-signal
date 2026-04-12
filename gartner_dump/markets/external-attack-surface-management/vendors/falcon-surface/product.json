@@ -1,0 +1,663 @@
+{
+  "product": "Falcon Surface",
+  "slug": "falcon-surface",
+  "url": "https://www.gartner.com/reviews/product/falcon-surface",
+  "rating": 4.6,
+  "review_count": 87,
+  "vendor": "CrowdStrike",
+  "description": "Falcon Surface is a software platform designed to provide endpoint protection and threat detection for organizations. The software leverages cloud-based analytics to monitor and analyze activity across endpoints, identifying potential vulnerabilities and malicious behavior. Itsfeatures include real-time monitoring, incident response capabilities, and automated remediation processes, aiming to secure devices from a range of cyber threats. Falcon Surface integrates with other security tools to centralize management and reporting, addressing the business problem of preventing unauthorized access and mitigating risks associated with malware and ransomware attacks. The software is positioned to support security teams in managing and reducing the impact of security incidents.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners”",
+      "reviewer": "FLUTTER DEVELOPER<50M USD, IT Services",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "“Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features”",
+      "reviewer": "ENGINEER500M - 1B USD, Manufacturing",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "reviewer": "FLUTTER DEVELOPER<50M USDIT ServicesReview Source",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "reviewer": "ENGINEERING MANAGER50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "reviewer": "It Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDManufacturingReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDBankingReview Source",
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "“Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners”",
+      "reviewer": "FLUTTER DEVELOPER<50M USD, IT Services",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "“Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features”",
+      "reviewer": "ENGINEER500M - 1B USD, Manufacturing",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "reviewer": "FLUTTER DEVELOPER<50M USDIT ServicesReview Source",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "reviewer": "ENGINEERING MANAGER50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "reviewer": "It Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDManufacturingReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDBankingReview Source",
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "“Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners”",
+      "reviewer": "FLUTTER DEVELOPER<50M USD, IT Services",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "“Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features”",
+      "reviewer": "ENGINEER500M - 1B USD, Manufacturing",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "reviewer": "FLUTTER DEVELOPER<50M USDIT ServicesReview Source",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "reviewer": "ENGINEERING MANAGER50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "reviewer": "It Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDManufacturingReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDBankingReview Source",
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "“Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners”",
+      "reviewer": "FLUTTER DEVELOPER<50M USD, IT Services",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "“Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features”",
+      "reviewer": "ENGINEER500M - 1B USD, Manufacturing",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "reviewer": "FLUTTER DEVELOPER<50M USDIT ServicesReview Source",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "reviewer": "ENGINEERING MANAGER50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "reviewer": "It Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDManufacturingReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDBankingReview Source",
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "“Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners”",
+      "reviewer": "FLUTTER DEVELOPER<50M USD, IT Services",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "“Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features”",
+      "reviewer": "ENGINEER500M - 1B USD, Manufacturing",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "reviewer": "FLUTTER DEVELOPER<50M USDIT ServicesReview Source",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "reviewer": "ENGINEERING MANAGER50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "reviewer": "It Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDManufacturingReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDBankingReview Source",
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "“Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners”",
+      "reviewer": "FLUTTER DEVELOPER<50M USD, IT Services",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "“Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features”",
+      "reviewer": "ENGINEER500M - 1B USD, Manufacturing",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "reviewer": "FLUTTER DEVELOPER<50M USDIT ServicesReview Source",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "reviewer": "ENGINEERING MANAGER50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "reviewer": "It Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDManufacturingReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDBankingReview Source",
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "“Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners”",
+      "reviewer": "FLUTTER DEVELOPER<50M USD, IT Services",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "“Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features”",
+      "reviewer": "ENGINEER500M - 1B USD, Manufacturing",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "reviewer": "FLUTTER DEVELOPER<50M USDIT ServicesReview Source",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "reviewer": "ENGINEERING MANAGER50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "reviewer": "It Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDManufacturingReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDBankingReview Source",
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "“Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners”",
+      "reviewer": "FLUTTER DEVELOPER<50M USD, IT Services",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "“Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features”",
+      "reviewer": "ENGINEER500M - 1B USD, Manufacturing",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "reviewer": "FLUTTER DEVELOPER<50M USDIT ServicesReview Source",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "reviewer": "ENGINEERING MANAGER50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "reviewer": "It Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDManufacturingReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDBankingReview Source",
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "“Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners”",
+      "reviewer": "FLUTTER DEVELOPER<50M USD, IT Services",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "“Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features”",
+      "reviewer": "ENGINEER500M - 1B USD, Manufacturing",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "reviewer": "FLUTTER DEVELOPER<50M USDIT ServicesReview Source",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "reviewer": "ENGINEERING MANAGER50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "reviewer": "It Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDManufacturingReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDBankingReview Source",
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "“Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners”",
+      "reviewer": "FLUTTER DEVELOPER<50M USD, IT Services",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "“Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features”",
+      "reviewer": "ENGINEER500M - 1B USD, Manufacturing",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "reviewer": "FLUTTER DEVELOPER<50M USDIT ServicesReview Source",
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Fast Threat Detection but Complex Dashboards Challenge Beginners",
+      "rating": 4.0,
+      "date": "Nov 30, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "reviewer": "ENGINEERING MANAGER50M-1B USDEnergy and UtilitiesReview Source",
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Effortless Status Reporting Covers Successful and Failed Logins Without Extra Steps",
+      "rating": 5.0,
+      "date": "Nov 11, 2025"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "reviewer": "It Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Automated Discovery Improves Security Monitoring, But False Positives Are Possible",
+      "rating": 4.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDManufacturingReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Falcon Surface Offers Accurate Attack Surface Visibility and Asset Discovery Features",
+      "rating": 3.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE10B+ USDBankingReview Source",
+      "date": "Jan 20, 2026"
+    },
+    {
+      "title": "Multiple Investigation Options Available for Alerts in Falcon Surface Platform",
+      "rating": 4.0,
+      "date": "Jan 20, 2026"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

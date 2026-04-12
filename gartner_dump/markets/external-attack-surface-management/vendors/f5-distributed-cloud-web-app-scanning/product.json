@@ -1,0 +1,663 @@
+{
+  "product": "F5 Distributed Cloud Web App Scanning",
+  "slug": "f5-distributed-cloud-web-app-scanning",
+  "url": "https://www.gartner.com/reviews/product/f5-distributed-cloud-web-app-scanning",
+  "rating": 4.6,
+  "review_count": 13,
+  "vendor": "F5",
+  "description": "F5 Distributed Cloud Web App Scanning continuously discovers your external attack surface, crawling domains and APIs to identify exposed apps and infrastructure. It runs automated penetration tests—powered by Dynamic Application Security Testing (DAST)—against your webapplications and APIs to detect vulnerabilities aligned with OWASP Top 10, plus business‑logic flaws, broken access controls, injection issues, outdated components, and more. The service provides rich evidence via screenshots, videos, and detailed context, along with remediation guidance. It supports authenticated testing with test-user credentials, including 2FA, and can run on public cloud, on‑prem, or edge sites. Recon and Scan results integrate into DevOps workflows through CI/CD tools and track findings in task trackers or reports. Scans can be scheduled and generate compliance-ready reports for SOC 2, ISO 27001, and other standards.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports”",
+      "reviewer": "Qa Analyst<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Comprehensive Exposure Insights Balanced by Lengthy Scans and Recon Limitations”",
+      "reviewer": "NETWORK ENGINEER50M - 250M USD, Banking",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "reviewer": "Qa Analyst<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "reviewer": "It ManagerGov't/PS/EdEducationReview Source",
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "reviewer": "Head Of Security Engineering10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES<50M USDIT ServicesReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "reviewer": "Business Development Associate50M-1B USDSoftwareReview Source",
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "“Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports”",
+      "reviewer": "Qa Analyst<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Comprehensive Exposure Insights Balanced by Lengthy Scans and Recon Limitations”",
+      "reviewer": "NETWORK ENGINEER50M - 250M USD, Banking",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "reviewer": "Qa Analyst<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "reviewer": "It ManagerGov't/PS/EdEducationReview Source",
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "reviewer": "Head Of Security Engineering10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES<50M USDIT ServicesReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "reviewer": "Business Development Associate50M-1B USDSoftwareReview Source",
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "“Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports”",
+      "reviewer": "Qa Analyst<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Comprehensive Exposure Insights Balanced by Lengthy Scans and Recon Limitations”",
+      "reviewer": "NETWORK ENGINEER50M - 250M USD, Banking",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "reviewer": "Qa Analyst<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "reviewer": "It ManagerGov't/PS/EdEducationReview Source",
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "reviewer": "Head Of Security Engineering10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES<50M USDIT ServicesReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "reviewer": "Business Development Associate50M-1B USDSoftwareReview Source",
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "“Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports”",
+      "reviewer": "Qa Analyst<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Comprehensive Exposure Insights Balanced by Lengthy Scans and Recon Limitations”",
+      "reviewer": "NETWORK ENGINEER50M - 250M USD, Banking",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "reviewer": "Qa Analyst<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "reviewer": "It ManagerGov't/PS/EdEducationReview Source",
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "reviewer": "Head Of Security Engineering10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES<50M USDIT ServicesReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "reviewer": "Business Development Associate50M-1B USDSoftwareReview Source",
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "“Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports”",
+      "reviewer": "Qa Analyst<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Comprehensive Exposure Insights Balanced by Lengthy Scans and Recon Limitations”",
+      "reviewer": "NETWORK ENGINEER50M - 250M USD, Banking",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "reviewer": "Qa Analyst<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "reviewer": "It ManagerGov't/PS/EdEducationReview Source",
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "reviewer": "Head Of Security Engineering10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES<50M USDIT ServicesReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "reviewer": "Business Development Associate50M-1B USDSoftwareReview Source",
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "“Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports”",
+      "reviewer": "Qa Analyst<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Comprehensive Exposure Insights Balanced by Lengthy Scans and Recon Limitations”",
+      "reviewer": "NETWORK ENGINEER50M - 250M USD, Banking",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "reviewer": "Qa Analyst<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "reviewer": "It ManagerGov't/PS/EdEducationReview Source",
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "reviewer": "Head Of Security Engineering10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES<50M USDIT ServicesReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "reviewer": "Business Development Associate50M-1B USDSoftwareReview Source",
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "“Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports”",
+      "reviewer": "Qa Analyst<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Comprehensive Exposure Insights Balanced by Lengthy Scans and Recon Limitations”",
+      "reviewer": "NETWORK ENGINEER50M - 250M USD, Banking",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "reviewer": "Qa Analyst<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "reviewer": "It ManagerGov't/PS/EdEducationReview Source",
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "reviewer": "Head Of Security Engineering10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES<50M USDIT ServicesReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "reviewer": "Business Development Associate50M-1B USDSoftwareReview Source",
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "“Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports”",
+      "reviewer": "Qa Analyst<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Comprehensive Exposure Insights Balanced by Lengthy Scans and Recon Limitations”",
+      "reviewer": "NETWORK ENGINEER50M - 250M USD, Banking",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "reviewer": "Qa Analyst<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "reviewer": "It ManagerGov't/PS/EdEducationReview Source",
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "reviewer": "Head Of Security Engineering10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES<50M USDIT ServicesReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "reviewer": "Business Development Associate50M-1B USDSoftwareReview Source",
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "“Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports”",
+      "reviewer": "Qa Analyst<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Comprehensive Exposure Insights Balanced by Lengthy Scans and Recon Limitations”",
+      "reviewer": "NETWORK ENGINEER50M - 250M USD, Banking",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "reviewer": "Qa Analyst<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "reviewer": "It ManagerGov't/PS/EdEducationReview Source",
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "reviewer": "Head Of Security Engineering10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES<50M USDIT ServicesReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "reviewer": "Business Development Associate50M-1B USDSoftwareReview Source",
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "“Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports”",
+      "reviewer": "Qa Analyst<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Comprehensive Exposure Insights Balanced by Lengthy Scans and Recon Limitations”",
+      "reviewer": "NETWORK ENGINEER50M - 250M USD, Banking",
+      "date": "Sep 18, 2025"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "reviewer": "Qa Analyst<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Efficient Web Vulnerability Scanning with Interface Learning Curve and Technical Reports",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "reviewer": "It ManagerGov't/PS/EdEducationReview Source",
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Professional Team Delivered Expected Service but Lacked Prompt Support Updates",
+      "rating": 5.0,
+      "date": "Feb 27, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "reviewer": "Head Of Security Engineering10B+ USDHealthcare and BiotechReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Continuous Visibility and Low Operational Overhead Cited as Key Strengths",
+      "rating": 4.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES<50M USDIT ServicesReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Tool Meets Initial Expectations Despite Interface Issues and Occasional Slowness",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "reviewer": "Business Development Associate50M-1B USDSoftwareReview Source",
+      "date": "Feb 22, 2026"
+    },
+    {
+      "title": "Broad Vulnerability Testing Available with Automated Features for Web Apps and APIs",
+      "rating": 5.0,
+      "date": "Feb 22, 2026"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

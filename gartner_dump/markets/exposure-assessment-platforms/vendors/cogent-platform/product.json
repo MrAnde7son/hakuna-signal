@@ -1,0 +1,612 @@
+{
+  "product": "Cogent Platform",
+  "slug": "cogent-platform",
+  "url": "https://www.gartner.com/reviews/product/cogent-platform",
+  "review_count": 8,
+  "vendor": "Cogent Security",
+  "description": "Cogent Platform is a software designed to centralize and automate security operations for organizations. It streamlines case management, incident tracking, and investigation processes by integrating data from multiple sources, including security sensors, access control systems,and video surveillance. The software offers features for managing workflow, visualizing incidents, and maintaining audit trails, supporting teams in documenting and resolving security events efficiently. Cogent Platform enables a unified approach to risk management and compliance by providing analytical tools and reporting capabilities. The software assists businesses in enhancing situational awareness and optimizing decision-making within physical security environments, addressing the challenge of fragmented security information and operational inefficiencies.",
+  "market": "exposure-assessment-platforms",
+  "reviews": [
+    {
+      "title": "“A measured use of AI to streamline vulnerability management while maintaining clear human oversight ”",
+      "reviewer": "VP, IT Security and Risk Management500M - 1B USD, Travel and Hospitality",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDTravel and HospitalityReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER50M-1B USDIT ServicesReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/EdEducationReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDSoftwareReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "“A measured use of AI to streamline vulnerability management while maintaining clear human oversight ”",
+      "reviewer": "VP, IT Security and Risk Management500M - 1B USD, Travel and Hospitality",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDTravel and HospitalityReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER50M-1B USDIT ServicesReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/EdEducationReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDSoftwareReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "“A measured use of AI to streamline vulnerability management while maintaining clear human oversight ”",
+      "reviewer": "VP, IT Security and Risk Management500M - 1B USD, Travel and Hospitality",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDTravel and HospitalityReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER50M-1B USDIT ServicesReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/EdEducationReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDSoftwareReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "“A measured use of AI to streamline vulnerability management while maintaining clear human oversight ”",
+      "reviewer": "VP, IT Security and Risk Management500M - 1B USD, Travel and Hospitality",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDTravel and HospitalityReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER50M-1B USDIT ServicesReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/EdEducationReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDSoftwareReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "“A measured use of AI to streamline vulnerability management while maintaining clear human oversight ”",
+      "reviewer": "VP, IT Security and Risk Management500M - 1B USD, Travel and Hospitality",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDTravel and HospitalityReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER50M-1B USDIT ServicesReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/EdEducationReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDSoftwareReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "“A measured use of AI to streamline vulnerability management while maintaining clear human oversight ”",
+      "reviewer": "VP, IT Security and Risk Management500M - 1B USD, Travel and Hospitality",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDTravel and HospitalityReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER50M-1B USDIT ServicesReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/EdEducationReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDSoftwareReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "“A measured use of AI to streamline vulnerability management while maintaining clear human oversight ”",
+      "reviewer": "VP, IT Security and Risk Management500M - 1B USD, Travel and Hospitality",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDTravel and HospitalityReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER50M-1B USDIT ServicesReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/EdEducationReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDSoftwareReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "“A measured use of AI to streamline vulnerability management while maintaining clear human oversight ”",
+      "reviewer": "VP, IT Security and Risk Management500M - 1B USD, Travel and Hospitality",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDTravel and HospitalityReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER50M-1B USDIT ServicesReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/EdEducationReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDSoftwareReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "“A measured use of AI to streamline vulnerability management while maintaining clear human oversight ”",
+      "reviewer": "VP, IT Security and Risk Management500M - 1B USD, Travel and Hospitality",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDTravel and HospitalityReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER50M-1B USDIT ServicesReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/EdEducationReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDSoftwareReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "“A measured use of AI to streamline vulnerability management while maintaining clear human oversight ”",
+      "reviewer": "VP, IT Security and Risk Management500M - 1B USD, Travel and Hospitality",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "reviewer": "VP, IT Security and Risk Management50M-1B USDTravel and HospitalityReview Source",
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "A measured use of AI to streamline vulnerability management while maintaining clear human oversight",
+      "rating": 5.0,
+      "date": "Feb 19, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER50M-1B USDIT ServicesReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Various Aspects That Appeal to Some Individuals Regarding This Product",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk ManagementGov't/PS/EdEducationReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Best use for AI to solve for dVulnerability Management problem",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDSoftwareReview Source",
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Holistic Vulnerability Management Features but Lacks Visual Representation of Risk Metrics",
+      "rating": 5.0,
+      "date": "Feb 16, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "Cogent Streamlines Vulnerability Management",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    }
+  ],
+  "total_reviews_crawled": 110
+}

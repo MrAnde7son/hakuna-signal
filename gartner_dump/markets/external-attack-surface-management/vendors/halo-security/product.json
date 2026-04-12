@@ -1,0 +1,663 @@
+{
+  "product": "Halo Security",
+  "slug": "halo-security",
+  "url": "https://www.gartner.com/reviews/product/halo-security",
+  "rating": 4.6,
+  "review_count": 96,
+  "vendor": "Halo Security",
+  "description": "The Halo Security attack surface management platform is designed to help organizations see themselves from the attacker's perspective. The fully agentless solution combines automated external asset discovery, vulnerability scanning, and manual penetration testing to uncoverrisks across the modern attack surface.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management”",
+      "reviewer": "Lead Cyber Security500M - 1B USD, Transportation",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "“Untreated Vulnerabilities Not Tracked Across Scans Causes Difficulty in Management”",
+      "reviewer": "IT Security Analyst<50M USD, Banking",
+      "date": "Jul 17, 2025"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "reviewer": "Lead Cyber Security50M-1B USDTransportationReview Source",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate<50M USDIT ServicesReview Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "reviewer": "SOC ANALYST50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "reviewer": "ENGINEER10B+ USDMiscellaneousReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "reviewer": "Head of Infrastructure and Information Security<50M USDSoftwareReview Source",
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "“Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management”",
+      "reviewer": "Lead Cyber Security500M - 1B USD, Transportation",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "“Untreated Vulnerabilities Not Tracked Across Scans Causes Difficulty in Management”",
+      "reviewer": "IT Security Analyst<50M USD, Banking",
+      "date": "Jul 17, 2025"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "reviewer": "Lead Cyber Security50M-1B USDTransportationReview Source",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate<50M USDIT ServicesReview Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "reviewer": "SOC ANALYST50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "reviewer": "ENGINEER10B+ USDMiscellaneousReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "reviewer": "Head of Infrastructure and Information Security<50M USDSoftwareReview Source",
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "“Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management”",
+      "reviewer": "Lead Cyber Security500M - 1B USD, Transportation",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "“Untreated Vulnerabilities Not Tracked Across Scans Causes Difficulty in Management”",
+      "reviewer": "IT Security Analyst<50M USD, Banking",
+      "date": "Jul 17, 2025"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "reviewer": "Lead Cyber Security50M-1B USDTransportationReview Source",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate<50M USDIT ServicesReview Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "reviewer": "SOC ANALYST50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "reviewer": "ENGINEER10B+ USDMiscellaneousReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "reviewer": "Head of Infrastructure and Information Security<50M USDSoftwareReview Source",
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "“Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management”",
+      "reviewer": "Lead Cyber Security500M - 1B USD, Transportation",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "“Untreated Vulnerabilities Not Tracked Across Scans Causes Difficulty in Management”",
+      "reviewer": "IT Security Analyst<50M USD, Banking",
+      "date": "Jul 17, 2025"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "reviewer": "Lead Cyber Security50M-1B USDTransportationReview Source",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate<50M USDIT ServicesReview Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "reviewer": "SOC ANALYST50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "reviewer": "ENGINEER10B+ USDMiscellaneousReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "reviewer": "Head of Infrastructure and Information Security<50M USDSoftwareReview Source",
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "“Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management”",
+      "reviewer": "Lead Cyber Security500M - 1B USD, Transportation",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "“Untreated Vulnerabilities Not Tracked Across Scans Causes Difficulty in Management”",
+      "reviewer": "IT Security Analyst<50M USD, Banking",
+      "date": "Jul 17, 2025"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "reviewer": "Lead Cyber Security50M-1B USDTransportationReview Source",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate<50M USDIT ServicesReview Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "reviewer": "SOC ANALYST50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "reviewer": "ENGINEER10B+ USDMiscellaneousReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "reviewer": "Head of Infrastructure and Information Security<50M USDSoftwareReview Source",
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "“Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management”",
+      "reviewer": "Lead Cyber Security500M - 1B USD, Transportation",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "“Untreated Vulnerabilities Not Tracked Across Scans Causes Difficulty in Management”",
+      "reviewer": "IT Security Analyst<50M USD, Banking",
+      "date": "Jul 17, 2025"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "reviewer": "Lead Cyber Security50M-1B USDTransportationReview Source",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate<50M USDIT ServicesReview Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "reviewer": "SOC ANALYST50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "reviewer": "ENGINEER10B+ USDMiscellaneousReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "reviewer": "Head of Infrastructure and Information Security<50M USDSoftwareReview Source",
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "“Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management”",
+      "reviewer": "Lead Cyber Security500M - 1B USD, Transportation",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "“Untreated Vulnerabilities Not Tracked Across Scans Causes Difficulty in Management”",
+      "reviewer": "IT Security Analyst<50M USD, Banking",
+      "date": "Jul 17, 2025"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "reviewer": "Lead Cyber Security50M-1B USDTransportationReview Source",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate<50M USDIT ServicesReview Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "reviewer": "SOC ANALYST50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "reviewer": "ENGINEER10B+ USDMiscellaneousReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "reviewer": "Head of Infrastructure and Information Security<50M USDSoftwareReview Source",
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "“Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management”",
+      "reviewer": "Lead Cyber Security500M - 1B USD, Transportation",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "“Untreated Vulnerabilities Not Tracked Across Scans Causes Difficulty in Management”",
+      "reviewer": "IT Security Analyst<50M USD, Banking",
+      "date": "Jul 17, 2025"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "reviewer": "Lead Cyber Security50M-1B USDTransportationReview Source",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate<50M USDIT ServicesReview Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "reviewer": "SOC ANALYST50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "reviewer": "ENGINEER10B+ USDMiscellaneousReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "reviewer": "Head of Infrastructure and Information Security<50M USDSoftwareReview Source",
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "“Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management”",
+      "reviewer": "Lead Cyber Security500M - 1B USD, Transportation",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "“Untreated Vulnerabilities Not Tracked Across Scans Causes Difficulty in Management”",
+      "reviewer": "IT Security Analyst<50M USD, Banking",
+      "date": "Jul 17, 2025"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "reviewer": "Lead Cyber Security50M-1B USDTransportationReview Source",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate<50M USDIT ServicesReview Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "reviewer": "SOC ANALYST50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "reviewer": "ENGINEER10B+ USDMiscellaneousReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "reviewer": "Head of Infrastructure and Information Security<50M USDSoftwareReview Source",
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "“Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management”",
+      "reviewer": "Lead Cyber Security500M - 1B USD, Transportation",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "“Untreated Vulnerabilities Not Tracked Across Scans Causes Difficulty in Management”",
+      "reviewer": "IT Security Analyst<50M USD, Banking",
+      "date": "Jul 17, 2025"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "reviewer": "Lead Cyber Security50M-1B USDTransportationReview Source",
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Collaborative Interface Offers Strong Workflow and Efficient AI-Powered Ticket Management",
+      "rating": 4.0,
+      "date": "Mar 31, 2026"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate<50M USDIT ServicesReview Source",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Advanced Reporting and User-Friendly Interface Noted, But Cost Remains Concern",
+      "rating": 4.0,
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "reviewer": "SOC ANALYST50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Effortless Configuration and Reliable Support Stand Out in Feature Implementation",
+      "rating": 4.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "reviewer": "ENGINEER10B+ USDMiscellaneousReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Clear identification and easy management of threats",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "reviewer": "Head of Infrastructure and Information Security<50M USDSoftwareReview Source",
+      "date": "Jul 22, 2025"
+    },
+    {
+      "title": "Extensive Findings and Asset Discovery Balanced by UI and Integration Challenges",
+      "rating": 4.0,
+      "date": "Jul 22, 2025"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

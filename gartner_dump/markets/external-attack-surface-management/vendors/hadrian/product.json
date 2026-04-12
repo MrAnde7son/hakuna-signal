@@ -1,0 +1,613 @@
+{
+  "product": "Hadrian",
+  "slug": "hadrian",
+  "url": "https://www.gartner.com/reviews/product/hadrian",
+  "rating": 4.9,
+  "review_count": 11,
+  "vendor": "Hadrian",
+  "description": "Hadrian is a software designed to automate the discovery and security assessment of internet-facing assets for organizations. It continuously maps digital infrastructure and identifies vulnerabilities across networks, applications, and cloud environments, offering insights into exposurepoints and potential risks. The software leverages external perspectives to detect misconfigurations, out-of-date systems, and compliance gaps, helping security teams prioritize remediation efforts and reduce attack surfaces. It integrates with existing security workflows to streamline asset management and increase visibility of previously unknown or unmanaged resources. Hadrian aims to support proactive cybersecurity practices by enabling organizations to maintain current inventories and address emerging threats efficiently.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/EdEducationReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "reviewer": "Head Of Cyber Security Operations50M-1B USDManufacturingReview Source",
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDManufacturingReview Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDServices (non-Government)Review Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "“Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/EdEducationReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "reviewer": "Head Of Cyber Security Operations50M-1B USDManufacturingReview Source",
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDManufacturingReview Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDServices (non-Government)Review Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "“Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/EdEducationReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "reviewer": "Head Of Cyber Security Operations50M-1B USDManufacturingReview Source",
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDManufacturingReview Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDServices (non-Government)Review Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "“Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/EdEducationReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "reviewer": "Head Of Cyber Security Operations50M-1B USDManufacturingReview Source",
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDManufacturingReview Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDServices (non-Government)Review Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "“Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/EdEducationReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "reviewer": "Head Of Cyber Security Operations50M-1B USDManufacturingReview Source",
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDManufacturingReview Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDServices (non-Government)Review Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "“Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/EdEducationReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "reviewer": "Head Of Cyber Security Operations50M-1B USDManufacturingReview Source",
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDManufacturingReview Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDServices (non-Government)Review Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "“Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/EdEducationReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "reviewer": "Head Of Cyber Security Operations50M-1B USDManufacturingReview Source",
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDManufacturingReview Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDServices (non-Government)Review Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "“Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/EdEducationReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "reviewer": "Head Of Cyber Security Operations50M-1B USDManufacturingReview Source",
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDManufacturingReview Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDServices (non-Government)Review Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "“Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/EdEducationReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "reviewer": "Head Of Cyber Security Operations50M-1B USDManufacturingReview Source",
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDManufacturingReview Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDServices (non-Government)Review Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "“Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks”",
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/ED <5,000 Employees, Education",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENTGov't/PS/EdEducationReview Source",
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Sales Team Demonstrated Product Knowledge but Automation Faces Limitations and Risks",
+      "rating": 5.0,
+      "date": "Sep 2, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "reviewer": "Head Of Cyber Security Operations50M-1B USDManufacturingReview Source",
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Product Offers Readily Available Information and Efficient Assessment With Smooth UX",
+      "rating": 5.0,
+      "date": "Aug 29, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "reviewer": "CHIEF INFORMATION SECURITY OFFICER<50M USDManufacturingReview Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Automated Prioritization of Detected Asset Threats: A Deep Dive",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDBankingReview Source",
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "HADRIAN unifies the Attack Surface visibility into on a dynamic view",
+      "rating": 4.0,
+      "date": "Feb 20, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "reviewer": "Chief Information Security Officer1B-10B USDServices (non-Government)Review Source",
+      "date": "Feb 28, 2025"
+    },
+    {
+      "title": "Impressive Visual Cartography Featured in Responsive Tool",
+      "rating": 5.0,
+      "date": "Feb 28, 2025"
+    }
+  ],
+  "total_reviews_crawled": 110
+}

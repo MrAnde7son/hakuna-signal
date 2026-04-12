@@ -188,6 +188,10 @@
   .pivot-chip-x:hover { background: var(--btn-hover); color: var(--text); }
   .intel-card.intel-card-pinned { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
 
+  /* Gartner rating badges on tool tags and bar chart */
+  .gartner-badge { font-size: 0.65rem; color: #d29922; font-weight: 600; margin-left: 2px; }
+  .bar-gartner { font-size: 0.75rem; color: #d29922; font-weight: 600; margin-left: 4px; white-space: nowrap; }
+
   /* ── Tablet (≤768px) ───────────────────────────────────────────── */
   @media (max-width: 768px) {
     body { padding: 1rem; }
@@ -593,6 +597,7 @@ async function loadData() {
     const [intelRes] = await Promise.all([
       fetch('intel.json').then(r => r.ok ? r.json() : null),
       populateSubreddits(),
+      loadGartner(),
     ]);
     INTEL = intelRes;
     intelView = INTEL;
@@ -662,9 +667,12 @@ function scoreClass(s) {
   return parseInt(s) >= 8 ? 'high' : 'mid';
 }
 
-function renderTags(items, cls) {
+function renderTags(items, cls, enrichGartner) {
   if (!items || items.length === 0) return '';
-  return '<div class="tag-list">' + items.map(i => `<span class="tag ${cls}">${esc(i)}</span>`).join('') + '</div>';
+  return '<div class="tag-list">' + items.map(i => {
+    const badge = enrichGartner ? gartnerBadge(i) : '';
+    return `<span class="tag ${cls}">${esc(i)}${badge}</span>`;
+  }).join('') + '</div>';
 }
 
 function renderCompanyHint(profile) {
@@ -762,7 +770,7 @@ async function render() {
       ? `<button class="btn-read" onclick="markRead('${t.id}')">Mark as read</button>`
       : '';
 
-    const toolTags = renderTags(s.tools_detected, 'tag-tool');
+    const toolTags = renderTags(s.tools_detected, 'tag-tool', true);
     const painTags = renderTags(s.pain_point_categories, 'tag-pain');
     const funcTags = renderTags(s.team_functions, 'tag-func');
     const companyHint = renderCompanyHint(s.company_profile);
@@ -846,12 +854,43 @@ function renderBarChart(items, fillClass, maxBars, dimension) {
     const drillAttrs = dimension
       ? ` data-drill-dim="${esc(dimension)}" data-drill-value="${esc(item.name)}" title="${esc(item.name)} — click to view threads"`
       : '';
+    const gBadge = dimension === 'tool' ? gartnerBadge(item.name) : '';
     return `<div class="bar-row"${drillAttrs}>
-      <span class="bar-label">${esc(item.name)}</span>
+      <span class="bar-label">${esc(item.name)}${gBadge}</span>
       <div class="bar-track"><div class="bar-fill ${fillClass}" style="width:${pct}%"></div></div>
       <span class="bar-count">${item.count}</span>
     </div>`;
   }).join('');
+}
+
+// ── Gartner enrichment (loaded once, used across views) ──────────
+
+let gartnerVendors = null;  // name→{rating, review_count, ...} lookup
+let gartnerLoaded = false;
+
+async function loadGartner() {
+  if (gartnerLoaded) return;
+  try {
+    const res = await fetch('/api/landscape');
+    if (res.ok) {
+      const data = await res.json();
+      gartnerVendors = data.vendors || {};
+    }
+  } catch (e) {
+    console.error('Failed to load Gartner data', e);
+  }
+  gartnerLoaded = true;
+}
+
+function gartnerRating(toolName) {
+  if (!gartnerVendors) return null;
+  const v = gartnerVendors[toolName.toLowerCase()];
+  return v && v.rating ? v.rating : null;
+}
+
+function gartnerBadge(toolName) {
+  const r = gartnerRating(toolName);
+  return r ? ` <span class="gartner-badge" title="Gartner Peer Insights: ${r.toFixed(1)}/5">\u2605${r.toFixed(1)}</span>` : '';
 }
 
 function renderIntel() {

@@ -75,6 +75,11 @@ SOURCES = {
     "servicenow": [  # servicenow.com/community Khoros boards (SecOps / exposure mgmt)
         "secops-forum",
     ],
+    "gartner": [  # Gartner Peer Insights — reads pre-crawled JSON from gartner_dump/
+        "vulnerability-assessment",
+        "exposure-management",
+        "attack-surface-management",
+    ],
 }
 
 # How many items to fetch per (source, category) per run
@@ -93,4 +98,7 @@ ITEMS_PER_CATEGORY = {
     "github": 30,
     "rapid7": 30,
     "servicenow": 20,
+    # Gartner reads from local JSON dump — no HTTP, no rate limit.
+    # Cap is per-category; each market has ~20 vendors × ~10 unique reviews.
+    "gartner": 200,
 }

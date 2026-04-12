@@ -1,0 +1,663 @@
+{
+  "product": "Microsoft Defender External Attack Surface Management",
+  "slug": "microsoft-defender-external-attack-surface-management",
+  "url": "https://www.gartner.com/reviews/product/microsoft-defender-external-attack-surface-management",
+  "rating": 4.3,
+  "review_count": 154,
+  "vendor": "Microsoft",
+  "description": "Microsoft Defender External Attack Surface Management software is designed to help organizations identify, assess, and monitor external-facing digital assets such as domains, IP addresses, and cloud services. The software provides continuous discovery of internet-exposed resourcesand evaluates potential vulnerabilities that may be exploited by malicious actors. It aggregates and analyzes data to help security teams understand and manage their external attack surface, enabling proactive security measures. The software supports risk prioritization and remediation workflows to reduce exposure and address vulnerabilities before they can be leveraged in cyber attacks. It aims to support organizations in strengthening their overall security posture by providing visibility and insights into external risks.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources”",
+      "reviewer": "Cybersecurity Engineer30B + USD, IT Services",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Effective Alerts and Notifications”",
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER250M - 500M USD, Miscellaneous",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "reviewer": "Cybersecurity Engineer10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "reviewer": "FALCON ANALYSTGov't/PS/EdEducationReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "reviewer": "Cloud Engineer1B-10B USDIT ServicesReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "reviewer": "It Security Engineer10B+ USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "“Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources”",
+      "reviewer": "Cybersecurity Engineer30B + USD, IT Services",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Effective Alerts and Notifications”",
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER250M - 500M USD, Miscellaneous",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "reviewer": "Cybersecurity Engineer10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "reviewer": "FALCON ANALYSTGov't/PS/EdEducationReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "reviewer": "Cloud Engineer1B-10B USDIT ServicesReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "reviewer": "It Security Engineer10B+ USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "“Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources”",
+      "reviewer": "Cybersecurity Engineer30B + USD, IT Services",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Effective Alerts and Notifications”",
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER250M - 500M USD, Miscellaneous",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "reviewer": "Cybersecurity Engineer10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "reviewer": "FALCON ANALYSTGov't/PS/EdEducationReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "reviewer": "Cloud Engineer1B-10B USDIT ServicesReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "reviewer": "It Security Engineer10B+ USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "“Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources”",
+      "reviewer": "Cybersecurity Engineer30B + USD, IT Services",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Effective Alerts and Notifications”",
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER250M - 500M USD, Miscellaneous",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "reviewer": "Cybersecurity Engineer10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "reviewer": "FALCON ANALYSTGov't/PS/EdEducationReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "reviewer": "Cloud Engineer1B-10B USDIT ServicesReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "reviewer": "It Security Engineer10B+ USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "“Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources”",
+      "reviewer": "Cybersecurity Engineer30B + USD, IT Services",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Effective Alerts and Notifications”",
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER250M - 500M USD, Miscellaneous",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "reviewer": "Cybersecurity Engineer10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "reviewer": "FALCON ANALYSTGov't/PS/EdEducationReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "reviewer": "Cloud Engineer1B-10B USDIT ServicesReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "reviewer": "It Security Engineer10B+ USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "“Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources”",
+      "reviewer": "Cybersecurity Engineer30B + USD, IT Services",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Effective Alerts and Notifications”",
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER250M - 500M USD, Miscellaneous",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "reviewer": "Cybersecurity Engineer10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "reviewer": "FALCON ANALYSTGov't/PS/EdEducationReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "reviewer": "Cloud Engineer1B-10B USDIT ServicesReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "reviewer": "It Security Engineer10B+ USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "“Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources”",
+      "reviewer": "Cybersecurity Engineer30B + USD, IT Services",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Effective Alerts and Notifications”",
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER250M - 500M USD, Miscellaneous",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "reviewer": "Cybersecurity Engineer10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "reviewer": "FALCON ANALYSTGov't/PS/EdEducationReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "reviewer": "Cloud Engineer1B-10B USDIT ServicesReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "reviewer": "It Security Engineer10B+ USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "“Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources”",
+      "reviewer": "Cybersecurity Engineer30B + USD, IT Services",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Effective Alerts and Notifications”",
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER250M - 500M USD, Miscellaneous",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "reviewer": "Cybersecurity Engineer10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "reviewer": "FALCON ANALYSTGov't/PS/EdEducationReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "reviewer": "Cloud Engineer1B-10B USDIT ServicesReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "reviewer": "It Security Engineer10B+ USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "“Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources”",
+      "reviewer": "Cybersecurity Engineer30B + USD, IT Services",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Effective Alerts and Notifications”",
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER250M - 500M USD, Miscellaneous",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "reviewer": "Cybersecurity Engineer10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "reviewer": "FALCON ANALYSTGov't/PS/EdEducationReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "reviewer": "Cloud Engineer1B-10B USDIT ServicesReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "reviewer": "It Security Engineer10B+ USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "“Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources”",
+      "reviewer": "Cybersecurity Engineer30B + USD, IT Services",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Effective Alerts and Notifications”",
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER250M - 500M USD, Miscellaneous",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "reviewer": "Cybersecurity Engineer10B+ USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Visual Grouping of Digital Footprint Facilitates Understanding of Organization Resources",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "reviewer": "BUSINESS DEVELOPMENT MANAGER50M-1B USDMiscellaneousReview Source",
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Effective Alerts and Notifications",
+      "rating": 3.0,
+      "date": "Nov 14, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "reviewer": "FALCON ANALYSTGov't/PS/EdEducationReview Source",
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Immediate Security Gains With Microsoft Defender ASR Offset By Initial Program Blocking",
+      "rating": 5.0,
+      "date": "Nov 21, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "reviewer": "Cloud Engineer1B-10B USDIT ServicesReview Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Effective Identification of Unmanaged Resources Improves Security in Decentralized Systems",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "reviewer": "It Security Engineer10B+ USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Asset Discovery Simplified With Microsoft Defender EASM for Improved Inventory Tracking",
+      "rating": 4.0,
+      "date": "Jan 16, 2026"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

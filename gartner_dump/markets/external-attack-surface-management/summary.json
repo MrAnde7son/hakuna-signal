@@ -1,0 +1,231 @@
+{
+  "market": "external-attack-surface-management",
+  "url": "https://www.gartner.com/reviews/market/external-attack-surface-management",
+  "vendor_count": 21,
+  "vendors": [
+    {
+      "product": "RiskProfiler",
+      "slug": "riskprofiler-286405855",
+      "url": "https://www.gartner.com/reviews/product/riskprofiler-286405855",
+      "review_count": 104,
+      "vendor": "RiskProfiler",
+      "description": "RiskProfiler is an External Attack Surface Management platform that strengthens your organization's security posture by providing visibility into external-facing assets and threats. Using AI, machine learning, and proprietary algorithms, it leverages open-source intelligence to managedomains, IPs, DNS records, and more through a unified asset inventory. It prioritizes remediation by categorizing assets based on criticality to analyze exposures with real-time threat intelligence.The platform mitigates risks through continuous scans to identify vulnerabilities, outdated software, shadow IT, and unmanaged assets. RiskProfiler tracks supply chain threats and maps attack paths using a unified graph database, showing how attackers can exploit combined threats across the brand, supply chain, and cloud environments.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "Cyble Vision",
+      "slug": "cyble-vision",
+      "url": "https://www.gartner.com/reviews/product/cyble-vision",
+      "review_count": 36,
+      "vendor": "Cyble",
+      "description": "Cyble Vision is a software designed to provide organizations with threat intelligence by monitoring and analyzing data from the surface web, deep web, and dark web. The software offers real-time alerts on potential risks suchas data breaches, leaked credentials, exposed sensitive information, and threat actor activities. Cyble Vision enables businesses to understand and assess external cybersecurity threats, facilitating early detection and mitigation of risks. The software provides features such as dashboard-driven threat monitoring, customizable alerting, and detailed reporting, supporting security teams in making informed decisions and strengthening overall organizational security posture.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "Infinity Platform",
+      "slug": "infinity-platform",
+      "url": "https://www.gartner.com/reviews/product/infinity-platform",
+      "rating": 4.8,
+      "review_count": 27,
+      "vendor": "Check Point Software Technologies",
+      "description": "Infinity Platform is a software designed to provide unified security management and threat prevention across networks, cloud environments, and endpoints. The software integrates firewall, threat intelligence, and advanced security controls into a single architecture tohelp organizations protect against cyberattacks and vulnerabilities. Infinity Platform supports automated response, real-time monitoring, and centralized policy management, enabling organizations to address compliance requirements and streamline security operations. The software aims to reduce complexity by offering consolidated visibility and management for various security measures within an enterprise infrastructure. Through its centralized dashboard, Infinity Platform facilitates incident detection, investigation, and remediation to address evolving security challenges.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "Darkivore",
+      "slug": "darkivore",
+      "url": "https://www.gartner.com/reviews/product/darkivore",
+      "rating": 4.8,
+      "review_count": 31,
+      "vendor": "Potech",
+      "description": "DARKIVORE, is a comprehensive Brand Protection, Cyberthreat Intelligence and Digital Risk Protection Platform, that curbs all hacking activities right from the start. DARKIVORE pre-emptively neutralizes cyber-attacks such as data breaches, brand impersonations and phishing scams,by swiftly detecting and capturing them from the surface, deep and dark web. In addition to preventing attacks, the platform monitors your digital footprint, limits breaches and even assists in generating compliance reports. DARKIVORE offers a range of features that cater to various entities and organizations, accessible through three distinct bundles: the comprehensive Digital Risk Protection bundle, the Brand Protection bundle, and the Attack Surface & Threat Intelligence bundle. This ensures that different types of needs are effectively addressed.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 110
+    },
+    {
+      "product": "CyCognito Platform",
+      "slug": "cycognito-platform",
+      "url": "https://www.gartner.com/reviews/product/cycognito-platform",
+      "rating": 4.7,
+      "review_count": 39,
+      "vendor": "CyCognito",
+      "description": "CyCognito Platform is a software designed to help organizations identify and manage security risks across their external attack surface. By automatically discovering assets and assessing vulnerabilities, the software enables continuous monitoring of externally exposed systemsand applications. CyCognito Platform utilizes reconnaissance techniques to provide comprehensive visibility of unknown, unmanaged, and unprotected assets that could be targeted in cyber attacks. The software delivers actionable insights to prioritize remediation efforts, facilitating proactive risk reduction and supporting compliance initiatives. Through automated analysis and contextual risk assessment, CyCognito Platform addresses the challenge of shadow IT and asset sprawl, assisting security teams in reducing their exposure to threats.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "watchTowr Platform",
+      "slug": "watchtowr-platform",
+      "url": "https://www.gartner.com/reviews/product/watchtowr-platform",
+      "review_count": 13,
+      "vendor": "watchTowr",
+      "description": "watchTowr Platform is a software designed to assess and monitor an organization’s external attack surface by continuously scanning and analyzing internet-facing assets. The software identifies vulnerabilities, misconfigurations, and risks across a range of systems andapplications, providing actionable insights to help organizations reduce security exposures. Through automated testing and asset discovery, the software helps security teams prioritize remediation based on potential impact and risk. The software supports integrations with other security tools and offers reporting capabilities that facilitate visibility and trend analysis over time. Overall, it helps organizations improve their security posture by enabling proactive detection and management of threats to external assets.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 110
+    },
+    {
+      "product": "Microsoft Defender External Attack Surface Management",
+      "slug": "microsoft-defender-external-attack-surface-management",
+      "url": "https://www.gartner.com/reviews/product/microsoft-defender-external-attack-surface-management",
+      "rating": 4.3,
+      "review_count": 154,
+      "vendor": "Microsoft",
+      "description": "Microsoft Defender External Attack Surface Management software is designed to help organizations identify, assess, and monitor external-facing digital assets such as domains, IP addresses, and cloud services. The software provides continuous discovery of internet-exposed resourcesand evaluates potential vulnerabilities that may be exploited by malicious actors. It aggregates and analyzes data to help security teams understand and manage their external attack surface, enabling proactive security measures. The software supports risk prioritization and remediation workflows to reduce exposure and address vulnerabilities before they can be leveraged in cyber attacks. It aims to support organizations in strengthening their overall security posture by providing visibility and insights into external risks.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "Halo Security",
+      "slug": "halo-security",
+      "url": "https://www.gartner.com/reviews/product/halo-security",
+      "rating": 4.6,
+      "review_count": 96,
+      "vendor": "Halo Security",
+      "description": "The Halo Security attack surface management platform is designed to help organizations see themselves from the attacker's perspective. The fully agentless solution combines automated external asset discovery, vulnerability scanning, and manual penetration testing to uncoverrisks across the modern attack surface.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "Falcon Surface",
+      "slug": "falcon-surface",
+      "url": "https://www.gartner.com/reviews/product/falcon-surface",
+      "rating": 4.6,
+      "review_count": 87,
+      "vendor": "CrowdStrike",
+      "description": "Falcon Surface is a software platform designed to provide endpoint protection and threat detection for organizations. The software leverages cloud-based analytics to monitor and analyze activity across endpoints, identifying potential vulnerabilities and malicious behavior. Itsfeatures include real-time monitoring, incident response capabilities, and automated remediation processes, aiming to secure devices from a range of cyber threats. Falcon Surface integrates with other security tools to centralize management and reporting, addressing the business problem of preventing unauthorized access and mitigating risks associated with malware and ransomware attacks. The software is positioned to support security teams in managing and reducing the impact of security incidents.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "Cortex Xpanse",
+      "slug": "cortex-xpanse",
+      "url": "https://www.gartner.com/reviews/product/cortex-xpanse",
+      "rating": 4.5,
+      "review_count": 77,
+      "vendor": "Palo Alto Networks",
+      "description": "Cortex Xpanse is a software designed to provide attack surface management by continuously discovering, monitoring, and managing an organization’s internet-facing assets. The software identifies exposed assets and potential risks by automatically scanning the global internet,helping organizations gain visibility into unknown or unmanaged systems. Cortex Xpanse enables security teams to detect vulnerabilities, misconfigurations, and policy violations across their external attack surface. The software assists in reducing the risk of cyber threats by providing insights and context for remediation, supporting efforts to maintain compliance and strengthen overall security posture.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "Bitsight Cyber Risk Intellligence",
+      "slug": "bitsight-cyber-risk-intelligence",
+      "url": "https://www.gartner.com/reviews/product/bitsight-cyber-risk-intelligence",
+      "rating": 4.5,
+      "review_count": 37,
+      "vendor": "Bitsight",
+      "description": "Bitsight Cyber Risk Intelligence is a software designed to provide organizations with insights into cyber risk by analyzing and monitoring security performance data from both internal systems and external third parties. The software aggregates informationfrom various sources to assess vulnerability exposure, threat severity, and overall security posture. It enables businesses to identify potential risk areas, evaluate the effectiveness of security controls, and benchmark their cyber resilience against industry standards. By delivering continuous risk assessments and actionable intelligence, the software supports decision-making processes related to security investments, vendor management, and regulatory compliance. The primary business problem addressed involves the need for continuous visibility into cybersecurity risks and the capacity to manage and mitigate those risks effectively.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "Mandiant Advantage Attack Surface Management (Legacy)",
+      "slug": "mandiant-advantage-attack-surface-management-legacy",
+      "url": "https://www.gartner.com/reviews/product/mandiant-advantage-attack-surface-management-legacy",
+      "rating": 4.2,
+      "review_count": 32,
+      "vendor": "Google",
+      "description": "Mandiant Advantage Attack Surface Management, a module of the Mandiant Advantage platform, combinesextended enterprise visibility and continuous monitoring capabilities infused with the latest Mandiant Advantage Threat Intelligence to help organizations discover exposures and analyzeinternet assets across today’s dynamic, distributed and shared environments.Mandiant Advantage Attack Surface Management provides cyber security teams with a comprehensive, true view of their environment through the eyes of the attacker. This module operationalizes attacker intelligence to transform security programs from reactive mode to proactive.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "Intruder",
+      "slug": "intruder-297105307",
+      "url": "https://www.gartner.com/reviews/product/intruder-297105307",
+      "rating": 4.6,
+      "review_count": 24,
+      "vendor": "Intruder",
+      "description": "Intruder helps lean security teams proactively uncover and fix weaknesses by unifying attack surface management, cloud security and continuous vulnerability scanning in one intuitive platform. With compliance-ready reports and actionable results prioritized by severity andexploit likelihood, Intruder helps 3,000+ customers focus on fixing what matters. Integrating seamlessly with AWS, Azure, Google Cloud, Slack, Jira and more, Intruder makes exposure management simple, effective and scalable for growing teams.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 110
+    },
+    {
+      "product": "CloudSEK BeVigil",
+      "slug": "cloudsek-bevigil-94066030",
+      "url": "https://www.gartner.com/reviews/product/cloudsek-bevigil-94066030",
+      "rating": 4.7,
+      "review_count": 19,
+      "vendor": "CloudSEK",
+      "description": "BeVigil Enterprise is a software designed to identify and assess mobile application security vulnerabilities in enterprise environments. It automates the scanning of mobile apps to detect security issues such as malware, data leaks, and codeweaknesses. The software provides detailed risk analysis and generates reports to help organizations understand and mitigate threats to their mobile applications. BeVigil Enterprise supports compliance requirements by highlighting areas of concern in app security and assists security teams in prioritizing remediation efforts. It enables organizations to maintain an overview of their mobile application security posture and address potential risks before they are exploited.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 110
+    },
+    {
+      "product": "Group-IB Attack Surface Management",
+      "slug": "group-ib-attack-surface-management",
+      "url": "https://www.gartner.com/reviews/product/group-ib-attack-surface-management",
+      "rating": 4.6,
+      "review_count": 16,
+      "vendor": "Group-IB",
+      "description": "Group-IB Attack Surface Management is a software designed to continuously monitor and analyze digital assets and external infrastructure to identify vulnerabilities and potential entry points for cyber threats. The software aggregates data on internet-facing resources,discovers unknown assets, and tracks changes over time to provide visibility into an organization’s exposure. It assists security teams in detecting misconfigurations, outdated components, and points of risk that could be exploited by attackers. Group-IB Attack Surface Management aims to improve risk assessment and incident response by delivering contextual information about exposed assets and their associated weaknesses, supporting efforts to strengthen overall cyber defense and align security measures with organizational priorities.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "Recorded Future Attack Surface Intelligence",
+      "slug": "recorded-future-attack-surface-intelligence",
+      "url": "https://www.gartner.com/reviews/product/recorded-future-attack-surface-intelligence",
+      "rating": 4.4,
+      "review_count": 16,
+      "vendor": "Recorded Future",
+      "description": "Recorded Future Attack Surface Intelligence is a software designed to provide visibility into an organization's external digital assets and associated risks. The software collects and analyzes data from a range of sources to map theorganization's internet-facing infrastructure, identify exposures, and assess vulnerabilities. It enables security teams to continuously monitor their digital footprint, helping to uncover unauthorized or forgotten assets and prioritize mitigation efforts. The software aims to address the challenge of managing and securing an expanding attack surface by offering real-time insights, automated asset discovery, and contextual risk assessment to support effective security operations and incident response.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "Assetnote Continuous Security Platform",
+      "slug": "assetnote-continuous-security-platform",
+      "url": "https://www.gartner.com/reviews/product/assetnote-continuous-security-platform",
+      "rating": 4.4,
+      "review_count": 15,
+      "vendor": "Searchlight Cyber",
+      "description": "Assetnote Continuous Security Platform is a software designed to automate and enhance the process of external attack surface management for organizations. The software continuously monitors internet-facing assets to identify vulnerabilities, misconfigurations, and exposures. It providesreal-time visibility into asset inventory, tracks changes in the attack surface, and detects security issues that could be targeted by adversaries. By integrating with workflow tools and enabling customizable alerting, the software supports the detection and prioritization of critical risks. Assetnote Continuous Security Platform addresses the business problem of maintaining comprehensive oversight and proactive management of digital assets to reduce security risks and support ongoing compliance with security standards.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 110
+    },
+    {
+      "product": "Censys Attack Surface Management",
+      "slug": "censys-attack-surface-management",
+      "url": "https://www.gartner.com/reviews/product/censys-attack-surface-management",
+      "rating": 4.5,
+      "review_count": 13,
+      "vendor": "Censys",
+      "description": "Censys Attack Surface Management is a software designed to help organizations identify, monitor, and manage internet-facing assets. The software continuously discovers external infrastructure, provides an inventory of assets, and highlights exposures and risks associated withthose assets. It offers features such as automated asset discovery, vulnerability detection, and real-time change monitoring. The software allows security and IT teams to gain visibility into unknown or unauthorized assets, reducing the risk of external threats by helping to address security gaps across digital infrastructure. Censys Attack Surface Management addresses the business problem of incomplete asset inventory and unmanaged external exposure, supporting organizations in their efforts to improve their security posture and response capabilities.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 110
+    },
+    {
+      "product": "F5 Distributed Cloud Web App Scanning",
+      "slug": "f5-distributed-cloud-web-app-scanning",
+      "url": "https://www.gartner.com/reviews/product/f5-distributed-cloud-web-app-scanning",
+      "rating": 4.6,
+      "review_count": 13,
+      "vendor": "F5",
+      "description": "F5 Distributed Cloud Web App Scanning continuously discovers your external attack surface, crawling domains and APIs to identify exposed apps and infrastructure. It runs automated penetration tests—powered by Dynamic Application Security Testing (DAST)—against your webapplications and APIs to detect vulnerabilities aligned with OWASP Top 10, plus business‑logic flaws, broken access controls, injection issues, outdated components, and more. The service provides rich evidence via screenshots, videos, and detailed context, along with remediation guidance. It supports authenticated testing with test-user credentials, including 2FA, and can run on public cloud, on‑prem, or edge sites. Recon and Scan results integrate into DevOps workflows through CI/CD tools and track findings in task trackers or reports. Scans can be scheduled and generate compliance-ready reports for SOC 2, ISO 27001, and other standards.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 120
+    },
+    {
+      "product": "Hadrian",
+      "slug": "hadrian",
+      "url": "https://www.gartner.com/reviews/product/hadrian",
+      "rating": 4.9,
+      "review_count": 11,
+      "vendor": "Hadrian",
+      "description": "Hadrian is a software designed to automate the discovery and security assessment of internet-facing assets for organizations. It continuously maps digital infrastructure and identifies vulnerabilities across networks, applications, and cloud environments, offering insights into exposurepoints and potential risks. The software leverages external perspectives to detect misconfigurations, out-of-date systems, and compliance gaps, helping security teams prioritize remediation efforts and reduce attack surfaces. It integrates with existing security workflows to streamline asset management and increase visibility of previously unknown or unmanaged resources. Hadrian aims to support proactive cybersecurity practices by enabling organizations to maintain current inventories and address emerging threats efficiently.",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 110
+    },
+    {
+      "product": "Element Security",
+      "slug": "element-security",
+      "url": "https://www.gartner.com/reviews/product/element-security",
+      "market": "external-attack-surface-management",
+      "total_reviews_crawled": 110
+    }
+  ]
+}

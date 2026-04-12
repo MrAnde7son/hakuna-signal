@@ -1,0 +1,663 @@
+{
+  "product": "Cortex Xpanse",
+  "slug": "cortex-xpanse",
+  "url": "https://www.gartner.com/reviews/product/cortex-xpanse",
+  "rating": 4.5,
+  "review_count": 77,
+  "vendor": "Palo Alto Networks",
+  "description": "Cortex Xpanse is a software designed to provide attack surface management by continuously discovering, monitoring, and managing an organization’s internet-facing assets. The software identifies exposed assets and potential risks by automatically scanning the global internet,helping organizations gain visibility into unknown or unmanaged systems. Cortex Xpanse enables security teams to detect vulnerabilities, misconfigurations, and policy violations across their external attack surface. The software assists in reducing the risk of cyber threats by providing insights and context for remediation, supporting efforts to maintain compliance and strengthen overall security posture.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“A nice tool for Attack Surface Visiblity”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Miscellaneous",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Enhanced Discovery Features Confront Limitations In Reporting And Data Volume”",
+      "reviewer": "Business Development Manager<50M USD, IT Services",
+      "date": "Aug 7, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDMiscellaneousReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "reviewer": "Programmer/software Support Analyst1B-10B USDIT ServicesReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY SPECIALIST<50M USDBankingReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "reviewer": "SERVICE AND OPERATIONS MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "“A nice tool for Attack Surface Visiblity”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Miscellaneous",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Enhanced Discovery Features Confront Limitations In Reporting And Data Volume”",
+      "reviewer": "Business Development Manager<50M USD, IT Services",
+      "date": "Aug 7, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDMiscellaneousReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "reviewer": "Programmer/software Support Analyst1B-10B USDIT ServicesReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY SPECIALIST<50M USDBankingReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "reviewer": "SERVICE AND OPERATIONS MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "“A nice tool for Attack Surface Visiblity”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Miscellaneous",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Enhanced Discovery Features Confront Limitations In Reporting And Data Volume”",
+      "reviewer": "Business Development Manager<50M USD, IT Services",
+      "date": "Aug 7, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDMiscellaneousReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "reviewer": "Programmer/software Support Analyst1B-10B USDIT ServicesReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY SPECIALIST<50M USDBankingReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "reviewer": "SERVICE AND OPERATIONS MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "“A nice tool for Attack Surface Visiblity”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Miscellaneous",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Enhanced Discovery Features Confront Limitations In Reporting And Data Volume”",
+      "reviewer": "Business Development Manager<50M USD, IT Services",
+      "date": "Aug 7, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDMiscellaneousReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "reviewer": "Programmer/software Support Analyst1B-10B USDIT ServicesReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY SPECIALIST<50M USDBankingReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "reviewer": "SERVICE AND OPERATIONS MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "“A nice tool for Attack Surface Visiblity”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Miscellaneous",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Enhanced Discovery Features Confront Limitations In Reporting And Data Volume”",
+      "reviewer": "Business Development Manager<50M USD, IT Services",
+      "date": "Aug 7, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDMiscellaneousReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "reviewer": "Programmer/software Support Analyst1B-10B USDIT ServicesReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY SPECIALIST<50M USDBankingReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "reviewer": "SERVICE AND OPERATIONS MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "“A nice tool for Attack Surface Visiblity”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Miscellaneous",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Enhanced Discovery Features Confront Limitations In Reporting And Data Volume”",
+      "reviewer": "Business Development Manager<50M USD, IT Services",
+      "date": "Aug 7, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDMiscellaneousReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "reviewer": "Programmer/software Support Analyst1B-10B USDIT ServicesReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY SPECIALIST<50M USDBankingReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "reviewer": "SERVICE AND OPERATIONS MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "“A nice tool for Attack Surface Visiblity”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Miscellaneous",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Enhanced Discovery Features Confront Limitations In Reporting And Data Volume”",
+      "reviewer": "Business Development Manager<50M USD, IT Services",
+      "date": "Aug 7, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDMiscellaneousReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "reviewer": "Programmer/software Support Analyst1B-10B USDIT ServicesReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY SPECIALIST<50M USDBankingReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "reviewer": "SERVICE AND OPERATIONS MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "“A nice tool for Attack Surface Visiblity”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Miscellaneous",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Enhanced Discovery Features Confront Limitations In Reporting And Data Volume”",
+      "reviewer": "Business Development Manager<50M USD, IT Services",
+      "date": "Aug 7, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDMiscellaneousReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "reviewer": "Programmer/software Support Analyst1B-10B USDIT ServicesReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY SPECIALIST<50M USDBankingReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "reviewer": "SERVICE AND OPERATIONS MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "“A nice tool for Attack Surface Visiblity”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Miscellaneous",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Enhanced Discovery Features Confront Limitations In Reporting And Data Volume”",
+      "reviewer": "Business Development Manager<50M USD, IT Services",
+      "date": "Aug 7, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDMiscellaneousReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "reviewer": "Programmer/software Support Analyst1B-10B USDIT ServicesReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY SPECIALIST<50M USDBankingReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "reviewer": "SERVICE AND OPERATIONS MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "“A nice tool for Attack Surface Visiblity”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Miscellaneous",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Enhanced Discovery Features Confront Limitations In Reporting And Data Volume”",
+      "reviewer": "Business Development Manager<50M USD, IT Services",
+      "date": "Aug 7, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDMiscellaneousReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "A nice tool for Attack Surface Visiblity",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "reviewer": "Programmer/software Support Analyst1B-10B USDIT ServicesReview Source",
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Threat Intelligence and Critical Data Assessment Features Minimize Phishing Risk in Xpanse",
+      "rating": 5.0,
+      "date": "Feb 10, 2026"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "reviewer": "INFORMATION SECURITY SPECIALIST<50M USDBankingReview Source",
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Cortex Xpanse Offers Broad Domain-Based Visibility Across All Network Assets",
+      "rating": 5.0,
+      "date": "Oct 27, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "reviewer": "SERVICE AND OPERATIONS MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "Inventory Assets and Cloud Management Features Stand Out in Cortex Xpanse",
+      "rating": 4.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management AssociateGov't/PS/EdGovernmentReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "AI-Driven Defense Consolidates Attack Data and Identifies High-Risk Vulnerabilities",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

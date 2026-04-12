@@ -1,0 +1,662 @@
+{
+  "product": "Cyble Vision",
+  "slug": "cyble-vision",
+  "url": "https://www.gartner.com/reviews/product/cyble-vision",
+  "review_count": 36,
+  "vendor": "Cyble",
+  "description": "Cyble Vision is a software designed to provide organizations with threat intelligence by monitoring and analyzing data from the surface web, deep web, and dark web. The software offers real-time alerts on potential risks suchas data breaches, leaked credentials, exposed sensitive information, and threat actor activities. Cyble Vision enables businesses to understand and assess external cybersecurity threats, facilitating early detection and mitigation of risks. The software provides features such as dashboard-driven threat monitoring, customizable alerting, and detailed reporting, supporting security teams in making informed decisions and strengthening overall organizational security posture.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities”",
+      "reviewer": "Data Analyst50M - 250M USD, IT Services",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Positive Feedback Noted but False Positives Are Still Affecting User Experience”",
+      "reviewer": "security analyst3B - 10B USD, Retail",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "reviewer": "IT MANAGER10B+ USDTelecommunicationReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "reviewer": "SR. TECHNOLOGY LEAD50M-1B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "reviewer": "IT SERVICES ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "“Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities”",
+      "reviewer": "Data Analyst50M - 250M USD, IT Services",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Positive Feedback Noted but False Positives Are Still Affecting User Experience”",
+      "reviewer": "security analyst3B - 10B USD, Retail",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "reviewer": "IT MANAGER10B+ USDTelecommunicationReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "reviewer": "SR. TECHNOLOGY LEAD50M-1B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "reviewer": "IT SERVICES ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "“Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities”",
+      "reviewer": "Data Analyst50M - 250M USD, IT Services",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Positive Feedback Noted but False Positives Are Still Affecting User Experience”",
+      "reviewer": "security analyst3B - 10B USD, Retail",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "reviewer": "IT MANAGER10B+ USDTelecommunicationReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "reviewer": "SR. TECHNOLOGY LEAD50M-1B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "reviewer": "IT SERVICES ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "“Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities”",
+      "reviewer": "Data Analyst50M - 250M USD, IT Services",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Positive Feedback Noted but False Positives Are Still Affecting User Experience”",
+      "reviewer": "security analyst3B - 10B USD, Retail",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "reviewer": "IT MANAGER10B+ USDTelecommunicationReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "reviewer": "SR. TECHNOLOGY LEAD50M-1B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "reviewer": "IT SERVICES ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "“Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities”",
+      "reviewer": "Data Analyst50M - 250M USD, IT Services",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Positive Feedback Noted but False Positives Are Still Affecting User Experience”",
+      "reviewer": "security analyst3B - 10B USD, Retail",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "reviewer": "IT MANAGER10B+ USDTelecommunicationReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "reviewer": "SR. TECHNOLOGY LEAD50M-1B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "reviewer": "IT SERVICES ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "“Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities”",
+      "reviewer": "Data Analyst50M - 250M USD, IT Services",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Positive Feedback Noted but False Positives Are Still Affecting User Experience”",
+      "reviewer": "security analyst3B - 10B USD, Retail",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "reviewer": "IT MANAGER10B+ USDTelecommunicationReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "reviewer": "SR. TECHNOLOGY LEAD50M-1B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "reviewer": "IT SERVICES ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "“Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities”",
+      "reviewer": "Data Analyst50M - 250M USD, IT Services",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Positive Feedback Noted but False Positives Are Still Affecting User Experience”",
+      "reviewer": "security analyst3B - 10B USD, Retail",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "reviewer": "IT MANAGER10B+ USDTelecommunicationReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "reviewer": "SR. TECHNOLOGY LEAD50M-1B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "reviewer": "IT SERVICES ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "“Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities”",
+      "reviewer": "Data Analyst50M - 250M USD, IT Services",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Positive Feedback Noted but False Positives Are Still Affecting User Experience”",
+      "reviewer": "security analyst3B - 10B USD, Retail",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "reviewer": "IT MANAGER10B+ USDTelecommunicationReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "reviewer": "SR. TECHNOLOGY LEAD50M-1B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "reviewer": "IT SERVICES ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "“Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities”",
+      "reviewer": "Data Analyst50M - 250M USD, IT Services",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Positive Feedback Noted but False Positives Are Still Affecting User Experience”",
+      "reviewer": "security analyst3B - 10B USD, Retail",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "reviewer": "IT MANAGER10B+ USDTelecommunicationReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "reviewer": "SR. TECHNOLOGY LEAD50M-1B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "reviewer": "IT SERVICES ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "“Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities”",
+      "reviewer": "Data Analyst50M - 250M USD, IT Services",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Positive Feedback Noted but False Positives Are Still Affecting User Experience”",
+      "reviewer": "security analyst3B - 10B USD, Retail",
+      "date": "Sep 4, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Comprehensive Threat Detection With Some Alert Fatigue and Dashboard Rigidities",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "reviewer": "IT MANAGER10B+ USDTelecommunicationReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble Vision Enables Comprehensive Threat Monitoring but Needs UI and Alert Improvements",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "reviewer": "SR. TECHNOLOGY LEAD50M-1B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Cyble’s Dark Web Monitoring Effective Though Reporting Customization Is Limited",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "reviewer": "IT SERVICES ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Detailed Intelligence Reports and Responsive Support Strengthen Online Security Efforts",
+      "rating": 5.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 24, 2025"
+    },
+    {
+      "title": "Cyble Platform Offers Early Threat Detection With Room For Onboarding Improvements",
+      "rating": 5.0,
+      "date": "Nov 24, 2025"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

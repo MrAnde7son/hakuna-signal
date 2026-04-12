@@ -1,0 +1,663 @@
+{
+  "product": "Infinity Platform",
+  "slug": "infinity-platform",
+  "url": "https://www.gartner.com/reviews/product/infinity-platform",
+  "rating": 4.8,
+  "review_count": 27,
+  "vendor": "Check Point Software Technologies",
+  "description": "Infinity Platform is a software designed to provide unified security management and threat prevention across networks, cloud environments, and endpoints. The software integrates firewall, threat intelligence, and advanced security controls into a single architecture tohelp organizations protect against cyberattacks and vulnerabilities. Infinity Platform supports automated response, real-time monitoring, and centralized policy management, enabling organizations to address compliance requirements and streamline security operations. The software aims to reduce complexity by offering consolidated visibility and management for various security measures within an enterprise infrastructure. Through its centralized dashboard, Infinity Platform facilitates incident detection, investigation, and remediation to address evolving security challenges.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Platform Enables Strong Security Integration but Initial Configuration May Be Complex”",
+      "reviewer": "FINANCE ASSOCIATE<50M USD, Banking",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "“Integración centralizada mejora la gestión pero genera inconsistencia en la experiencia”",
+      "reviewer": "Senior Security Architect500M - 1B USD, Energy and Utilities",
+      "date": "Feb 8, 2026"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "reviewer": "FINANCE ASSOCIATE<50M USDBankingReview Source",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "reviewer": "SECURITY AND RISK MANAGEMENT - MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "reviewer": "DESKTOP SUPPORT ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Platform Enables Strong Security Integration but Initial Configuration May Be Complex”",
+      "reviewer": "FINANCE ASSOCIATE<50M USD, Banking",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "“Integración centralizada mejora la gestión pero genera inconsistencia en la experiencia”",
+      "reviewer": "Senior Security Architect500M - 1B USD, Energy and Utilities",
+      "date": "Feb 8, 2026"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "reviewer": "FINANCE ASSOCIATE<50M USDBankingReview Source",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "reviewer": "SECURITY AND RISK MANAGEMENT - MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "reviewer": "DESKTOP SUPPORT ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Platform Enables Strong Security Integration but Initial Configuration May Be Complex”",
+      "reviewer": "FINANCE ASSOCIATE<50M USD, Banking",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "“Integración centralizada mejora la gestión pero genera inconsistencia en la experiencia”",
+      "reviewer": "Senior Security Architect500M - 1B USD, Energy and Utilities",
+      "date": "Feb 8, 2026"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "reviewer": "FINANCE ASSOCIATE<50M USDBankingReview Source",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "reviewer": "SECURITY AND RISK MANAGEMENT - MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "reviewer": "DESKTOP SUPPORT ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Platform Enables Strong Security Integration but Initial Configuration May Be Complex”",
+      "reviewer": "FINANCE ASSOCIATE<50M USD, Banking",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "“Integración centralizada mejora la gestión pero genera inconsistencia en la experiencia”",
+      "reviewer": "Senior Security Architect500M - 1B USD, Energy and Utilities",
+      "date": "Feb 8, 2026"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "reviewer": "FINANCE ASSOCIATE<50M USDBankingReview Source",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "reviewer": "SECURITY AND RISK MANAGEMENT - MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "reviewer": "DESKTOP SUPPORT ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Platform Enables Strong Security Integration but Initial Configuration May Be Complex”",
+      "reviewer": "FINANCE ASSOCIATE<50M USD, Banking",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "“Integración centralizada mejora la gestión pero genera inconsistencia en la experiencia”",
+      "reviewer": "Senior Security Architect500M - 1B USD, Energy and Utilities",
+      "date": "Feb 8, 2026"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "reviewer": "FINANCE ASSOCIATE<50M USDBankingReview Source",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "reviewer": "SECURITY AND RISK MANAGEMENT - MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "reviewer": "DESKTOP SUPPORT ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Platform Enables Strong Security Integration but Initial Configuration May Be Complex”",
+      "reviewer": "FINANCE ASSOCIATE<50M USD, Banking",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "“Integración centralizada mejora la gestión pero genera inconsistencia en la experiencia”",
+      "reviewer": "Senior Security Architect500M - 1B USD, Energy and Utilities",
+      "date": "Feb 8, 2026"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "reviewer": "FINANCE ASSOCIATE<50M USDBankingReview Source",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "reviewer": "SECURITY AND RISK MANAGEMENT - MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "reviewer": "DESKTOP SUPPORT ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Platform Enables Strong Security Integration but Initial Configuration May Be Complex”",
+      "reviewer": "FINANCE ASSOCIATE<50M USD, Banking",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "“Integración centralizada mejora la gestión pero genera inconsistencia en la experiencia”",
+      "reviewer": "Senior Security Architect500M - 1B USD, Energy and Utilities",
+      "date": "Feb 8, 2026"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "reviewer": "FINANCE ASSOCIATE<50M USDBankingReview Source",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "reviewer": "SECURITY AND RISK MANAGEMENT - MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "reviewer": "DESKTOP SUPPORT ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Platform Enables Strong Security Integration but Initial Configuration May Be Complex”",
+      "reviewer": "FINANCE ASSOCIATE<50M USD, Banking",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "“Integración centralizada mejora la gestión pero genera inconsistencia en la experiencia”",
+      "reviewer": "Senior Security Architect500M - 1B USD, Energy and Utilities",
+      "date": "Feb 8, 2026"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "reviewer": "FINANCE ASSOCIATE<50M USDBankingReview Source",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "reviewer": "SECURITY AND RISK MANAGEMENT - MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "reviewer": "DESKTOP SUPPORT ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Platform Enables Strong Security Integration but Initial Configuration May Be Complex”",
+      "reviewer": "FINANCE ASSOCIATE<50M USD, Banking",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "“Integración centralizada mejora la gestión pero genera inconsistencia en la experiencia”",
+      "reviewer": "Senior Security Architect500M - 1B USD, Energy and Utilities",
+      "date": "Feb 8, 2026"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "reviewer": "FINANCE ASSOCIATE<50M USDBankingReview Source",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "reviewer": "SECURITY AND RISK MANAGEMENT - MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "reviewer": "DESKTOP SUPPORT ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "“Platform Enables Strong Security Integration but Initial Configuration May Be Complex”",
+      "reviewer": "FINANCE ASSOCIATE<50M USD, Banking",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "“Integración centralizada mejora la gestión pero genera inconsistencia en la experiencia”",
+      "reviewer": "Senior Security Architect500M - 1B USD, Energy and Utilities",
+      "date": "Feb 8, 2026"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "reviewer": "FINANCE ASSOCIATE<50M USDBankingReview Source",
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Platform Enables Strong Security Integration but Initial Configuration May Be Complex",
+      "rating": 4.0,
+      "date": "Nov 1, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "reviewer": "SECURITY AND RISK MANAGEMENT - MANAGER1B-10B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Unified Console Offers Broad Protection but May Challenge Less Experienced Teams",
+      "rating": 5.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Dec 11, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "reviewer": "DESKTOP SUPPORT ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Checkpoint Harmony Workspace Supports Secure Access and Smooth Application Transitions",
+      "rating": 5.0,
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "reviewer": "NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Nov 28, 2025"
+    },
+    {
+      "title": "Advanced Platform Capabilities Include Unified Management and Customizable Experience",
+      "rating": 4.0,
+      "date": "Nov 28, 2025"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

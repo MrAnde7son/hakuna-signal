@@ -1,0 +1,662 @@
+{
+  "product": "RiskProfiler",
+  "slug": "riskprofiler-286405855",
+  "url": "https://www.gartner.com/reviews/product/riskprofiler-286405855",
+  "review_count": 104,
+  "vendor": "RiskProfiler",
+  "description": "RiskProfiler is an External Attack Surface Management platform that strengthens your organization's security posture by providing visibility into external-facing assets and threats. Using AI, machine learning, and proprietary algorithms, it leverages open-source intelligence to managedomains, IPs, DNS records, and more through a unified asset inventory. It prioritizes remediation by categorizing assets based on criticality to analyze exposures with real-time threat intelligence.The platform mitigates risks through continuous scans to identify vulnerabilities, outdated software, shadow IT, and unmanaged assets. RiskProfiler tracks supply chain threats and maps attack paths using a unified graph database, showing how attackers can exploit combined threats across the brand, supply chain, and cloud environments.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact”",
+      "reviewer": "Software Developer50M - 250M USD, IT Services",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "“Product Offers Basic Threat Monitoring But Lacks Advanced Features and Innovation”",
+      "reviewer": "Chief Executive Officer3B - 10B USD, Energy and Utilities",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "reviewer": "IT Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact”",
+      "reviewer": "Software Developer50M - 250M USD, IT Services",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "“Product Offers Basic Threat Monitoring But Lacks Advanced Features and Innovation”",
+      "reviewer": "Chief Executive Officer3B - 10B USD, Energy and Utilities",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "reviewer": "IT Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact”",
+      "reviewer": "Software Developer50M - 250M USD, IT Services",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "“Product Offers Basic Threat Monitoring But Lacks Advanced Features and Innovation”",
+      "reviewer": "Chief Executive Officer3B - 10B USD, Energy and Utilities",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "reviewer": "IT Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact”",
+      "reviewer": "Software Developer50M - 250M USD, IT Services",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "“Product Offers Basic Threat Monitoring But Lacks Advanced Features and Innovation”",
+      "reviewer": "Chief Executive Officer3B - 10B USD, Energy and Utilities",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "reviewer": "IT Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact”",
+      "reviewer": "Software Developer50M - 250M USD, IT Services",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "“Product Offers Basic Threat Monitoring But Lacks Advanced Features and Innovation”",
+      "reviewer": "Chief Executive Officer3B - 10B USD, Energy and Utilities",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "reviewer": "IT Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact”",
+      "reviewer": "Software Developer50M - 250M USD, IT Services",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "“Product Offers Basic Threat Monitoring But Lacks Advanced Features and Innovation”",
+      "reviewer": "Chief Executive Officer3B - 10B USD, Energy and Utilities",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "reviewer": "IT Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact”",
+      "reviewer": "Software Developer50M - 250M USD, IT Services",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "“Product Offers Basic Threat Monitoring But Lacks Advanced Features and Innovation”",
+      "reviewer": "Chief Executive Officer3B - 10B USD, Energy and Utilities",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "reviewer": "IT Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact”",
+      "reviewer": "Software Developer50M - 250M USD, IT Services",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "“Product Offers Basic Threat Monitoring But Lacks Advanced Features and Innovation”",
+      "reviewer": "Chief Executive Officer3B - 10B USD, Energy and Utilities",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "reviewer": "IT Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact”",
+      "reviewer": "Software Developer50M - 250M USD, IT Services",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "“Product Offers Basic Threat Monitoring But Lacks Advanced Features and Innovation”",
+      "reviewer": "Chief Executive Officer3B - 10B USD, Energy and Utilities",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "reviewer": "IT Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "“Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact”",
+      "reviewer": "Software Developer50M - 250M USD, IT Services",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "“Product Offers Basic Threat Monitoring But Lacks Advanced Features and Innovation”",
+      "reviewer": "Chief Executive Officer3B - 10B USD, Energy and Utilities",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Attack Path Mapping Provides Clear Visibility Into External Exposure and Business Impact",
+      "rating": 5.0,
+      "date": "Dec 29, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "reviewer": "IT Associate50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Instant Vendor Exposure Visibility and Dynamic Remediation Enhance Risk Management",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "reviewer": "Engineer<50M USDIT ServicesReview Source",
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "Real-time Vulnerability alerts and seamless remediation for cloud environments",
+      "rating": 5.0,
+      "date": "Feb 4, 2026"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "reviewer": "MANAGER OF IT SERVICES50M-1B USDIT ServicesReview Source",
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "AI-Driven Scoring Enhances Vendor Risk Assessment and Streamlines Compliance Processes",
+      "rating": 5.0,
+      "date": "Nov 4, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "RiskProfiler Enhanced Security Posture Understanding Through Unified Threat Signals.",
+      "rating": 4.0,
+      "date": "Nov 27, 2025"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

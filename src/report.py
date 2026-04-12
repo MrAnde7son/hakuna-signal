@@ -63,6 +63,13 @@ def generate_report(opportunities: list[dict], intel: dict | None = None):
     INTEL_FILE.write_text(intel_json)
     DATA_JS_FILE.write_text(f"var DATA = {entries_json};\nvar INTEL = {intel_json};\n")
 
+    # Rebuild Gartner competitive landscape snapshot (fast — reads local JSON)
+    try:
+        from gartner_intel import build_landscape
+        build_landscape()
+    except Exception:
+        logger.warning("Gartner landscape build failed (non-fatal)", exc_info=True)
+
     _sync_dashboard()
 
     return DASHBOARD_FILE

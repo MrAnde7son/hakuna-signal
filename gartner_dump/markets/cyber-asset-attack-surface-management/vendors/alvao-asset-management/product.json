@@ -1,0 +1,613 @@
+{
+  "product": "ALVAO Asset Management",
+  "slug": "alvao-asset-management",
+  "url": "https://www.gartner.com/reviews/product/alvao-asset-management",
+  "rating": 4.9,
+  "review_count": 14,
+  "vendor": "ALVAO",
+  "description": "ALVAO IT Asset Management (ITAM) gives organizations full lifecycle visibility and control of IT hardware and software, cutting down manual work with an intuitive tree-structured interface. With real‑time discovery via network monitoring systems, Agent, SNMP,Intune, and SCCM integration, it simplifies audits, optimizes licenses (including Microsoft 365), and supports compliance with Cyber Essentials, NIST, NIS2, and DORA. A visual CMDB maps dependencies for faster incident resolution and change planning, helping IT teams stay efficient, compliant, and cost-effective.",
+  "market": "cyber-asset-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting”",
+      "reviewer": "TECHNICAL CONSULTANT<50M USD, IT Services",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "reviewer": "TECHNICAL CONSULTANT<50M USDIT ServicesReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "reviewer": "DevOps Engineer50M-1B USDSoftwareReview Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE<50M USDIT ServicesReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "reviewer": "IT50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting”",
+      "reviewer": "TECHNICAL CONSULTANT<50M USD, IT Services",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "reviewer": "TECHNICAL CONSULTANT<50M USDIT ServicesReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "reviewer": "DevOps Engineer50M-1B USDSoftwareReview Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE<50M USDIT ServicesReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "reviewer": "IT50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting”",
+      "reviewer": "TECHNICAL CONSULTANT<50M USD, IT Services",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "reviewer": "TECHNICAL CONSULTANT<50M USDIT ServicesReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "reviewer": "DevOps Engineer50M-1B USDSoftwareReview Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE<50M USDIT ServicesReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "reviewer": "IT50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting”",
+      "reviewer": "TECHNICAL CONSULTANT<50M USD, IT Services",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "reviewer": "TECHNICAL CONSULTANT<50M USDIT ServicesReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "reviewer": "DevOps Engineer50M-1B USDSoftwareReview Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE<50M USDIT ServicesReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "reviewer": "IT50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting”",
+      "reviewer": "TECHNICAL CONSULTANT<50M USD, IT Services",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "reviewer": "TECHNICAL CONSULTANT<50M USDIT ServicesReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "reviewer": "DevOps Engineer50M-1B USDSoftwareReview Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE<50M USDIT ServicesReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "reviewer": "IT50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting”",
+      "reviewer": "TECHNICAL CONSULTANT<50M USD, IT Services",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "reviewer": "TECHNICAL CONSULTANT<50M USDIT ServicesReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "reviewer": "DevOps Engineer50M-1B USDSoftwareReview Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE<50M USDIT ServicesReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "reviewer": "IT50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting”",
+      "reviewer": "TECHNICAL CONSULTANT<50M USD, IT Services",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "reviewer": "TECHNICAL CONSULTANT<50M USDIT ServicesReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "reviewer": "DevOps Engineer50M-1B USDSoftwareReview Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE<50M USDIT ServicesReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "reviewer": "IT50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting”",
+      "reviewer": "TECHNICAL CONSULTANT<50M USD, IT Services",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "reviewer": "TECHNICAL CONSULTANT<50M USDIT ServicesReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "reviewer": "DevOps Engineer50M-1B USDSoftwareReview Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE<50M USDIT ServicesReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "reviewer": "IT50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting”",
+      "reviewer": "TECHNICAL CONSULTANT<50M USD, IT Services",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "reviewer": "TECHNICAL CONSULTANT<50M USDIT ServicesReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "reviewer": "DevOps Engineer50M-1B USDSoftwareReview Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE<50M USDIT ServicesReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "reviewer": "IT50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "“ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting”",
+      "reviewer": "TECHNICAL CONSULTANT<50M USD, IT Services",
+      "date": "Oct 29, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "reviewer": "TECHNICAL CONSULTANT<50M USDIT ServicesReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "ALVAO Management Simplifies IT Asset Tracking With Intuitive Interface And Clear Reporting",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "reviewer": "DevOps Engineer50M-1B USDSoftwareReview Source",
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple, Reliable and Efficient Asset Management Tool",
+      "rating": 5.0,
+      "date": "Oct 10, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE<50M USDIT ServicesReview Source",
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Simple Interface and Easy Tracking Despite Lengthy Initial Setup Process",
+      "rating": 5.0,
+      "date": "Sep 30, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDIT ServicesReview Source",
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Users Appreciate Centralization, Report Inconsistent Experience During Web-Based Shift",
+      "rating": 5.0,
+      "date": "Sep 16, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "reviewer": "IT50M-1B USDConstructionReview Source",
+      "date": "Oct 28, 2025"
+    },
+    {
+      "title": "Professional and Reliable service",
+      "rating": 5.0,
+      "date": "Oct 28, 2025"
+    }
+  ],
+  "total_reviews_crawled": 110
+}

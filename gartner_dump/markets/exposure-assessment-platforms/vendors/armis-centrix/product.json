@@ -1,0 +1,663 @@
+{
+  "product": "Armis Centrix",
+  "slug": "armis-centrix",
+  "url": "https://www.gartner.com/reviews/product/armis-centrix",
+  "rating": 4.3,
+  "review_count": 6,
+  "vendor": "Armis",
+  "description": "Armis Centrix for Asset Management and Security is a solution that helps organizations manage and secure their connected assets across IT, OT, IoT, medical device environments whether they are physical, virtual or a combination. Itprovides capabilities for asset discovery, classification, and tracking to improve visibility and support informed decision-making. The solution includes analytics and security features for real-time monitoring, threat detection, and response, helping organizations reduce cyber risks and maintain operational efficiency. It integrates with existing IT and security systems to support comprehensive asset governance and risk management.",
+  "market": "exposure-assessment-platforms",
+  "reviews": [
+    {
+      "title": "“Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles”",
+      "reviewer": "Head Of Cyber Defense Center<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Wide IT Security Integration Offered While OT-Specific Options Remain Behind”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Manufacturing",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "reviewer": "Head Of Cyber Defense Center<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "reviewer": "VP, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "reviewer": "Marketing Associate10B+ USDConsumer GoodsReview Source",
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles”",
+      "reviewer": "Head Of Cyber Defense Center<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Wide IT Security Integration Offered While OT-Specific Options Remain Behind”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Manufacturing",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "reviewer": "Head Of Cyber Defense Center<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "reviewer": "VP, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "reviewer": "Marketing Associate10B+ USDConsumer GoodsReview Source",
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles”",
+      "reviewer": "Head Of Cyber Defense Center<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Wide IT Security Integration Offered While OT-Specific Options Remain Behind”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Manufacturing",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "reviewer": "Head Of Cyber Defense Center<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "reviewer": "VP, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "reviewer": "Marketing Associate10B+ USDConsumer GoodsReview Source",
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles”",
+      "reviewer": "Head Of Cyber Defense Center<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Wide IT Security Integration Offered While OT-Specific Options Remain Behind”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Manufacturing",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "reviewer": "Head Of Cyber Defense Center<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "reviewer": "VP, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "reviewer": "Marketing Associate10B+ USDConsumer GoodsReview Source",
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles”",
+      "reviewer": "Head Of Cyber Defense Center<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Wide IT Security Integration Offered While OT-Specific Options Remain Behind”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Manufacturing",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "reviewer": "Head Of Cyber Defense Center<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "reviewer": "VP, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "reviewer": "Marketing Associate10B+ USDConsumer GoodsReview Source",
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles”",
+      "reviewer": "Head Of Cyber Defense Center<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Wide IT Security Integration Offered While OT-Specific Options Remain Behind”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Manufacturing",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "reviewer": "Head Of Cyber Defense Center<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "reviewer": "VP, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "reviewer": "Marketing Associate10B+ USDConsumer GoodsReview Source",
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles”",
+      "reviewer": "Head Of Cyber Defense Center<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Wide IT Security Integration Offered While OT-Specific Options Remain Behind”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Manufacturing",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "reviewer": "Head Of Cyber Defense Center<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "reviewer": "VP, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "reviewer": "Marketing Associate10B+ USDConsumer GoodsReview Source",
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles”",
+      "reviewer": "Head Of Cyber Defense Center<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Wide IT Security Integration Offered While OT-Specific Options Remain Behind”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Manufacturing",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "reviewer": "Head Of Cyber Defense Center<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "reviewer": "VP, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "reviewer": "Marketing Associate10B+ USDConsumer GoodsReview Source",
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles”",
+      "reviewer": "Head Of Cyber Defense Center<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Wide IT Security Integration Offered While OT-Specific Options Remain Behind”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Manufacturing",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "reviewer": "Head Of Cyber Defense Center<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "reviewer": "VP, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "reviewer": "Marketing Associate10B+ USDConsumer GoodsReview Source",
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "“Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles”",
+      "reviewer": "Head Of Cyber Defense Center<50M USD, IT Services",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "“Wide IT Security Integration Offered While OT-Specific Options Remain Behind”",
+      "reviewer": "Manager, IT Security and Risk Management30B + USD, Manufacturing",
+      "date": "Dec 9, 2025"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "reviewer": "Head Of Cyber Defense Center<50M USDIT ServicesReview Source",
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Agentless Architecture Enables Visibility While Cost and Reporting Present Obstacles",
+      "rating": 4.0,
+      "date": "Mar 2, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "reviewer": "VP, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Armis wins the day for agentless IT and OT asset visibility and exposure management in a healthcare provider environment helping promote information risk management and ensuring patient safety.",
+      "rating": 4.0,
+      "date": "Mar 16, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "reviewer": "Marketing Associate10B+ USDConsumer GoodsReview Source",
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Strong visibility and security for connected devices in physical environments.",
+      "rating": 4.0,
+      "date": "Mar 8, 2026"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT50M-1B USDManufacturingReview Source",
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "Exceptional Device Intelligence with Reliable Security Insights",
+      "rating": 5.0,
+      "date": "Nov 27, 2025"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDIT ServicesReview Source",
+      "date": "Mar 4, 2026"
+    },
+    {
+      "title": "A wealth of asset, flow, vulnerability and alert information that can be used for more than just network security monitoring",
+      "rating": 4.0,
+      "date": "Mar 4, 2026"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

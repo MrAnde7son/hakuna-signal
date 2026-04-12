@@ -1,0 +1,663 @@
+{
+  "product": "ArmorCode Platform",
+  "slug": "armorcode-platform",
+  "url": "https://www.gartner.com/reviews/product/armorcode-platform",
+  "rating": 4.8,
+  "review_count": 25,
+  "vendor": "ArmorCode",
+  "description": "ArmorCode Platform is a software that delivers centralized application security posture management by integrating multiple security tools, processes, and workflows. The software aggregates vulnerabilities and findings from different sources to provide unified visibility and prioritizationof risks. It enables organizations to automate remediation, track security tasks, and coordinate communication between development and security teams. The platform facilitates policy enforcement and governance, supporting scalable management of security issues across cloud and on-premises environments. ArmorCode Platform helps organizations streamline operations, improve compliance, and reduce manual effort associated with securing software development lifecycle.",
+  "market": "exposure-assessment-platforms",
+  "reviews": [
+    {
+      "title": "“Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.”",
+      "reviewer": "Senior Manager500M - 1B USD, Finance (non-banking)",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "“A great platform but requires some polish around process and UX, particularly at scale.”",
+      "reviewer": "APPLICATION SECURITY SPECIALIST500M - 1B USD, IT Services",
+      "date": "Jan 15, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "reviewer": "Senior Manager50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "reviewer": "Engineering Manager50M-1B USDSoftwareReview Source",
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.”",
+      "reviewer": "Senior Manager500M - 1B USD, Finance (non-banking)",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "“A great platform but requires some polish around process and UX, particularly at scale.”",
+      "reviewer": "APPLICATION SECURITY SPECIALIST500M - 1B USD, IT Services",
+      "date": "Jan 15, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "reviewer": "Senior Manager50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "reviewer": "Engineering Manager50M-1B USDSoftwareReview Source",
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.”",
+      "reviewer": "Senior Manager500M - 1B USD, Finance (non-banking)",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "“A great platform but requires some polish around process and UX, particularly at scale.”",
+      "reviewer": "APPLICATION SECURITY SPECIALIST500M - 1B USD, IT Services",
+      "date": "Jan 15, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "reviewer": "Senior Manager50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "reviewer": "Engineering Manager50M-1B USDSoftwareReview Source",
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.”",
+      "reviewer": "Senior Manager500M - 1B USD, Finance (non-banking)",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "“A great platform but requires some polish around process and UX, particularly at scale.”",
+      "reviewer": "APPLICATION SECURITY SPECIALIST500M - 1B USD, IT Services",
+      "date": "Jan 15, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "reviewer": "Senior Manager50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "reviewer": "Engineering Manager50M-1B USDSoftwareReview Source",
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.”",
+      "reviewer": "Senior Manager500M - 1B USD, Finance (non-banking)",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "“A great platform but requires some polish around process and UX, particularly at scale.”",
+      "reviewer": "APPLICATION SECURITY SPECIALIST500M - 1B USD, IT Services",
+      "date": "Jan 15, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "reviewer": "Senior Manager50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "reviewer": "Engineering Manager50M-1B USDSoftwareReview Source",
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.”",
+      "reviewer": "Senior Manager500M - 1B USD, Finance (non-banking)",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "“A great platform but requires some polish around process and UX, particularly at scale.”",
+      "reviewer": "APPLICATION SECURITY SPECIALIST500M - 1B USD, IT Services",
+      "date": "Jan 15, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "reviewer": "Senior Manager50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "reviewer": "Engineering Manager50M-1B USDSoftwareReview Source",
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.”",
+      "reviewer": "Senior Manager500M - 1B USD, Finance (non-banking)",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "“A great platform but requires some polish around process and UX, particularly at scale.”",
+      "reviewer": "APPLICATION SECURITY SPECIALIST500M - 1B USD, IT Services",
+      "date": "Jan 15, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "reviewer": "Senior Manager50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "reviewer": "Engineering Manager50M-1B USDSoftwareReview Source",
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.”",
+      "reviewer": "Senior Manager500M - 1B USD, Finance (non-banking)",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "“A great platform but requires some polish around process and UX, particularly at scale.”",
+      "reviewer": "APPLICATION SECURITY SPECIALIST500M - 1B USD, IT Services",
+      "date": "Jan 15, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "reviewer": "Senior Manager50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "reviewer": "Engineering Manager50M-1B USDSoftwareReview Source",
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.”",
+      "reviewer": "Senior Manager500M - 1B USD, Finance (non-banking)",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "“A great platform but requires some polish around process and UX, particularly at scale.”",
+      "reviewer": "APPLICATION SECURITY SPECIALIST500M - 1B USD, IT Services",
+      "date": "Jan 15, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "reviewer": "Senior Manager50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "reviewer": "Engineering Manager50M-1B USDSoftwareReview Source",
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "“Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.”",
+      "reviewer": "Senior Manager500M - 1B USD, Finance (non-banking)",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "“A great platform but requires some polish around process and UX, particularly at scale.”",
+      "reviewer": "APPLICATION SECURITY SPECIALIST500M - 1B USD, IT Services",
+      "date": "Jan 15, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "reviewer": "Senior Manager50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Armorcode - Strong exposure management platform with effective risk prioritization and broad integrations.",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "reviewer": "Engineering Manager50M-1B USDSoftwareReview Source",
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "ArmorCode is an excellent Exposure Assessment Platform!",
+      "rating": 5.0,
+      "date": "Dec 23, 2025"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Boosting security efficiency through automation and prioritization",
+      "rating": 5.0,
+      "date": "Feb 12, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Strong Integration Support and Role Features Noted, Looking Forward to Future Data View Enhancements",
+      "rating": 5.0,
+      "date": "Jan 23, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Jan 29, 2026"
+    },
+    {
+      "title": "Unified Asset Discovery and Risk Prioritization Enables Faster Response for Security Teams",
+      "rating": 5.0,
+      "date": "Jan 29, 2026"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

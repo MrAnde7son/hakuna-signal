@@ -1,0 +1,612 @@
+{
+  "product": "watchTowr Platform",
+  "slug": "watchtowr-platform",
+  "url": "https://www.gartner.com/reviews/product/watchtowr-platform",
+  "review_count": 13,
+  "vendor": "watchTowr",
+  "description": "watchTowr Platform is a software designed to assess and monitor an organization’s external attack surface by continuously scanning and analyzing internet-facing assets. The software identifies vulnerabilities, misconfigurations, and risks across a range of systems andapplications, providing actionable insights to help organizations reduce security exposures. Through automated testing and asset discovery, the software helps security teams prioritize remediation based on potential impact and risk. The software supports integrations with other security tools and offers reporting capabilities that facilitate visibility and trend analysis over time. Overall, it helps organizations improve their security posture by enabling proactive detection and management of threats to external assets.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Best EASM vendor that got almost everything right.”",
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN500M - 1B USD, Insurance (except health)",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDInsurance (except health)Review Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "reviewer": "IT DIRECTOR10B+ USDConsumer GoodsReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "reviewer": "APPLICATION SECUIRTY ENGINEER50M-1B USDRetailReview Source",
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "“Best EASM vendor that got almost everything right.”",
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN500M - 1B USD, Insurance (except health)",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDInsurance (except health)Review Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "reviewer": "IT DIRECTOR10B+ USDConsumer GoodsReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "reviewer": "APPLICATION SECUIRTY ENGINEER50M-1B USDRetailReview Source",
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "“Best EASM vendor that got almost everything right.”",
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN500M - 1B USD, Insurance (except health)",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDInsurance (except health)Review Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "reviewer": "IT DIRECTOR10B+ USDConsumer GoodsReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "reviewer": "APPLICATION SECUIRTY ENGINEER50M-1B USDRetailReview Source",
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "“Best EASM vendor that got almost everything right.”",
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN500M - 1B USD, Insurance (except health)",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDInsurance (except health)Review Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "reviewer": "IT DIRECTOR10B+ USDConsumer GoodsReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "reviewer": "APPLICATION SECUIRTY ENGINEER50M-1B USDRetailReview Source",
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "“Best EASM vendor that got almost everything right.”",
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN500M - 1B USD, Insurance (except health)",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDInsurance (except health)Review Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "reviewer": "IT DIRECTOR10B+ USDConsumer GoodsReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "reviewer": "APPLICATION SECUIRTY ENGINEER50M-1B USDRetailReview Source",
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "“Best EASM vendor that got almost everything right.”",
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN500M - 1B USD, Insurance (except health)",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDInsurance (except health)Review Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "reviewer": "IT DIRECTOR10B+ USDConsumer GoodsReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "reviewer": "APPLICATION SECUIRTY ENGINEER50M-1B USDRetailReview Source",
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "“Best EASM vendor that got almost everything right.”",
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN500M - 1B USD, Insurance (except health)",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDInsurance (except health)Review Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "reviewer": "IT DIRECTOR10B+ USDConsumer GoodsReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "reviewer": "APPLICATION SECUIRTY ENGINEER50M-1B USDRetailReview Source",
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "“Best EASM vendor that got almost everything right.”",
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN500M - 1B USD, Insurance (except health)",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDInsurance (except health)Review Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "reviewer": "IT DIRECTOR10B+ USDConsumer GoodsReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "reviewer": "APPLICATION SECUIRTY ENGINEER50M-1B USDRetailReview Source",
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "“Best EASM vendor that got almost everything right.”",
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN500M - 1B USD, Insurance (except health)",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDInsurance (except health)Review Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "reviewer": "IT DIRECTOR10B+ USDConsumer GoodsReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "reviewer": "APPLICATION SECUIRTY ENGINEER50M-1B USDRetailReview Source",
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "“Best EASM vendor that got almost everything right.”",
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN500M - 1B USD, Insurance (except health)",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN50M-1B USDInsurance (except health)Review Source",
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Best EASM vendor that got almost everything right.",
+      "rating": 5.0,
+      "date": "Oct 16, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "reviewer": "IT DIRECTOR10B+ USDConsumer GoodsReview Source",
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Fast detection of real risk on Internet Attack Surface with no False-Positive. The best ROI in Cybersecurity",
+      "rating": 5.0,
+      "date": "Sep 23, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "reviewer": "APPLICATION SECUIRTY ENGINEER50M-1B USDRetailReview Source",
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Proactive Risk Identification and Proof of Concept Builds Confidence in Findings",
+      "rating": 5.0,
+      "date": "Sep 26, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management10B+ USDManufacturingReview Source",
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Detection Speed and Precision Stand Out While Addressing Exposed Digital Vulnerabilities",
+      "rating": 5.0,
+      "date": "Oct 14, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "reviewer": "CISO50M-1B USDServices (non-Government)Review Source",
+      "date": "Sep 29, 2025"
+    },
+    {
+      "title": "Probably the best external infrastructure posture management tool out there",
+      "rating": 5.0,
+      "date": "Sep 29, 2025"
+    }
+  ],
+  "total_reviews_crawled": 110
+}

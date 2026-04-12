@@ -28,6 +28,10 @@ ALWAYS_PASS_CATEGORIES = {
     "surface-command",
     "insightidr",
     "insightappsec",
+    # Gartner Peer Insights — reviews are already scoped to security markets
+    "vulnerability-assessment",
+    "exposure-management",
+    "attack-surface-management",
     # GitHub repos — every issue is on the OSS scanner / asset / fleet tool
     "projectdiscovery/nuclei",
     "zaproxy/zaproxy",

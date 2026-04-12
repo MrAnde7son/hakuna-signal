@@ -20,7 +20,9 @@ logger = logging.getLogger("cloud_entrypoint")
 ROOT = Path(__file__).resolve().parent.parent
 DB_FILE = ROOT / "data" / "seen_threads.db"
 REPORTS_DIR = ROOT / "reports"
+GARTNER_DUMP_DIR = ROOT / "gartner_dump"
 REPORTS_PREFIX = "reports/"
+GARTNER_PREFIX = "gartner_dump/"
 DB_OBJECT = "seen_threads.db"
 
 
@@ -51,6 +53,19 @@ def hydrate(bucket) -> None:
         blob.download_to_filename(dest)
         restored += 1
     logger.info("Restored %d files into %s/", restored, REPORTS_DIR.name)
+
+    # Restore pre-crawled Gartner dump (uploaded by local crawl runs)
+    gartner_restored = 0
+    for blob in bucket.list_blobs(prefix=GARTNER_PREFIX):
+        rel = blob.name[len(GARTNER_PREFIX):]
+        if not rel:
+            continue
+        dest = GARTNER_DUMP_DIR / rel
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        blob.download_to_filename(dest)
+        gartner_restored += 1
+    if gartner_restored:
+        logger.info("Restored %d Gartner dump files", gartner_restored)
 
 
 def push(bucket) -> None:

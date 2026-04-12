@@ -1,0 +1,663 @@
+{
+  "product": "Splunk Asset and Risk Intelligence",
+  "slug": "splunk-asset-and-risk-intelligence",
+  "url": "https://www.gartner.com/reviews/product/splunk-asset-and-risk-intelligence",
+  "rating": 4.4,
+  "review_count": 42,
+  "vendor": "Cisco Systems (Splunk)",
+  "description": "Splunk Asset and Risk Intelligence software focuses on asset visibility and risk management within enterprise environments. It aggregates and normalizes data related to physical and digital assets, delivering insights into inventory, asset health, and associatedrisk exposure. The software provides features for continuous monitoring of critical assets, assessment of asset vulnerabilities, and automated compliance reporting. Using advanced analytics, it identifies risk factors linked to asset configuration and behavior, assisting organizations in maintaining regulatory compliance and reducing operational and security risks. The software integrates with various data sources to offer centralized dashboards that support informed decision-making for risk mitigation and asset management.",
+  "market": "cyber-asset-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management”",
+      "reviewer": "Associate Consultant500M - 1B USD, Banking",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "“User Experience Impacted by Ineffective Summarization and Display of Information”",
+      "reviewer": "SOC MANAGER500M - 1B USD, Manufacturing",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "reviewer": "Associate Consultant50M-1B USDBankingReview Source",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "reviewer": "SECURITY CONTROL ASSESSOR II50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "reviewer": "ENGINEER50M-1B USDBankingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "reviewer": "LEAD ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "reviewer": "DEVELOPER AND ARCHITECT50M-1B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "“Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management”",
+      "reviewer": "Associate Consultant500M - 1B USD, Banking",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "“User Experience Impacted by Ineffective Summarization and Display of Information”",
+      "reviewer": "SOC MANAGER500M - 1B USD, Manufacturing",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "reviewer": "Associate Consultant50M-1B USDBankingReview Source",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "reviewer": "SECURITY CONTROL ASSESSOR II50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "reviewer": "ENGINEER50M-1B USDBankingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "reviewer": "LEAD ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "reviewer": "DEVELOPER AND ARCHITECT50M-1B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "“Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management”",
+      "reviewer": "Associate Consultant500M - 1B USD, Banking",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "“User Experience Impacted by Ineffective Summarization and Display of Information”",
+      "reviewer": "SOC MANAGER500M - 1B USD, Manufacturing",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "reviewer": "Associate Consultant50M-1B USDBankingReview Source",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "reviewer": "SECURITY CONTROL ASSESSOR II50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "reviewer": "ENGINEER50M-1B USDBankingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "reviewer": "LEAD ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "reviewer": "DEVELOPER AND ARCHITECT50M-1B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "“Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management”",
+      "reviewer": "Associate Consultant500M - 1B USD, Banking",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "“User Experience Impacted by Ineffective Summarization and Display of Information”",
+      "reviewer": "SOC MANAGER500M - 1B USD, Manufacturing",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "reviewer": "Associate Consultant50M-1B USDBankingReview Source",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "reviewer": "SECURITY CONTROL ASSESSOR II50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "reviewer": "ENGINEER50M-1B USDBankingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "reviewer": "LEAD ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "reviewer": "DEVELOPER AND ARCHITECT50M-1B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "“Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management”",
+      "reviewer": "Associate Consultant500M - 1B USD, Banking",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "“User Experience Impacted by Ineffective Summarization and Display of Information”",
+      "reviewer": "SOC MANAGER500M - 1B USD, Manufacturing",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "reviewer": "Associate Consultant50M-1B USDBankingReview Source",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "reviewer": "SECURITY CONTROL ASSESSOR II50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "reviewer": "ENGINEER50M-1B USDBankingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "reviewer": "LEAD ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "reviewer": "DEVELOPER AND ARCHITECT50M-1B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "“Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management”",
+      "reviewer": "Associate Consultant500M - 1B USD, Banking",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "“User Experience Impacted by Ineffective Summarization and Display of Information”",
+      "reviewer": "SOC MANAGER500M - 1B USD, Manufacturing",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "reviewer": "Associate Consultant50M-1B USDBankingReview Source",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "reviewer": "SECURITY CONTROL ASSESSOR II50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "reviewer": "ENGINEER50M-1B USDBankingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "reviewer": "LEAD ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "reviewer": "DEVELOPER AND ARCHITECT50M-1B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "“Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management”",
+      "reviewer": "Associate Consultant500M - 1B USD, Banking",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "“User Experience Impacted by Ineffective Summarization and Display of Information”",
+      "reviewer": "SOC MANAGER500M - 1B USD, Manufacturing",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "reviewer": "Associate Consultant50M-1B USDBankingReview Source",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "reviewer": "SECURITY CONTROL ASSESSOR II50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "reviewer": "ENGINEER50M-1B USDBankingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "reviewer": "LEAD ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "reviewer": "DEVELOPER AND ARCHITECT50M-1B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "“Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management”",
+      "reviewer": "Associate Consultant500M - 1B USD, Banking",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "“User Experience Impacted by Ineffective Summarization and Display of Information”",
+      "reviewer": "SOC MANAGER500M - 1B USD, Manufacturing",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "reviewer": "Associate Consultant50M-1B USDBankingReview Source",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "reviewer": "SECURITY CONTROL ASSESSOR II50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "reviewer": "ENGINEER50M-1B USDBankingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "reviewer": "LEAD ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "reviewer": "DEVELOPER AND ARCHITECT50M-1B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "“Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management”",
+      "reviewer": "Associate Consultant500M - 1B USD, Banking",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "“User Experience Impacted by Ineffective Summarization and Display of Information”",
+      "reviewer": "SOC MANAGER500M - 1B USD, Manufacturing",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "reviewer": "Associate Consultant50M-1B USDBankingReview Source",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "reviewer": "SECURITY CONTROL ASSESSOR II50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "reviewer": "ENGINEER50M-1B USDBankingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "reviewer": "LEAD ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "reviewer": "DEVELOPER AND ARCHITECT50M-1B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "“Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management”",
+      "reviewer": "Associate Consultant500M - 1B USD, Banking",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "“User Experience Impacted by Ineffective Summarization and Display of Information”",
+      "reviewer": "SOC MANAGER500M - 1B USD, Manufacturing",
+      "date": "Sep 22, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "reviewer": "Associate Consultant50M-1B USDBankingReview Source",
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Splunk ARI Delivers Continuous Visibility But Requires Precise Data Source Management",
+      "rating": 4.0,
+      "date": "Dec 31, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "reviewer": "SECURITY CONTROL ASSESSOR II50M-1B USDHealthcare and BiotechReview Source",
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Asset Visibility and Risk Correlation Enhanced Despite Complex Initial Setup",
+      "rating": 5.0,
+      "date": "Nov 13, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "reviewer": "ENGINEER50M-1B USDBankingReview Source",
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Great visibility for Risk in the environment.",
+      "rating": 4.0,
+      "date": "Nov 3, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "reviewer": "LEAD ENGINEER50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Platform for the Unified Asset Visibility and Risk Scoring",
+      "rating": 4.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "reviewer": "DEVELOPER AND ARCHITECT50M-1B USDIT ServicesReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Prioritizing threats with Splunk asset and Risk Intelligence",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

@@ -1,0 +1,613 @@
+{
+  "product": "CloudSEK BeVigil",
+  "slug": "cloudsek-bevigil-94066030",
+  "url": "https://www.gartner.com/reviews/product/cloudsek-bevigil-94066030",
+  "rating": 4.7,
+  "review_count": 19,
+  "vendor": "CloudSEK",
+  "description": "BeVigil Enterprise is a software designed to identify and assess mobile application security vulnerabilities in enterprise environments. It automates the scanning of mobile apps to detect security issues such as malware, data leaks, and codeweaknesses. The software provides detailed risk analysis and generates reports to help organizations understand and mitigate threats to their mobile applications. BeVigil Enterprise supports compliance requirements by highlighting areas of concern in app security and assists security teams in prioritizing remediation efforts. It enables organizations to maintain an overview of their mobile application security posture and address potential risks before they are exploited.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization”",
+      "reviewer": "Software Developer500M - 1B USD, Software",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDSoftwareReview Source",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "reviewer": "Manager, It Security And Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDRetailReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization”",
+      "reviewer": "Software Developer500M - 1B USD, Software",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDSoftwareReview Source",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "reviewer": "Manager, It Security And Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDRetailReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization”",
+      "reviewer": "Software Developer500M - 1B USD, Software",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDSoftwareReview Source",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "reviewer": "Manager, It Security And Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDRetailReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization”",
+      "reviewer": "Software Developer500M - 1B USD, Software",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDSoftwareReview Source",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "reviewer": "Manager, It Security And Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDRetailReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization”",
+      "reviewer": "Software Developer500M - 1B USD, Software",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDSoftwareReview Source",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "reviewer": "Manager, It Security And Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDRetailReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization”",
+      "reviewer": "Software Developer500M - 1B USD, Software",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDSoftwareReview Source",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "reviewer": "Manager, It Security And Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDRetailReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization”",
+      "reviewer": "Software Developer500M - 1B USD, Software",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDSoftwareReview Source",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "reviewer": "Manager, It Security And Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDRetailReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization”",
+      "reviewer": "Software Developer500M - 1B USD, Software",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDSoftwareReview Source",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "reviewer": "Manager, It Security And Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDRetailReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization”",
+      "reviewer": "Software Developer500M - 1B USD, Software",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDSoftwareReview Source",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "reviewer": "Manager, It Security And Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDRetailReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "“Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization”",
+      "reviewer": "Software Developer500M - 1B USD, Software",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "reviewer": "Software Developer50M-1B USDSoftwareReview Source",
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Real-Time Vulnerability Alerts and Clear Dashboards Support Effective Risk Prioritization",
+      "rating": 5.0,
+      "date": "Jan 22, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "reviewer": "Manager, It Security And Risk Management50M-1B USDFinance (non-banking)Review Source",
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Enhance Security Measures - CloudSEK Bevigil Vulnerability Detection",
+      "rating": 5.0,
+      "date": "Mar 27, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Platform Enhances Security Search With Deeper Visibility Into Hidden Vulnerabilities",
+      "rating": 5.0,
+      "date": "Mar 5, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Essential Tool for Mobile Asset Exposure and Proactive Vulnerability Research",
+      "rating": 5.0,
+      "date": "Jan 16, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDRetailReview Source",
+      "date": "Mar 12, 2026"
+    },
+    {
+      "title": "Effective platform for identifying mobile app security risks and exposed assets",
+      "rating": 5.0,
+      "date": "Mar 12, 2026"
+    }
+  ],
+  "total_reviews_crawled": 110
+}

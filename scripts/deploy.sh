@@ -142,6 +142,14 @@ echo "==> Mirroring dashboard.html into gs://${STATE_BUCKET}/reports/ ..."
 gsutil -h "Cache-Control:private, max-age=60" \
   cp web/dashboard.html "gs://${STATE_BUCKET}/reports/dashboard.html"
 
+# Sync pre-crawled Gartner data so the Cloud Run pipeline can hydrate it.
+# Only JSON files — skip the bulky raw HTML dumps.
+if [ -d gartner_dump ] && ls gartner_dump/markets/*/vendors/*/product.json >/dev/null 2>&1; then
+  echo
+  echo "==> Syncing Gartner dump to gs://${STATE_BUCKET}/gartner_dump/ ..."
+  gsutil -m rsync -r -x '.*\.html$' gartner_dump/ "gs://${STATE_BUCKET}/gartner_dump/"
+fi
+
 # Cloud Run services resolve image tags to digests at revision-creation time,
 # so re-aliasing :latest above does nothing for the dashboard. We have to roll
 # a new revision explicitly. Pinning to the SHA (not :latest) makes Cloud Run's

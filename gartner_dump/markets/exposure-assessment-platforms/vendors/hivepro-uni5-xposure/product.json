@@ -1,0 +1,613 @@
+{
+  "product": "HivePro Uni5 Xposure",
+  "slug": "hivepro-uni5-xposure",
+  "url": "https://www.gartner.com/reviews/product/hivepro-uni5-xposure",
+  "rating": 4.9,
+  "review_count": 19,
+  "vendor": "Hive Pro",
+  "description": "Uni5 Xposure is an end-to-end Threat Exposure Management platform. Embedded are both Adversarial Exposue Validation (AEV) and Exposure Assessment (EA). EA specifically identifies where your organization is exposed to real-world threats, tests security controls againstpotential exploitation, and guides teams in eliminating high-priority risks before they’re breached. It unifies CAASM and EASM to deliver complete, real-time asset visibility across internal and external surfaces, uses embedded agentless scanners for frictionless coverage, and integrates threat, vulnerability, and patch intelligence from HiveForce Labs to drive accurate, risk-based prioritization. Built-in breach and attack simulation validates control effectiveness under real-world conditions, while dynamic exposure scoring adapts continuously based on exploitability, asset criticality, and business impact. The result: fewer blind spots, faster mitigation, and smarter, risk-aligned decisions, all from a single platform.",
+  "market": "exposure-assessment-platforms",
+  "reviews": [
+    {
+      "title": "“Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.”",
+      "reviewer": "SENIOR BUSINESS ANALYST II500M - 1B USD, IT Services",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDIT ServicesReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDManufacturingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management<50M USDReal EstateReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "“Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.”",
+      "reviewer": "SENIOR BUSINESS ANALYST II500M - 1B USD, IT Services",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDIT ServicesReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDManufacturingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management<50M USDReal EstateReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "“Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.”",
+      "reviewer": "SENIOR BUSINESS ANALYST II500M - 1B USD, IT Services",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDIT ServicesReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDManufacturingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management<50M USDReal EstateReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "“Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.”",
+      "reviewer": "SENIOR BUSINESS ANALYST II500M - 1B USD, IT Services",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDIT ServicesReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDManufacturingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management<50M USDReal EstateReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "“Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.”",
+      "reviewer": "SENIOR BUSINESS ANALYST II500M - 1B USD, IT Services",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDIT ServicesReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDManufacturingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management<50M USDReal EstateReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "“Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.”",
+      "reviewer": "SENIOR BUSINESS ANALYST II500M - 1B USD, IT Services",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDIT ServicesReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDManufacturingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management<50M USDReal EstateReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "“Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.”",
+      "reviewer": "SENIOR BUSINESS ANALYST II500M - 1B USD, IT Services",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDIT ServicesReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDManufacturingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management<50M USDReal EstateReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "“Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.”",
+      "reviewer": "SENIOR BUSINESS ANALYST II500M - 1B USD, IT Services",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDIT ServicesReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDManufacturingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management<50M USDReal EstateReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "“Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.”",
+      "reviewer": "SENIOR BUSINESS ANALYST II500M - 1B USD, IT Services",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDIT ServicesReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDManufacturingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management<50M USDReal EstateReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "“Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.”",
+      "reviewer": "SENIOR BUSINESS ANALYST II500M - 1B USD, IT Services",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Efficient Work Tracking Platform, Great for Agile Teams, but Requires Proper Onboarding.",
+      "rating": 4.0,
+      "date": "Nov 20, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDIT ServicesReview Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Great combination of Technology depth and Customer centric engagement",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "reviewer": "IT SECURITY & RISK MANAGEMENT ASSOCIATE50M-1B USDIT ServicesReview Source",
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Unified Visibility With HivePro Uni5 Xposure Improves Remediation Efficiency",
+      "rating": 5.0,
+      "date": "Nov 6, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDManufacturingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Hive Pro Simplifies Onboarding Process and Improves Risk Reduction Efforts",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management<50M USDReal EstateReview Source",
+      "date": "Feb 11, 2026"
+    },
+    {
+      "title": "HivePro Strengthens Security Posture and Fills Exposure Management Gap Effectively",
+      "rating": 5.0,
+      "date": "Feb 11, 2026"
+    }
+  ],
+  "total_reviews_crawled": 110
+}

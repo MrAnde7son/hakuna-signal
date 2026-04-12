@@ -1,0 +1,663 @@
+{
+  "product": "Brinqa Unified Exposure Management Platform",
+  "slug": "brinqa-unified-exposure-management-platform",
+  "url": "https://www.gartner.com/reviews/product/brinqa-unified-exposure-management-platform",
+  "rating": 3.9,
+  "review_count": 8,
+  "vendor": "Brinqa",
+  "description": "Threat exposure aggregation platform for high volume, complex enterprises to centralize, normalize, and enrich disparate vulnerability, business, and threat data so that they can hold their remediation teams accountable to SLAs, advise their business stakeholderson vulnerability risk tolerance, and get more done with the security team they already have. Brinqa empowers you to aggregate every detected vulnerability; automate prioritization, ticketing, and reports; and accelerates business risk reduction at scale.",
+  "market": "exposure-assessment-platforms",
+  "reviews": [
+    {
+      "title": "“Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search”",
+      "reviewer": "Lead Cyber Security Engineer30B + USD, Energy and Utilities",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "“Basic Bugs, Low Data Loading Speed, and Sparse Documentation Raise Concerns”",
+      "reviewer": "Manager, IT Security and Risk Management<50M USD, Miscellaneous",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "reviewer": "Lead Cyber Security Engineer10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDRetailReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT10B+ USDBankingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "“Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search”",
+      "reviewer": "Lead Cyber Security Engineer30B + USD, Energy and Utilities",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "“Basic Bugs, Low Data Loading Speed, and Sparse Documentation Raise Concerns”",
+      "reviewer": "Manager, IT Security and Risk Management<50M USD, Miscellaneous",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "reviewer": "Lead Cyber Security Engineer10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDRetailReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT10B+ USDBankingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "“Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search”",
+      "reviewer": "Lead Cyber Security Engineer30B + USD, Energy and Utilities",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "“Basic Bugs, Low Data Loading Speed, and Sparse Documentation Raise Concerns”",
+      "reviewer": "Manager, IT Security and Risk Management<50M USD, Miscellaneous",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "reviewer": "Lead Cyber Security Engineer10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDRetailReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT10B+ USDBankingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "“Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search”",
+      "reviewer": "Lead Cyber Security Engineer30B + USD, Energy and Utilities",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "“Basic Bugs, Low Data Loading Speed, and Sparse Documentation Raise Concerns”",
+      "reviewer": "Manager, IT Security and Risk Management<50M USD, Miscellaneous",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "reviewer": "Lead Cyber Security Engineer10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDRetailReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT10B+ USDBankingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "“Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search”",
+      "reviewer": "Lead Cyber Security Engineer30B + USD, Energy and Utilities",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "“Basic Bugs, Low Data Loading Speed, and Sparse Documentation Raise Concerns”",
+      "reviewer": "Manager, IT Security and Risk Management<50M USD, Miscellaneous",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "reviewer": "Lead Cyber Security Engineer10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDRetailReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT10B+ USDBankingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "“Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search”",
+      "reviewer": "Lead Cyber Security Engineer30B + USD, Energy and Utilities",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "“Basic Bugs, Low Data Loading Speed, and Sparse Documentation Raise Concerns”",
+      "reviewer": "Manager, IT Security and Risk Management<50M USD, Miscellaneous",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "reviewer": "Lead Cyber Security Engineer10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDRetailReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT10B+ USDBankingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "“Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search”",
+      "reviewer": "Lead Cyber Security Engineer30B + USD, Energy and Utilities",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "“Basic Bugs, Low Data Loading Speed, and Sparse Documentation Raise Concerns”",
+      "reviewer": "Manager, IT Security and Risk Management<50M USD, Miscellaneous",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "reviewer": "Lead Cyber Security Engineer10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDRetailReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT10B+ USDBankingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "“Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search”",
+      "reviewer": "Lead Cyber Security Engineer30B + USD, Energy and Utilities",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "“Basic Bugs, Low Data Loading Speed, and Sparse Documentation Raise Concerns”",
+      "reviewer": "Manager, IT Security and Risk Management<50M USD, Miscellaneous",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "reviewer": "Lead Cyber Security Engineer10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDRetailReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT10B+ USDBankingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "“Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search”",
+      "reviewer": "Lead Cyber Security Engineer30B + USD, Energy and Utilities",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "“Basic Bugs, Low Data Loading Speed, and Sparse Documentation Raise Concerns”",
+      "reviewer": "Manager, IT Security and Risk Management<50M USD, Miscellaneous",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "reviewer": "Lead Cyber Security Engineer10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDRetailReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT10B+ USDBankingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "“Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search”",
+      "reviewer": "Lead Cyber Security Engineer30B + USD, Energy and Utilities",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "“Basic Bugs, Low Data Loading Speed, and Sparse Documentation Raise Concerns”",
+      "reviewer": "Manager, IT Security and Risk Management<50M USD, Miscellaneous",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "reviewer": "Lead Cyber Security Engineer10B+ USDEnergy and UtilitiesReview Source",
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Platform Enhances Data Unification with Clustering and Brinqa IQ Simplifies the Search",
+      "rating": 5.0,
+      "date": "Nov 18, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "reviewer": "DIRECTOR, IT SECURITY AND RISK MANAGEMEN1B-10B USDInsurance (except health)Review Source",
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Excellent platform for improving the visibility and ability to action your risk data",
+      "rating": 4.0,
+      "date": "Dec 1, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDSoftwareReview Source",
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Single Pane of Glass Simplifies Reporting, Connector Reliability Needs Improvement",
+      "rating": 4.0,
+      "date": "Nov 10, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDRetailReview Source",
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Collaborative Experience With Brinqa Enhanced By Engaging Onboarding And Support Teams",
+      "rating": 4.0,
+      "date": "Dec 5, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT10B+ USDBankingReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Aggregating Risk Intelligence and Driving Actionable Security Posture Improvements",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

@@ -1,0 +1,613 @@
+{
+  "product": "ThreatAware",
+  "slug": "threataware",
+  "url": "https://www.gartner.com/reviews/product/threataware",
+  "rating": 4.7,
+  "review_count": 24,
+  "vendor": "ThreatAware",
+  "description": "ThreatAware is a software designed to help organizations monitor and manage their cybersecurity posture by providing central visibility of critical assets, people, and processes. The software integrates with existing security solutions to surface gaps, suchas missing patches or policy failures, ensuring that compliance and security measures remain effective. ThreatAware automates the discovery and reporting of vulnerabilities and compliance issues, allowing businesses to identify risks and coordinate responses efficiently. The software supports the consolidation of data from multiple tools to create a single view, aiding security teams in reducing manual effort and improving incident detection and resolution. It is used to enhance oversight and control in cybersecurity management, helping organizations maintain robust protection for their digital infrastructure.",
+  "market": "cyber-asset-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring”",
+      "reviewer": "Data Analyst250M - 500M USD, IT Services",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDManufacturingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "reviewer": "ENGINEER50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "reviewer": "Customer Support Investigation Specialis1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "reviewer": "Manager, Cybersecurity Operations50M-1B USDTravel and HospitalityReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "“ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring”",
+      "reviewer": "Data Analyst250M - 500M USD, IT Services",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDManufacturingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "reviewer": "ENGINEER50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "reviewer": "Customer Support Investigation Specialis1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "reviewer": "Manager, Cybersecurity Operations50M-1B USDTravel and HospitalityReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "“ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring”",
+      "reviewer": "Data Analyst250M - 500M USD, IT Services",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDManufacturingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "reviewer": "ENGINEER50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "reviewer": "Customer Support Investigation Specialis1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "reviewer": "Manager, Cybersecurity Operations50M-1B USDTravel and HospitalityReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "“ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring”",
+      "reviewer": "Data Analyst250M - 500M USD, IT Services",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDManufacturingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "reviewer": "ENGINEER50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "reviewer": "Customer Support Investigation Specialis1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "reviewer": "Manager, Cybersecurity Operations50M-1B USDTravel and HospitalityReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "“ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring”",
+      "reviewer": "Data Analyst250M - 500M USD, IT Services",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDManufacturingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "reviewer": "ENGINEER50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "reviewer": "Customer Support Investigation Specialis1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "reviewer": "Manager, Cybersecurity Operations50M-1B USDTravel and HospitalityReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "“ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring”",
+      "reviewer": "Data Analyst250M - 500M USD, IT Services",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDManufacturingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "reviewer": "ENGINEER50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "reviewer": "Customer Support Investigation Specialis1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "reviewer": "Manager, Cybersecurity Operations50M-1B USDTravel and HospitalityReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "“ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring”",
+      "reviewer": "Data Analyst250M - 500M USD, IT Services",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDManufacturingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "reviewer": "ENGINEER50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "reviewer": "Customer Support Investigation Specialis1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "reviewer": "Manager, Cybersecurity Operations50M-1B USDTravel and HospitalityReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "“ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring”",
+      "reviewer": "Data Analyst250M - 500M USD, IT Services",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDManufacturingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "reviewer": "ENGINEER50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "reviewer": "Customer Support Investigation Specialis1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "reviewer": "Manager, Cybersecurity Operations50M-1B USDTravel and HospitalityReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "“ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring”",
+      "reviewer": "Data Analyst250M - 500M USD, IT Services",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDManufacturingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "reviewer": "ENGINEER50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "reviewer": "Customer Support Investigation Specialis1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "reviewer": "Manager, Cybersecurity Operations50M-1B USDTravel and HospitalityReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "“ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring”",
+      "reviewer": "Data Analyst250M - 500M USD, IT Services",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "reviewer": "Data Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "ThreatAware Centralises Data and Enhances Proactive Cyber Hygiene Monitoring",
+      "rating": 5.0,
+      "date": "Nov 19, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "reviewer": "CYBER SECURITY ANALYST50M-1B USDManufacturingReview Source",
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Feature-Rich Dashboard Offers Clarity and API Integration Allows Easy Setup",
+      "rating": 4.0,
+      "date": "Sep 9, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "reviewer": "ENGINEER50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Find undiscovered efficiencies and improve processes",
+      "rating": 5.0,
+      "date": "Oct 30, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "reviewer": "Customer Support Investigation Specialis1B-10B USDHealthcare and BiotechReview Source",
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Agentless Platform Synchronizes Security Data in Real Time for Centralized Oversight",
+      "rating": 5.0,
+      "date": "Aug 17, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "reviewer": "Manager, Cybersecurity Operations50M-1B USDTravel and HospitalityReview Source",
+      "date": "Aug 18, 2025"
+    },
+    {
+      "title": "Strong Integration Options and Reporting Enhance Dashboard Navigation Experience",
+      "rating": 5.0,
+      "date": "Aug 18, 2025"
+    }
+  ],
+  "total_reviews_crawled": 110
+}

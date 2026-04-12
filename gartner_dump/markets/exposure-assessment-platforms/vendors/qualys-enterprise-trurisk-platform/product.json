@@ -1,0 +1,613 @@
+{
+  "product": "Qualys Enterprise TruRisk Platform",
+  "slug": "qualys-enterprise-trurisk-platform",
+  "url": "https://www.gartner.com/reviews/product/qualys-enterprise-trurisk-platform",
+  "rating": 4.6,
+  "review_count": 42,
+  "vendor": "Qualys",
+  "description": "Qualys Enterprise TruRisk Platform is a software designed to help organizations identify, assess, and manage cybersecurity risks across their IT environments. The software consolidates asset inventory, vulnerability management, and risk assessment into a unified solutionthat integrates with enterprise security tools. It enables continuous monitoring of networks, applications, and endpoints to detect vulnerabilities and misconfigurations. The software provides actionable insights for prioritizing remediation tasks based on risk scores and asset criticality. Through automation and customizable reporting features, it streamlines compliance requirements and supports decision-making for security teams. This platform addresses the business problem of reducing exposure to cyber threats and improving operational security posture.",
+  "market": "exposure-assessment-platforms",
+  "reviews": [
+    {
+      "title": "“Reliable, Scalable and Truly Risk-Focused Security Platform”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Banking",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDBankingReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDBankingReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management1B-10B USDTelecommunicationReview Source",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "reviewer": "SR. SECURITY ANALYST1B-10B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "“Reliable, Scalable and Truly Risk-Focused Security Platform”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Banking",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDBankingReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDBankingReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management1B-10B USDTelecommunicationReview Source",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "reviewer": "SR. SECURITY ANALYST1B-10B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "“Reliable, Scalable and Truly Risk-Focused Security Platform”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Banking",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDBankingReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDBankingReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management1B-10B USDTelecommunicationReview Source",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "reviewer": "SR. SECURITY ANALYST1B-10B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "“Reliable, Scalable and Truly Risk-Focused Security Platform”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Banking",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDBankingReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDBankingReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management1B-10B USDTelecommunicationReview Source",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "reviewer": "SR. SECURITY ANALYST1B-10B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "“Reliable, Scalable and Truly Risk-Focused Security Platform”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Banking",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDBankingReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDBankingReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management1B-10B USDTelecommunicationReview Source",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "reviewer": "SR. SECURITY ANALYST1B-10B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "“Reliable, Scalable and Truly Risk-Focused Security Platform”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Banking",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDBankingReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDBankingReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management1B-10B USDTelecommunicationReview Source",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "reviewer": "SR. SECURITY ANALYST1B-10B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "“Reliable, Scalable and Truly Risk-Focused Security Platform”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Banking",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDBankingReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDBankingReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management1B-10B USDTelecommunicationReview Source",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "reviewer": "SR. SECURITY ANALYST1B-10B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "“Reliable, Scalable and Truly Risk-Focused Security Platform”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Banking",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDBankingReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDBankingReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management1B-10B USDTelecommunicationReview Source",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "reviewer": "SR. SECURITY ANALYST1B-10B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "“Reliable, Scalable and Truly Risk-Focused Security Platform”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Banking",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDBankingReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDBankingReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management1B-10B USDTelecommunicationReview Source",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "reviewer": "SR. SECURITY ANALYST1B-10B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "“Reliable, Scalable and Truly Risk-Focused Security Platform”",
+      "reviewer": "IT Security & Risk Management Associate30B + USD, Banking",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate10B+ USDBankingReview Source",
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Reliable, Scalable and Truly Risk-Focused Security Platform",
+      "rating": 4.0,
+      "date": "Dec 4, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "reviewer": "Software Developer50M-1B USDIT ServicesReview Source",
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "Attractive Interface and Clear Reporting Noted, With Resource-Intensive Scan Challenges",
+      "rating": 4.0,
+      "date": "Dec 10, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate1B-10B USDBankingReview Source",
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "User Experience for Troubleshooting and Compliance",
+      "rating": 5.0,
+      "date": "Oct 15, 2025"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "reviewer": "Manager, It Security And Risk Management1B-10B USDTelecommunicationReview Source",
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Deployment Across Data Centers Simplifies Vulnerability Scanning for All User Groups",
+      "rating": 4.0,
+      "date": "Jan 30, 2026"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "reviewer": "SR. SECURITY ANALYST1B-10B USDIT ServicesReview Source",
+      "date": "Nov 25, 2025"
+    },
+    {
+      "title": "Platform Enables Comprehensive Risk Assessment and Reduces False Positives Effectively",
+      "rating": 5.0,
+      "date": "Nov 25, 2025"
+    }
+  ],
+  "total_reviews_crawled": 110
+}

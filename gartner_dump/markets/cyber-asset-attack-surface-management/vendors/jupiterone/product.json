@@ -1,0 +1,663 @@
+{
+  "product": "JupiterOne",
+  "slug": "jupiterone",
+  "url": "https://www.gartner.com/reviews/product/jupiterone",
+  "rating": 4.4,
+  "review_count": 44,
+  "vendor": "JupiterOne",
+  "description": "JupiterOne is a cyber asset management software designed to assist organizations in gaining visibility and control over their digital environment. This software enables users to centralize and analyze data regarding their assets, including cloud infrastructure,devices, identities, applications, and network resources. JupiterOne provides automated relationship mapping among assets, facilitating security operations, compliance initiatives, and risk assessments. It supports asset inventory, policy monitoring, and incident response capabilities. The software aims to address challenges in security data aggregation, enabling teams to quickly identify gaps, monitor changes, and enforce security policies across complex technology landscapes.",
+  "market": "cyber-asset-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently”",
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M - 250M USD, Services (non-Government)",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "“Jupiter One offers simplified integration but encounters Performance and cost constraints”",
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USD, IT Services",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "reviewer": "CLOUD ENGINEER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDReal EstateReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "“Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently”",
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M - 250M USD, Services (non-Government)",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "“Jupiter One offers simplified integration but encounters Performance and cost constraints”",
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USD, IT Services",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "reviewer": "CLOUD ENGINEER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDReal EstateReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "“Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently”",
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M - 250M USD, Services (non-Government)",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "“Jupiter One offers simplified integration but encounters Performance and cost constraints”",
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USD, IT Services",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "reviewer": "CLOUD ENGINEER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDReal EstateReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "“Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently”",
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M - 250M USD, Services (non-Government)",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "“Jupiter One offers simplified integration but encounters Performance and cost constraints”",
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USD, IT Services",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "reviewer": "CLOUD ENGINEER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDReal EstateReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "“Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently”",
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M - 250M USD, Services (non-Government)",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "“Jupiter One offers simplified integration but encounters Performance and cost constraints”",
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USD, IT Services",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "reviewer": "CLOUD ENGINEER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDReal EstateReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "“Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently”",
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M - 250M USD, Services (non-Government)",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "“Jupiter One offers simplified integration but encounters Performance and cost constraints”",
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USD, IT Services",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "reviewer": "CLOUD ENGINEER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDReal EstateReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "“Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently”",
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M - 250M USD, Services (non-Government)",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "“Jupiter One offers simplified integration but encounters Performance and cost constraints”",
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USD, IT Services",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "reviewer": "CLOUD ENGINEER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDReal EstateReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "“Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently”",
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M - 250M USD, Services (non-Government)",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "“Jupiter One offers simplified integration but encounters Performance and cost constraints”",
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USD, IT Services",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "reviewer": "CLOUD ENGINEER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDReal EstateReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "“Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently”",
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M - 250M USD, Services (non-Government)",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "“Jupiter One offers simplified integration but encounters Performance and cost constraints”",
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USD, IT Services",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "reviewer": "CLOUD ENGINEER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDReal EstateReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "“Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently”",
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M - 250M USD, Services (non-Government)",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "“Jupiter One offers simplified integration but encounters Performance and cost constraints”",
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USD, IT Services",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "reviewer": "SENIOR NETWORK SECURITY ENGINEER<50M USDIT ServicesReview Source",
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Jupiter One offers simplified integration but encounters Performance and cost constraints",
+      "rating": 3.0,
+      "date": "Oct 2, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "reviewer": "CLIENT SUCCESS TEAM LEAD50M-1B USDServices (non-Government)Review Source",
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Intuitive Interface and Automation Aid in Managing Security Vulnerabilities Efficiently",
+      "rating": 5.0,
+      "date": "Oct 7, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "reviewer": "SENIOR BUSINESS ANALYST II50M-1B USDIT ServicesReview Source",
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "Powerful Platform with a Learning Curve, Highly Recommended for Teams Ready to Invest in Onboarding",
+      "rating": 4.0,
+      "date": "Nov 12, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "reviewer": "CLOUD ENGINEER1B-10B USDIT ServicesReview Source",
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "It has improved my asset visibility and compliance workflows.",
+      "rating": 5.0,
+      "date": "Oct 9, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "reviewer": "ENGINEER50M-1B USDReal EstateReview Source",
+      "date": "Oct 23, 2025"
+    },
+    {
+      "title": "JupiterOne Simplifies Vulnerability Prioritization but Presents Challenges for New Users",
+      "rating": 3.0,
+      "date": "Oct 23, 2025"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

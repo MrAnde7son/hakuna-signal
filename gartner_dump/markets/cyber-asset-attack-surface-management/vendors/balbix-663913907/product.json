@@ -1,0 +1,662 @@
+{
+  "product": "Balbix",
+  "slug": "balbix-663913907",
+  "url": "https://www.gartner.com/reviews/product/balbix-663913907",
+  "review_count": 11,
+  "vendor": "Safe Security",
+  "description": "The Balbix product has been absorbed into the SAFE One Platform, an AI-native SaaS platform developed by SAFE Security to measure, manage, and mitigate cyber risk across an organization's digital landscape. The platform unifies CyberRisk Quantification (CRQ), Continuous Threat Exposure Management (CTEM), and Third-Party Risk Management (TPRM) into a single data model, enabling organizations to prioritize remediation efforts and align security investments with business impact. Using autonomous agentic workflows and over 150 API integrations, SAFE One ingests real-time telemetry from existing security tools and external feeds to provide a continuous view of risk in financial terms. Aligned with industry-accepted open standards, FAIR, MITRE ATT&CK, and STIX, SAFE One helps businesses prioritize remediation efforts through actionable intelligence based on quantified business impact rather than technical severity alone.",
+  "market": "cyber-asset-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation”",
+      "reviewer": "IT Security & Risk Management Associate250M - 500M USD, Software",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "“Broken Promise: Balbix's Delayed API Delivery Disappoints”",
+      "reviewer": "Principal Security Engineer<50M USD, Manufacturing",
+      "date": "Feb 6, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDSoftwareReview Source",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "reviewer": "Engineer10B+ USDInsurance (except health)Review Source",
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "reviewer": "Senior MTS 2<50M USDIT ServicesReview Source",
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "reviewer": "ENTERPRISE SECURITY ARCHITECT<50M USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "“Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation”",
+      "reviewer": "IT Security & Risk Management Associate250M - 500M USD, Software",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "“Broken Promise: Balbix's Delayed API Delivery Disappoints”",
+      "reviewer": "Principal Security Engineer<50M USD, Manufacturing",
+      "date": "Feb 6, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDSoftwareReview Source",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "reviewer": "Engineer10B+ USDInsurance (except health)Review Source",
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "reviewer": "Senior MTS 2<50M USDIT ServicesReview Source",
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "reviewer": "ENTERPRISE SECURITY ARCHITECT<50M USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "“Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation”",
+      "reviewer": "IT Security & Risk Management Associate250M - 500M USD, Software",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "“Broken Promise: Balbix's Delayed API Delivery Disappoints”",
+      "reviewer": "Principal Security Engineer<50M USD, Manufacturing",
+      "date": "Feb 6, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDSoftwareReview Source",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "reviewer": "Engineer10B+ USDInsurance (except health)Review Source",
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "reviewer": "Senior MTS 2<50M USDIT ServicesReview Source",
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "reviewer": "ENTERPRISE SECURITY ARCHITECT<50M USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "“Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation”",
+      "reviewer": "IT Security & Risk Management Associate250M - 500M USD, Software",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "“Broken Promise: Balbix's Delayed API Delivery Disappoints”",
+      "reviewer": "Principal Security Engineer<50M USD, Manufacturing",
+      "date": "Feb 6, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDSoftwareReview Source",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "reviewer": "Engineer10B+ USDInsurance (except health)Review Source",
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "reviewer": "Senior MTS 2<50M USDIT ServicesReview Source",
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "reviewer": "ENTERPRISE SECURITY ARCHITECT<50M USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "“Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation”",
+      "reviewer": "IT Security & Risk Management Associate250M - 500M USD, Software",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "“Broken Promise: Balbix's Delayed API Delivery Disappoints”",
+      "reviewer": "Principal Security Engineer<50M USD, Manufacturing",
+      "date": "Feb 6, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDSoftwareReview Source",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "reviewer": "Engineer10B+ USDInsurance (except health)Review Source",
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "reviewer": "Senior MTS 2<50M USDIT ServicesReview Source",
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "reviewer": "ENTERPRISE SECURITY ARCHITECT<50M USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "“Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation”",
+      "reviewer": "IT Security & Risk Management Associate250M - 500M USD, Software",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "“Broken Promise: Balbix's Delayed API Delivery Disappoints”",
+      "reviewer": "Principal Security Engineer<50M USD, Manufacturing",
+      "date": "Feb 6, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDSoftwareReview Source",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "reviewer": "Engineer10B+ USDInsurance (except health)Review Source",
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "reviewer": "Senior MTS 2<50M USDIT ServicesReview Source",
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "reviewer": "ENTERPRISE SECURITY ARCHITECT<50M USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "“Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation”",
+      "reviewer": "IT Security & Risk Management Associate250M - 500M USD, Software",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "“Broken Promise: Balbix's Delayed API Delivery Disappoints”",
+      "reviewer": "Principal Security Engineer<50M USD, Manufacturing",
+      "date": "Feb 6, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDSoftwareReview Source",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "reviewer": "Engineer10B+ USDInsurance (except health)Review Source",
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "reviewer": "Senior MTS 2<50M USDIT ServicesReview Source",
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "reviewer": "ENTERPRISE SECURITY ARCHITECT<50M USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "“Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation”",
+      "reviewer": "IT Security & Risk Management Associate250M - 500M USD, Software",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "“Broken Promise: Balbix's Delayed API Delivery Disappoints”",
+      "reviewer": "Principal Security Engineer<50M USD, Manufacturing",
+      "date": "Feb 6, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDSoftwareReview Source",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "reviewer": "Engineer10B+ USDInsurance (except health)Review Source",
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "reviewer": "Senior MTS 2<50M USDIT ServicesReview Source",
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "reviewer": "ENTERPRISE SECURITY ARCHITECT<50M USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "“Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation”",
+      "reviewer": "IT Security & Risk Management Associate250M - 500M USD, Software",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "“Broken Promise: Balbix's Delayed API Delivery Disappoints”",
+      "reviewer": "Principal Security Engineer<50M USD, Manufacturing",
+      "date": "Feb 6, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDSoftwareReview Source",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "reviewer": "Engineer10B+ USDInsurance (except health)Review Source",
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "reviewer": "Senior MTS 2<50M USDIT ServicesReview Source",
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "reviewer": "ENTERPRISE SECURITY ARCHITECT<50M USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "“Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation”",
+      "reviewer": "IT Security & Risk Management Associate250M - 500M USD, Software",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "“Broken Promise: Balbix's Delayed API Delivery Disappoints”",
+      "reviewer": "Principal Security Engineer<50M USD, Manufacturing",
+      "date": "Feb 6, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDSoftwareReview Source",
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Balbix Tool Offers Real-Time Visibility and Streamlined Vulnerability Remediation",
+      "rating": 5.0,
+      "date": "Jul 9, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "reviewer": "Engineer10B+ USDInsurance (except health)Review Source",
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Expanded platform offers a single source of truth for multiple vulnerability tools.",
+      "rating": 5.0,
+      "date": "Jun 20, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "reviewer": "Senior MTS 2<50M USDIT ServicesReview Source",
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Positive Experience With Detection and Solution Capabilities During Integration",
+      "rating": 5.0,
+      "date": "Jul 2, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "reviewer": "ENTERPRISE SECURITY ARCHITECT<50M USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Documentation and Customer Success Management Receive Positive Feedback From Clients",
+      "rating": 5.0,
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "reviewer": "IT Security & Risk Management Associate50M-1B USDServices (non-Government)Review Source",
+      "date": "Jun 25, 2025"
+    },
+    {
+      "title": "Responsive Support Offsets Early Gaps in Balbix Console for Complex Landscapes",
+      "rating": 4.0,
+      "date": "Jun 25, 2025"
+    }
+  ],
+  "total_reviews_crawled": 120
+}

@@ -1,0 +1,663 @@
+{
+  "product": "Group-IB Attack Surface Management",
+  "slug": "group-ib-attack-surface-management",
+  "url": "https://www.gartner.com/reviews/product/group-ib-attack-surface-management",
+  "rating": 4.6,
+  "review_count": 16,
+  "vendor": "Group-IB",
+  "description": "Group-IB Attack Surface Management is a software designed to continuously monitor and analyze digital assets and external infrastructure to identify vulnerabilities and potential entry points for cyber threats. The software aggregates data on internet-facing resources,discovers unknown assets, and tracks changes over time to provide visibility into an organization’s exposure. It assists security teams in detecting misconfigurations, outdated components, and points of risk that could be exploited by attackers. Group-IB Attack Surface Management aims to improve risk assessment and incident response by delivering contextual information about exposed assets and their associated weaknesses, supporting efforts to strengthen overall cyber defense and align security measures with organizational priorities.",
+  "market": "external-attack-surface-management",
+  "reviews": [
+    {
+      "title": "“Comprehensive visibility into attack surface with actionable insights”",
+      "reviewer": "CTI Analyst50M - 250M USD, IT Services",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "“A Detailed Look at User Experiences with ASM Dark Web Monitoring”",
+      "reviewer": "IT Associate50M - 250M USD, Retail",
+      "date": "Sep 26, 2024"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "reviewer": "CTI Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDTransportationReview Source",
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "reviewer": "cti senior officer<50M USDBankingReview Source",
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDTravel and HospitalityReview Source",
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security Specialist1B-10B USDBankingReview Source",
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "“Comprehensive visibility into attack surface with actionable insights”",
+      "reviewer": "CTI Analyst50M - 250M USD, IT Services",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "“A Detailed Look at User Experiences with ASM Dark Web Monitoring”",
+      "reviewer": "IT Associate50M - 250M USD, Retail",
+      "date": "Sep 26, 2024"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "reviewer": "CTI Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDTransportationReview Source",
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "reviewer": "cti senior officer<50M USDBankingReview Source",
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDTravel and HospitalityReview Source",
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security Specialist1B-10B USDBankingReview Source",
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "“Comprehensive visibility into attack surface with actionable insights”",
+      "reviewer": "CTI Analyst50M - 250M USD, IT Services",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "“A Detailed Look at User Experiences with ASM Dark Web Monitoring”",
+      "reviewer": "IT Associate50M - 250M USD, Retail",
+      "date": "Sep 26, 2024"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "reviewer": "CTI Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDTransportationReview Source",
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "reviewer": "cti senior officer<50M USDBankingReview Source",
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDTravel and HospitalityReview Source",
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security Specialist1B-10B USDBankingReview Source",
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "“Comprehensive visibility into attack surface with actionable insights”",
+      "reviewer": "CTI Analyst50M - 250M USD, IT Services",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "“A Detailed Look at User Experiences with ASM Dark Web Monitoring”",
+      "reviewer": "IT Associate50M - 250M USD, Retail",
+      "date": "Sep 26, 2024"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "reviewer": "CTI Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDTransportationReview Source",
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "reviewer": "cti senior officer<50M USDBankingReview Source",
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDTravel and HospitalityReview Source",
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security Specialist1B-10B USDBankingReview Source",
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "“Comprehensive visibility into attack surface with actionable insights”",
+      "reviewer": "CTI Analyst50M - 250M USD, IT Services",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "“A Detailed Look at User Experiences with ASM Dark Web Monitoring”",
+      "reviewer": "IT Associate50M - 250M USD, Retail",
+      "date": "Sep 26, 2024"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "reviewer": "CTI Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDTransportationReview Source",
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "reviewer": "cti senior officer<50M USDBankingReview Source",
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDTravel and HospitalityReview Source",
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security Specialist1B-10B USDBankingReview Source",
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "“Comprehensive visibility into attack surface with actionable insights”",
+      "reviewer": "CTI Analyst50M - 250M USD, IT Services",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "“A Detailed Look at User Experiences with ASM Dark Web Monitoring”",
+      "reviewer": "IT Associate50M - 250M USD, Retail",
+      "date": "Sep 26, 2024"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "reviewer": "CTI Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDTransportationReview Source",
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "reviewer": "cti senior officer<50M USDBankingReview Source",
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDTravel and HospitalityReview Source",
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security Specialist1B-10B USDBankingReview Source",
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "“Comprehensive visibility into attack surface with actionable insights”",
+      "reviewer": "CTI Analyst50M - 250M USD, IT Services",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "“A Detailed Look at User Experiences with ASM Dark Web Monitoring”",
+      "reviewer": "IT Associate50M - 250M USD, Retail",
+      "date": "Sep 26, 2024"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "reviewer": "CTI Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDTransportationReview Source",
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "reviewer": "cti senior officer<50M USDBankingReview Source",
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDTravel and HospitalityReview Source",
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security Specialist1B-10B USDBankingReview Source",
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "“Comprehensive visibility into attack surface with actionable insights”",
+      "reviewer": "CTI Analyst50M - 250M USD, IT Services",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "“A Detailed Look at User Experiences with ASM Dark Web Monitoring”",
+      "reviewer": "IT Associate50M - 250M USD, Retail",
+      "date": "Sep 26, 2024"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "reviewer": "CTI Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDTransportationReview Source",
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "reviewer": "cti senior officer<50M USDBankingReview Source",
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDTravel and HospitalityReview Source",
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security Specialist1B-10B USDBankingReview Source",
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "“Comprehensive visibility into attack surface with actionable insights”",
+      "reviewer": "CTI Analyst50M - 250M USD, IT Services",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "“A Detailed Look at User Experiences with ASM Dark Web Monitoring”",
+      "reviewer": "IT Associate50M - 250M USD, Retail",
+      "date": "Sep 26, 2024"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "reviewer": "CTI Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDTransportationReview Source",
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "reviewer": "cti senior officer<50M USDBankingReview Source",
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDTravel and HospitalityReview Source",
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security Specialist1B-10B USDBankingReview Source",
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "“Comprehensive visibility into attack surface with actionable insights”",
+      "reviewer": "CTI Analyst50M - 250M USD, IT Services",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "“A Detailed Look at User Experiences with ASM Dark Web Monitoring”",
+      "reviewer": "IT Associate50M - 250M USD, Retail",
+      "date": "Sep 26, 2024"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "reviewer": "CTI Analyst50M-1B USDIT ServicesReview Source",
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Comprehensive visibility into attack surface with actionable insights",
+      "rating": 5.0,
+      "date": "Aug 19, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "reviewer": "Manager, IT Security and Risk Management50M-1B USDTransportationReview Source",
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Detailed Security Breach Tracking Supports Active Supplier Risk Monitoring Efforts",
+      "rating": 5.0,
+      "date": "Jul 23, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "reviewer": "cti senior officer<50M USDBankingReview Source",
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB Offers Strong Security and Efficient Support With User-Friendly Interface",
+      "rating": 5.0,
+      "date": "Jul 20, 2025"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "reviewer": "MANAGER, IT SECURITY AND RISK MANAGEMENT1B-10B USDTravel and HospitalityReview Source",
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Group-IB: Revolutionizing Cybersecurity with Attack Surface Intelligence",
+      "rating": 5.0,
+      "date": "Nov 27, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "reviewer": "IT Security Specialist1B-10B USDBankingReview Source",
+      "date": "Oct 1, 2024"
+    },
+    {
+      "title": "Navigating the Security Landscape with ASM Platform",
+      "rating": 4.0,
+      "date": "Oct 1, 2024"
+    }
+  ],
+  "total_reviews_crawled": 120
+}
