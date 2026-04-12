@@ -72,6 +72,9 @@ SOURCES = {
         "insightidr",
         "insightappsec",
     ],
+    "servicenow": [  # servicenow.com/community Khoros boards (SecOps / exposure mgmt)
+        "secops-forum",
+    ],
 }
 
 # How many items to fetch per (source, category) per run
@@ -89,4 +92,5 @@ ITEMS_PER_CATEGORY = {
     "stackexchange": 30,
     "github": 30,
     "rapid7": 30,
+    "servicenow": 20,
 }

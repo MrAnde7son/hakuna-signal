@@ -16,7 +16,7 @@ Items are uniformly shaped:
 
 import config
 
-from . import reddit, spiceworks, tenable, peerspot, g2, hackernews, stackexchange, github, rapid7
+from . import reddit, spiceworks, tenable, peerspot, g2, hackernews, stackexchange, github, rapid7, servicenow
 
 REGISTRY = {
     "reddit": reddit,
@@ -28,6 +28,7 @@ REGISTRY = {
     "stackexchange": stackexchange,
     "github": github,
     "rapid7": rapid7,
+    "servicenow": servicenow,
 }
 
 
