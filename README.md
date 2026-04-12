@@ -7,7 +7,7 @@ Agentic intelligence tool that scans practitioner discussions across Reddit, Spi
 1. **Fetch** — Pulls recent items from each configured source/category (subreddits, Discourse boards, Khoros forums, review feeds)
 2. **Dedup** — Skips items already processed (composite `(source, id)` key in local SQLite)
 3. **Keyword filter** — Cheap pre-LLM pass that discards noise (job posts, CTFs, homework) and waves through high-signal topics (competitor mentions, pain keywords). Vendor-curated and review categories bypass the filter entirely.
-4. **Score** — Sends surviving items to Gemini 2.5 Flash (Vertex AI) for relevance scoring (1–10) plus structured intel: pain points, tools mentioned, company profile, team functions
+4. **Score** — Sends surviving items to Gemini 3 Flash (Vertex AI) for relevance scoring (1–10) plus structured intel: pain points, tools mentioned, company profile, team functions
 5. **Draft** — Reddit threads scoring 7+ get a founder-voice comment drafted by the LLM. Other sources feed the Intel tab only — replying on a forum/review site is a different workflow.
 6. **Dashboard** — Appends results to a single HTML dashboard (Opportunities + Market Intelligence tabs) with filters and drill-down
 
@@ -27,7 +27,7 @@ Agentic intelligence tool that scans practitioner discussions across Reddit, Spi
 
 - Python 3.11+
 - GCP credentials configured (`gcloud auth application-default login`)
-- Access to Vertex AI with `gemini-2.5-flash` enabled
+- Access to Vertex AI with `gemini-3-flash-preview` enabled
 
 ### Install
 

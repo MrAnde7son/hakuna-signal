@@ -11,7 +11,7 @@ HAKUNA_SIGNAL_USER_AGENT = os.getenv("HAKUNA_SIGNAL_USER_AGENT", "hakuna-signal/
 # Vertex AI (Claude via GCP)
 GCP_PROJECT = os.getenv("GCP_PROJECT", "hakuna-prod-2026")
 GCP_REGION = os.getenv("GCP_REGION", "us-east5")
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3-flash-preview"
 
 # Pipeline settings
 RUN_INTERVAL_MINUTES = int(os.getenv("RUN_INTERVAL_MINUTES", "30"))
