@@ -186,6 +186,8 @@
   .pivot-chip strong { color: var(--accent); }
   .pivot-chip-x { background: transparent; border: none; color: var(--text-secondary); cursor: pointer; font-size: 0.9rem; padding: 0 4px; line-height: 1; border-radius: 50%; }
   .pivot-chip-x:hover { background: var(--btn-hover); color: var(--text); }
+  .pivot-drill-btn { margin-left: auto; font-size: 0.8rem; font-weight: 600; padding: 4px 10px; background: var(--accent); color: var(--btn-primary-text, #fff); border: 1px solid var(--accent); border-radius: 12px; cursor: pointer; white-space: nowrap; }
+  .pivot-drill-btn:hover { filter: brightness(1.1); }
   .intel-card.intel-card-pinned { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
 
   /* Gartner rating badges on tool tags and bar chart */
@@ -432,6 +434,27 @@ function clearAllPivots() {
   Object.keys(intelPivots).forEach(k => delete intelPivots[k]);
 }
 
+// Drill from the active pivots into the Opportunities tab: clear any existing
+// dimension filters, push each pivot into its matching dropdown, then render.
+function drillToOpportunitiesFromPivots() {
+  const entries = Object.entries(intelPivots);
+  if (entries.length === 0) return;
+  // Reset the dimension filters first so leftover values don't AND with pivots.
+  Object.values(DRILL_DIMENSIONS).forEach(dim => {
+    const sel = document.getElementById(dim.filterId);
+    if (sel) sel.value = '';
+  });
+  entries.forEach(([dimension, value]) => {
+    const dim = DRILL_DIMENSIONS[dimension];
+    if (!dim) return;
+    const sel = document.getElementById(dim.filterId);
+    if (sel) sel.value = value;
+  });
+  currentPage = 1;
+  switchTab('opportunities');
+  render();
+}
+
 // Refresh intelView from /api/intel using the active pivots, then re-render.
 // With no active pivots we skip the request and fall back to baseline INTEL.
 async function applyPivots() {
@@ -464,10 +487,12 @@ function renderPivotChips() {
       : '';
     return;
   }
-  chips.innerHTML = entries.map(([dim, val]) =>
+  const chipHtml = entries.map(([dim, val]) =>
     `<span class="pivot-chip">${esc(dim)}: <strong>${esc(val)}</strong>` +
     `<button class="pivot-chip-x" data-pivot-clear="${esc(dim)}" title="Remove pivot" aria-label="Remove pivot">&times;</button></span>`
   ).join('');
+  const drillBtn = `<button class="pivot-drill-btn" data-pivot-drill="1" title="Open the Opportunities tab filtered by these pivots">View opportunities &rarr;</button>`;
+  chips.innerHTML = chipHtml + drillBtn;
 }
 
 function setPivotMode(enabled) {
@@ -1059,6 +1084,12 @@ document.addEventListener('click', (e) => {
   const clearBtn = e.target.closest('[data-pivot-clear]');
   if (clearBtn) {
     clearPivot(clearBtn.dataset.pivotClear);
+    return;
+  }
+  // "View opportunities" button on the pivot chip bar.
+  const drillBtn = e.target.closest('[data-pivot-drill]');
+  if (drillBtn) {
+    drillToOpportunitiesFromPivots();
     return;
   }
   const el = e.target.closest('[data-drill-dim]');
