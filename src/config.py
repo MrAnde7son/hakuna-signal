@@ -65,6 +65,16 @@ SOURCES = {
         "greenbone/openvas-scanner",
         "osquery/osquery",
         "fleetdm/fleet",
+        # Exposure management platforms (AEV / CTEM)
+        "openaev-platform/openaev",
+        "GitHubSecurityLab/seclab-taskflow-agent",
+        # Attack Surface Management & discovery
+        "projectdiscovery/subfinder",
+        "owasp-amass/amass",
+        "assetnote/kiterunner",
+        # Vulnerability / configuration / identity validation
+        "prowler-cloud/prowler",
+        "SpecterOps/BloodHound",
     ],
     "rapid7": [  # discuss.rapid7.com Discourse boards
         "insightvm",
