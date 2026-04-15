@@ -64,7 +64,6 @@ SOURCES = {
         "zaproxy/zaproxy",
         "greenbone/openvas-scanner",
         "osquery/osquery",
-        "fleetdm/fleet",
         # Exposure management platforms (AEV / CTEM)
         "openaev-platform/openaev",
         "GitHubSecurityLab/seclab-taskflow-agent",

@@ -37,7 +37,6 @@ ALWAYS_PASS_CATEGORIES = {
     "zaproxy/zaproxy",
     "greenbone/openvas-scanner",
     "osquery/osquery",
-    "fleetdm/fleet",
     # Stack Exchange: NOT listed — security.stackexchange.com and serverfault.com
     # are broad enough that we want the keyword filter to gate them.
 }
