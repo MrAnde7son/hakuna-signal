@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 *.db
 reports/
+reddit_dump/
 .venv/
 venv/
 

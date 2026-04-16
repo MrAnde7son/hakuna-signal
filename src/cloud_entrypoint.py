@@ -21,8 +21,10 @@ ROOT = Path(__file__).resolve().parent.parent
 DB_FILE = ROOT / "data" / "seen_threads.db"
 REPORTS_DIR = ROOT / "reports"
 GARTNER_DUMP_DIR = ROOT / "gartner_dump"
+REDDIT_DUMP_DIR = ROOT / "reddit_dump"
 REPORTS_PREFIX = "reports/"
 GARTNER_PREFIX = "gartner_dump/"
+REDDIT_PREFIX = "reddit_dump/"
 DB_OBJECT = "seen_threads.db"
 
 
@@ -66,6 +68,20 @@ def hydrate(bucket) -> None:
         gartner_restored += 1
     if gartner_restored:
         logger.info("Restored %d Gartner dump files", gartner_restored)
+
+    # Restore Reddit dump (uploaded by scripts/fetch_reddit.py from a
+    # residential IP, since Reddit 403s Cloud Run egress).
+    reddit_restored = 0
+    for blob in bucket.list_blobs(prefix=REDDIT_PREFIX):
+        rel = blob.name[len(REDDIT_PREFIX):]
+        if not rel:
+            continue
+        dest = REDDIT_DUMP_DIR / rel
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        blob.download_to_filename(dest)
+        reddit_restored += 1
+    if reddit_restored:
+        logger.info("Restored %d Reddit dump files", reddit_restored)
 
 
 def push(bucket) -> None:
