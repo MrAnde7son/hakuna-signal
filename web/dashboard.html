@@ -194,6 +194,27 @@
   .gartner-badge { font-size: 0.65rem; color: #d29922; font-weight: 600; margin-left: 2px; }
   .bar-gartner { font-size: 0.75rem; color: #d29922; font-weight: 600; margin-left: 4px; white-space: nowrap; }
 
+  /* Skeleton loading placeholders — animated until real content replaces them. */
+  @keyframes skeleton-shimmer {
+    0%   { background-position: -240px 0; }
+    100% { background-position: calc(240px + 100%) 0; }
+  }
+  .skel { background: var(--bg-bar-track); background-image: linear-gradient(90deg, transparent 0%, var(--btn-hover) 50%, transparent 100%); background-size: 240px 100%; background-repeat: no-repeat; border-radius: 4px; animation: skeleton-shimmer 1.4s ease-in-out infinite; }
+  .skel-line { height: 0.85rem; margin: 0.45rem 0; }
+  .skel-line.w-30 { width: 30%; }
+  .skel-line.w-50 { width: 50%; }
+  .skel-line.w-70 { width: 70%; }
+  .skel-line.w-90 { width: 90%; }
+  .skel-line.tall { height: 1.4rem; }
+  .skel-card { background: var(--bg-card); border: 1px solid var(--border-card); border-radius: 10px; padding: 1.25rem 1.5rem; margin-bottom: 1rem; }
+  .skel-bar-row { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.6rem; }
+  .skel-bar-row .skel-bar-label { width: 130px; height: 0.85rem; flex-shrink: 0; }
+  .skel-bar-row .skel-bar-track { flex: 1; height: 20px; }
+  .skel-bar-row .skel-bar-count { width: 24px; height: 0.85rem; }
+  @media (prefers-reduced-motion: reduce) {
+    .skel { animation: none; }
+  }
+
   /* ── Tablet (≤768px) ───────────────────────────────────────────── */
   @media (max-width: 768px) {
     body { padding: 1rem; }
@@ -349,7 +370,26 @@
 </div>
 
 <p class="stats" id="stats"></p>
-<div id="cards"></div>
+<div id="cards">
+  <div class="skel-card" aria-hidden="true">
+    <div class="skel skel-line tall w-50"></div>
+    <div class="skel skel-line w-30"></div>
+    <div class="skel skel-line w-90"></div>
+    <div class="skel skel-line w-70"></div>
+  </div>
+  <div class="skel-card" aria-hidden="true">
+    <div class="skel skel-line tall w-70"></div>
+    <div class="skel skel-line w-50"></div>
+    <div class="skel skel-line w-90"></div>
+    <div class="skel skel-line w-30"></div>
+  </div>
+  <div class="skel-card" aria-hidden="true">
+    <div class="skel skel-line tall w-50"></div>
+    <div class="skel skel-line w-30"></div>
+    <div class="skel skel-line w-90"></div>
+    <div class="skel skel-line w-70"></div>
+  </div>
+</div>
 <nav class="pager hidden" id="pager" aria-label="Pagination">
   <button type="button" id="page-first" title="First page">&laquo; First</button>
   <button type="button" id="page-prev" title="Previous page">&lsaquo; Prev</button>
@@ -372,7 +412,31 @@
     </label>
     <div id="pivot-chips" class="pivot-chips"></div>
   </div>
-  <div id="intel-content"></div>
+  <div id="intel-content">
+    <div class="intel-grid" aria-hidden="true">
+      <div class="intel-card">
+        <div class="skel skel-line tall w-50" style="margin-bottom: 1rem;"></div>
+        <div class="skel-bar-row"><div class="skel skel-bar-label"></div><div class="skel skel-bar-track"></div><div class="skel skel-bar-count"></div></div>
+        <div class="skel-bar-row"><div class="skel skel-bar-label"></div><div class="skel skel-bar-track"></div><div class="skel skel-bar-count"></div></div>
+        <div class="skel-bar-row"><div class="skel skel-bar-label"></div><div class="skel skel-bar-track"></div><div class="skel skel-bar-count"></div></div>
+        <div class="skel-bar-row"><div class="skel skel-bar-label"></div><div class="skel skel-bar-track"></div><div class="skel skel-bar-count"></div></div>
+      </div>
+      <div class="intel-card">
+        <div class="skel skel-line tall w-50" style="margin-bottom: 1rem;"></div>
+        <div class="skel-bar-row"><div class="skel skel-bar-label"></div><div class="skel skel-bar-track"></div><div class="skel skel-bar-count"></div></div>
+        <div class="skel-bar-row"><div class="skel skel-bar-label"></div><div class="skel skel-bar-track"></div><div class="skel skel-bar-count"></div></div>
+        <div class="skel-bar-row"><div class="skel skel-bar-label"></div><div class="skel skel-bar-track"></div><div class="skel skel-bar-count"></div></div>
+        <div class="skel-bar-row"><div class="skel skel-bar-label"></div><div class="skel skel-bar-track"></div><div class="skel skel-bar-count"></div></div>
+      </div>
+      <div class="intel-card">
+        <div class="skel skel-line tall w-50" style="margin-bottom: 1rem;"></div>
+        <div class="skel-bar-row"><div class="skel skel-bar-label"></div><div class="skel skel-bar-track"></div><div class="skel skel-bar-count"></div></div>
+        <div class="skel-bar-row"><div class="skel skel-bar-label"></div><div class="skel skel-bar-track"></div><div class="skel skel-bar-count"></div></div>
+        <div class="skel-bar-row"><div class="skel skel-bar-label"></div><div class="skel skel-bar-track"></div><div class="skel skel-bar-count"></div></div>
+        <div class="skel-bar-row"><div class="skel skel-bar-label"></div><div class="skel skel-bar-track"></div><div class="skel skel-bar-count"></div></div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <script>
@@ -717,6 +781,19 @@ function renderCompanyHint(profile) {
 // Re-entrancy guard so a slow request doesn't overwrite a newer one.
 let renderToken = 0;
 
+function skeletonCardsHTML(n) {
+  let html = '';
+  for (let i = 0; i < n; i++) {
+    html += '<div class="skel-card" aria-hidden="true">' +
+      '<div class="skel skel-line tall w-50"></div>' +
+      '<div class="skel skel-line w-30"></div>' +
+      '<div class="skel skel-line w-90"></div>' +
+      '<div class="skel skel-line w-70"></div>' +
+      '</div>';
+  }
+  return html;
+}
+
 async function render() {
   updateURL();
   const myToken = ++renderToken;
@@ -726,6 +803,8 @@ async function render() {
   const pagerEl = document.getElementById('pager');
 
   statsEl.textContent = 'Loading…';
+  cardsEl.innerHTML = skeletonCardsHTML(3);
+  pagerEl.classList.add('hidden');
 
   const params = buildFilterQuery();
   const url = `/api/opportunities?${params}${params ? '&' : ''}page=${currentPage}&page_size=${PAGE_SIZE}`;

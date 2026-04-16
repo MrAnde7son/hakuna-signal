@@ -23,6 +23,7 @@ shipping the entire dataset down on first paint:
   GET /api/intel                 — aggregate intel re-computed over the filtered set
                                    (used by the Market Intelligence tab's pivot mode)
 """
+import gzip
 import json
 import logging
 import os
@@ -43,6 +44,10 @@ DATA_BLOB = "data.json"
 
 DEFAULT_PAGE_SIZE = 50
 MAX_PAGE_SIZE = 200
+
+# Skip compression for tiny payloads (overhead > savings) and pre-compressed types.
+GZIP_MIN_BYTES = 1024
+GZIP_SKIP_TYPES = ("image/", "video/", "audio/", "application/zip", "application/gzip")
 
 # A fetch backend takes a blob/file name and returns (body, content_type) or
 # None if missing. ``serve()`` installs one at startup; the Handler and API
@@ -325,19 +330,29 @@ class Handler(BaseHTTPRequestHandler):
             return
 
         body, ctype = result
-        self.send_response(HTTPStatus.OK)
-        self.send_header("Content-Type", ctype)
-        self.send_header("Content-Length", str(len(body)))
-        self.send_header("Cache-Control", "private, max-age=60")
-        self.end_headers()
-        self.wfile.write(body)
+        self._send_body(HTTPStatus.OK, body, ctype)
 
     def _send_json(self, status: int, payload: dict):
         body = json.dumps(payload, default=str).encode("utf-8")
+        self._send_body(status, body, "application/json; charset=utf-8")
+
+    def _send_body(self, status: int, body: bytes, ctype: str):
+        encoding = None
+        if (
+            len(body) >= GZIP_MIN_BYTES
+            and not any(ctype.startswith(t) for t in GZIP_SKIP_TYPES)
+            and "gzip" in (self.headers.get("Accept-Encoding") or "").lower()
+        ):
+            body = gzip.compress(body, compresslevel=6)
+            encoding = "gzip"
+
         self.send_response(status)
-        self.send_header("Content-Type", "application/json; charset=utf-8")
+        self.send_header("Content-Type", ctype)
         self.send_header("Content-Length", str(len(body)))
         self.send_header("Cache-Control", "private, max-age=60")
+        self.send_header("Vary", "Accept-Encoding")
+        if encoding:
+            self.send_header("Content-Encoding", encoding)
         self.end_headers()
         self.wfile.write(body)
 
@@ -361,6 +376,7 @@ def _make_gcs_fetch() -> FetchFn:
     """Build the GCS-backed fetch backend used by the prod Cloud Run service."""
     # Imported lazily so local-dev (main.py) doesn't pull in google-cloud-storage
     # just to import this module.
+    from google.api_core import exceptions as gcs_exceptions
     from google.cloud import storage
 
     bucket_name = os.environ["DASHBOARD_BUCKET"]
@@ -374,10 +390,12 @@ def _make_gcs_fetch() -> FetchFn:
         cached = cache.get(name)
         if cached and now - cached[0] < CACHE_SECONDS:
             return cached[1], cached[2]
-        blob = bucket.blob(name)
-        if not blob.exists():
+        # One GCS round-trip: try download, treat 404 as missing. Avoids the
+        # extra blob.exists() HEAD that used to double the latency on a miss.
+        try:
+            body = bucket.blob(name).download_as_bytes()
+        except gcs_exceptions.NotFound:
             return None
-        body = blob.download_as_bytes()
         ctype = guess_type(name)[0] or "application/octet-stream"
         cache[name] = (now, body, ctype)
         return body, ctype

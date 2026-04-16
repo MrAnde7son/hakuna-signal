@@ -160,6 +160,8 @@ gcloud run deploy "${NAME}-dashboard" \
   --project "${PROJECT_ID}" \
   --region "${REGION}" \
   --image "${IMAGE_SHA}" \
+  --min-instances=1 \
+  --cpu-boost \
   --quiet
 echo "==> Dashboard service rolled."
 
