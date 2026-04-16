@@ -72,7 +72,7 @@ resource "google_cloud_run_v2_service" "dashboard" {
       resources {
         limits = {
           cpu    = "1"
-          memory = "512Mi"
+          memory = "1Gi"
         }
         cpu_idle = true
       }
