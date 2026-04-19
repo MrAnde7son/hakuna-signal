@@ -15,6 +15,22 @@ client = genai.Client(
     location=config.GCP_REGION,
 )
 
+# Authoritative taxonomies — the prompt below must stay in sync with these.
+# We post-filter the model's output against them because Flash (even at temp 0.3)
+# invents labels outside the list and leaks team_functions values into
+# pain_point_categories. Without this filter the dashboard dropdown ends up with
+# a long tail of one-off hallucinations (usability, visibility, deduplication, …).
+PAIN_POINT_CATEGORIES = frozenset({
+    "prioritization", "cost", "integration", "coverage", "workflow",
+    "alert_fatigue", "staffing", "reporting", "compliance", "tool_sprawl",
+    "accuracy", "remediation", "asset_management",
+})
+TEAM_FUNCTIONS = frozenset({
+    "vulnerability_management", "soc", "incident_response", "it_ops",
+    "compliance", "grc", "appsec", "cloud_security", "network_security",
+    "endpoint_security", "penetration_testing",
+})
+
 SCORER_SYSTEM = """You are an objective market research analyst studying how cybersecurity \
 practitioners talk about vulnerability management (VM) and exposure management (EM). \
 You are monitoring Reddit to understand real practitioner needs, frustrations, workflows, \
@@ -130,7 +146,9 @@ Posted: {time_ago}"""
                 thinking_config=types.ThinkingConfig(thinking_budget=0),
             ),
         )
-        return json.loads(response.text)
+        result = json.loads(response.text)
+        _whitelist_filter(result, thread["id"])
+        return result
     except json.JSONDecodeError as e:
         raw = response.text[:200] if response is not None and getattr(response, "text", None) else "<empty>"
         logger.error("Scoring JSON parse failed for thread %s: %s (raw: %r)", thread["id"], e, raw)
@@ -138,6 +156,20 @@ Posted: {time_ago}"""
     except Exception as e:
         logger.error("Scoring API call failed for thread %s: %s", thread["id"], e)
         return None
+
+
+def _whitelist_filter(result: dict, thread_id: str) -> None:
+    """Drop model-invented labels in-place. Logs dropped values for observability."""
+    for field, allowed in (
+        ("pain_point_categories", PAIN_POINT_CATEGORIES),
+        ("team_functions", TEAM_FUNCTIONS),
+    ):
+        raw = result.get(field) or []
+        kept = [v for v in raw if v in allowed]
+        dropped = [v for v in raw if v not in allowed]
+        if dropped:
+            logger.info("Dropped %s from %s on thread %s: %s", dropped, field, thread_id, kept)
+        result[field] = kept
 
 
 def _time_ago(dt: datetime) -> str:
