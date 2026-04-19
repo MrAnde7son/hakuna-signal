@@ -49,6 +49,10 @@ def fetch_subreddit(category: str) -> list[dict]:
     hydrated = 0
     for item in items:
         if should_process(item["title"], item["body"], item["score"], "reddit", category):
+            # 4s pad on top of _http.py's 3s floor: Reddit's unauth limit is
+            # tighter than the 20/min the floor alone implies, and comment
+            # fetches batch up fast enough to trip 429s without this.
+            time.sleep(4)
             item["top_comments"] = reddit.fetch_comments(category, item["id"])
             hydrated += 1
         else:
@@ -91,7 +95,9 @@ def main() -> int:
 
     subreddits = args.subreddit or config.SOURCES["reddit"]
 
-    for category in subreddits:
+    for i, category in enumerate(subreddits):
+        if i > 0:
+            time.sleep(10)  # cool-down between subs
         logger.info("Fetching r/%s", category)
         try:
             items = fetch_subreddit(category)
