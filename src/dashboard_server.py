@@ -41,6 +41,7 @@ PORT = int(os.environ.get("PORT", "8080"))
 CACHE_SECONDS = int(os.environ.get("CACHE_SECONDS", "60"))
 INDEX = "dashboard.html"
 DATA_BLOB = "data.json"
+SOURCES_BLOB = "sources.json"
 
 DEFAULT_PAGE_SIZE = 50
 MAX_PAGE_SIZE = 200
@@ -271,6 +272,13 @@ def api_landscape(_qs: dict) -> tuple[int, dict]:
 
 
 def api_sources(_qs: dict) -> tuple[int, dict]:
+    # Prefer the precomputed blob written by src/report.py — iterating all of
+    # data.json just to build a dropdown is expensive enough to OOM a 512 MiB
+    # instance at current data volume.
+    precomputed = fetch_parsed(SOURCES_BLOB)
+    if precomputed is not None:
+        return HTTPStatus.OK, precomputed
+
     items = fetch_parsed(DATA_BLOB)
     if items is None:
         return HTTPStatus.NOT_FOUND, {"error": f"{DATA_BLOB} not found"}

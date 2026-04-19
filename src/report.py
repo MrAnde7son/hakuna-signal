@@ -11,8 +11,25 @@ REPORT_DIR = PROJECT_ROOT / "reports"
 DATA_FILE = REPORT_DIR / "data.json"
 DATA_JS_FILE = REPORT_DIR / "data.js"
 INTEL_FILE = REPORT_DIR / "intel.json"
+SOURCES_FILE = REPORT_DIR / "sources.json"
 DASHBOARD_FILE = REPORT_DIR / "dashboard.html"
 DASHBOARD_TEMPLATE = PROJECT_ROOT / "web" / "dashboard.html"
+
+
+def _build_sources(entries: list[dict]) -> list[dict]:
+    counts: dict[str, dict] = {}
+    for entry in entries:
+        thread = entry.get("thread") or {}
+        source = thread.get("source") or "reddit"
+        category = thread.get("category") or ""
+        key = f"{source}/{category}"
+        label = f"r/{category}" if source == "reddit" else key
+        existing = counts.get(key)
+        if existing is None:
+            counts[key] = {"key": key, "label": label, "count": 1}
+        else:
+            existing["count"] += 1
+    return sorted(counts.values(), key=lambda s: s["label"].lower())
 
 
 def generate_report(opportunities: list[dict], intel: dict | None = None):
@@ -62,6 +79,7 @@ def generate_report(opportunities: list[dict], intel: dict | None = None):
     logger.info("Data file updated: %d entries in %s", len(all_entries), DATA_FILE)
     INTEL_FILE.write_text(intel_json)
     DATA_JS_FILE.write_text(f"var DATA = {entries_json};\nvar INTEL = {intel_json};\n")
+    SOURCES_FILE.write_text(json.dumps({"sources": _build_sources(all_entries)}))
 
     # Rebuild Gartner competitive landscape snapshot (fast — reads local JSON)
     try:
