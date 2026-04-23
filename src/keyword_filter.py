@@ -65,7 +65,7 @@ HIGH_SIGNAL = [
     "asm tool", "asm platform",
     "continuous monitoring",
     "external facing", "internet facing", "internet-facing",
-    "perimeter scan",
+    "perimeter scan", "cve",
     # Pain points (how people actually talk)
     "patch prioritization", "remediation workflow", "remediation process",
     "tracking remediation", "remediation tracking",
