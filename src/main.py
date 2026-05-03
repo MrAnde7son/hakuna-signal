@@ -34,6 +34,11 @@ WEB_FILES = {"dashboard.html", "favicon.svg"}
 
 _local_fetch_cache: dict[str, tuple[float, bytes, str]] = {}
 
+# cloud_entrypoint sets this to push state to GCS after each source completes,
+# so a SIGKILL mid-pipeline (OOM, task timeout) still leaves prior sources'
+# opportunities visible in the dashboard. Local runs leave it None.
+checkpoint_hook = None
+
 
 def _local_fetch(name: str) -> tuple[bytes, str] | None:
     """Local-files fetch backend for dashboard_server.serve().
@@ -77,6 +82,7 @@ def run_pipeline():
     logger.info("Starting pipeline run")
     stats = {"fetched": 0, "filtered": 0, "scored": 0, "alerted": 0}
     opportunities = []
+    last_checkpoint = 0
 
     for source_name, category, fetch in sources.iter_enabled_sources():
         logger.info("Scanning %s/%s", source_name, category)
@@ -159,6 +165,20 @@ def run_pipeline():
             opportunities.append(opp)
             db.mark_seen(thread["id"], source_name, category, thread["title"], thread["score"], action,
                          opportunity_data=opp)
+
+        # Checkpoint after each source: persist + push so a SIGKILL during the
+        # next source still leaves this source's opportunities in the dashboard.
+        new_opps = opportunities[last_checkpoint:]
+        if new_opps:
+            generate_report(new_opps)
+            new_keys = [(o["thread"].get("source", "reddit"), o["thread"]["id"]) for o in new_opps]
+            db.mark_viewed(new_keys)
+            last_checkpoint = len(opportunities)
+            if checkpoint_hook is not None:
+                try:
+                    checkpoint_hook()
+                except Exception:
+                    logger.exception("Checkpoint push failed (continuing pipeline)")
 
     # Include previously-found but unviewed opportunities
     previous = db.get_unviewed_opportunities()

@@ -143,6 +143,12 @@ def main() -> int:
     # Import after hydrate so db.py opens the restored file, not a fresh one.
     import main as pipeline  # noqa: PLC0415  - intentional late import
 
+    def _checkpoint():
+        push(bucket)
+        push_dashboard()
+
+    pipeline.checkpoint_hook = _checkpoint
+
     try:
         pipeline.run_pipeline()
     except Exception:
