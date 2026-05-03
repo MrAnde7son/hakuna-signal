@@ -4,7 +4,7 @@ Uses the same container image as the pipeline job. The Cloud Run service
 overrides the image CMD to run this file instead of cloud_entrypoint.py.
 
 Files come from $DASHBOARD_BUCKET. We cache GCS reads in-memory for
-$CACHE_SECONDS (default 60s) so a single page load doesn't fan out N GCS
+$CACHE_SECONDS (default 300s) so a single page load doesn't fan out N GCS
 GETs for dashboard.html + intel.json + data.json.
 
 The Handler/API code is decoupled from the GCS client via an injectable
@@ -38,13 +38,20 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(me
 log = logging.getLogger("dashboard")
 
 PORT = int(os.environ.get("PORT", "8080"))
-CACHE_SECONDS = int(os.environ.get("CACHE_SECONDS", "60"))
+CACHE_SECONDS = int(os.environ.get("CACHE_SECONDS", "300"))
 INDEX = "dashboard.html"
 DATA_BLOB = "data.json"
 SOURCES_BLOB = "sources.json"
 
 DEFAULT_PAGE_SIZE = 50
 MAX_PAGE_SIZE = 200
+
+# Per-data-version memo of filtered+sorted opportunity lists keyed by
+# (filter_query, sort_key). Naturally invalidated when data.json refreshes
+# because the items list identity changes (see _filter_sort_cached).
+_filter_sort_cache: dict[tuple[str, str], list[dict]] = {}
+_filter_sort_cache_data_id: int | None = None
+_FILTER_SORT_CACHE_MAX = 64
 
 # Skip compression for tiny payloads (overhead > savings) and pre-compressed types.
 GZIP_MIN_BYTES = 1024
@@ -117,6 +124,14 @@ def _first(qs: dict, key: str) -> str | None:
     return vals[0] if vals else None
 
 
+FILTER_PARAM_KEYS = ("sub", "min_score", "from", "to", *DIMENSION_MATCHERS.keys())
+
+
+def _active_filter_params(qs: dict) -> list[tuple[str, str]]:
+    """Sorted (key, value) pairs for params that actually constrain the result."""
+    return sorted((k, v) for k in FILTER_PARAM_KEYS if (v := _first(qs, k)))
+
+
 def filter_items(items: list[dict], qs: dict) -> list[dict]:
     sub = _first(qs, "sub")
     min_score_raw = _first(qs, "min_score")
@@ -127,6 +142,12 @@ def filter_items(items: list[dict], qs: dict) -> list[dict]:
         min_score = int(min_score_raw) if min_score_raw else None
     except ValueError as e:
         raise ValueError(f"min_score must be an integer: {min_score_raw!r}") from e
+
+    # No-op fast path: skip the per-item loop when nothing is being filtered.
+    if sub is None and min_score is None and not date_from and not date_to and not any(
+        _first(qs, k) for k in DIMENSION_MATCHERS
+    ):
+        return items
 
     # Snapshot active dimension filters once
     dim_filters = [
@@ -202,6 +223,35 @@ def parse_pagination(qs: dict) -> tuple[int, int]:
 
 # --- API handlers ----------------------------------------------------------
 
+def _filter_sort_cached(items: list[dict], qs: dict, sort_key: str) -> list[dict]:
+    """Memoized filter+sort keyed on the active (filter, sort) combo.
+
+    The whole memo is dropped when ``items`` identity changes (i.e. data.json
+    refreshed and was re-parsed), so stale entries can't accumulate across
+    data versions.
+    """
+    global _filter_sort_cache_data_id
+    data_id = id(items)
+    if data_id != _filter_sort_cache_data_id:
+        _filter_sort_cache.clear()
+        _filter_sort_cache_data_id = data_id
+
+    filter_key = repr(_active_filter_params(qs))
+    cache_key = (filter_key, sort_key)
+    cached = _filter_sort_cache.get(cache_key)
+    if cached is not None:
+        return cached
+
+    result = sort_items(filter_items(items, qs), sort_key)
+    # Bound the memo so pathological filter combinations can't grow it without
+    # bound. FIFO eviction is fine here: hot keys (default view, common
+    # filters) get re-inserted and survive.
+    if len(_filter_sort_cache) >= _FILTER_SORT_CACHE_MAX:
+        _filter_sort_cache.pop(next(iter(_filter_sort_cache)))
+    _filter_sort_cache[cache_key] = result
+    return result
+
+
 def api_opportunities(qs: dict) -> tuple[int, dict]:
     items = fetch_parsed(DATA_BLOB)
     if items is None:
@@ -211,15 +261,15 @@ def api_opportunities(qs: dict) -> tuple[int, dict]:
 
     try:
         page, page_size = parse_pagination(qs)
-        filtered = filter_items(items, qs)
-        sorted_items = sort_items(filtered, _first(qs, "sort") or "date-desc")
+        sort_key = _first(qs, "sort") or "date-desc"
+        sorted_items = _filter_sort_cached(items, qs, sort_key)
     except ValueError as e:
         return HTTPStatus.BAD_REQUEST, {"error": str(e)}
 
     page_items, total_pages = paginate(sorted_items, page, page_size)
     return HTTPStatus.OK, {
         "items": page_items,
-        "total": len(filtered),
+        "total": len(sorted_items),
         "page": min(page, total_pages or 1),
         "page_size": page_size,
         "total_pages": total_pages,
