@@ -89,6 +89,9 @@ SOURCES = {
         "exposure-management",
         "attack-surface-management",
     ],
+    "arxiv": [  # arXiv category codes — gated by keyword_filter (cs.CR is broad)
+        "cs.CR",
+    ],
 }
 
 # How many items to fetch per (source, category) per run
@@ -110,4 +113,5 @@ ITEMS_PER_CATEGORY = {
     # Gartner reads from local JSON dump — no HTTP, no rate limit.
     # Cap is per-category; each market has ~20 vendors × ~10 unique reviews.
     "gartner": 200,
+    "arxiv": 50,
 }
