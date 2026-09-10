@@ -17,6 +17,7 @@ Data quality notes:
     We deduplicate by (title, date) within each product.
 """
 
+import hashlib
 import json
 import logging
 import time
@@ -36,6 +37,9 @@ CATEGORY_MARKETS = {
         "cyber-asset-attack-surface-management",
         "external-attack-surface-management",
     ],
+    # Not yet crawled — run `python scripts/gartner_crawler.py
+    # unified-endpoint-management-tools` to populate gartner_dump/.
+    "endpoint-management": ["unified-endpoint-management-tools"],
 }
 
 
@@ -98,9 +102,10 @@ def _load_market_reviews(market: str, category: str) -> list[dict]:
             # Body falls back to title if the crawler didn't extract text
             item_body = body if body else title
 
+            dedup_digest = hashlib.sha1(f"{title}|{date}".encode()).hexdigest()[:8]
             items.append({
                 "source": "gartner",
-                "id": f"gartner_{slug}_{hash(dedup_key) & 0xFFFFFFFF:08x}",
+                "id": f"gartner_{slug}_{dedup_digest}",
                 "category": category,
                 "title": item_title,
                 "body": item_body,

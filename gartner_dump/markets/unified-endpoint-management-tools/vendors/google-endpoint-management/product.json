@@ -1,0 +1,333 @@
+{
+  "product": "Google Endpoint Management",
+  "slug": "google-endpoint-management",
+  "url": "https://www.gartner.com/reviews/product/google-endpoint-management",
+  "rating": 4.3,
+  "review_count": 229,
+  "vendor": "Google",
+  "description": "Google Endpoint Management is a software designed to help organizations manage and secure user devices such as smartphones, tablets, and computers within a business environment. The software enables IT administrators to enforce security policies, configuresettings, and manage applications across both company-owned and personal devices. It offers features including remote device wipe, password enforcement, device inventory, and application management. Google Endpoint Management supports integration with existing workflows and helps address regulatory compliance requirements by managing access to sensitive business data. This software aims to support organizations in reducing security risks related to device usage while streamlining the administration of endpoints across different operating systems.",
+  "market": "unified-endpoint-management-tools",
+  "reviews": [
+    {
+      "title": "“Simple, Secure and Effective Endpoint Management”",
+      "reviewer": "IT Manager250M - 500M USD, Services (non-Government)",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Frustrations with limited controls for managing complex mobile environments”",
+      "reviewer": "It Associate1B - 3B USD, Manufacturing",
+      "date": "Jul 15, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Simple, Secure and Effective Endpoint Management”",
+      "reviewer": "IT Manager250M - 500M USD, Services (non-Government)",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Frustrations with limited controls for managing complex mobile environments”",
+      "reviewer": "It Associate1B - 3B USD, Manufacturing",
+      "date": "Jul 15, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Simple, Secure and Effective Endpoint Management”",
+      "reviewer": "IT Manager250M - 500M USD, Services (non-Government)",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Frustrations with limited controls for managing complex mobile environments”",
+      "reviewer": "It Associate1B - 3B USD, Manufacturing",
+      "date": "Jul 15, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Simple, Secure and Effective Endpoint Management”",
+      "reviewer": "IT Manager250M - 500M USD, Services (non-Government)",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Frustrations with limited controls for managing complex mobile environments”",
+      "reviewer": "It Associate1B - 3B USD, Manufacturing",
+      "date": "Jul 15, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Simple, Secure and Effective Endpoint Management”",
+      "reviewer": "IT Manager250M - 500M USD, Services (non-Government)",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Frustrations with limited controls for managing complex mobile environments”",
+      "reviewer": "It Associate1B - 3B USD, Manufacturing",
+      "date": "Jul 15, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Simple, Secure and Effective Endpoint Management”",
+      "reviewer": "IT Manager250M - 500M USD, Services (non-Government)",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Frustrations with limited controls for managing complex mobile environments”",
+      "reviewer": "It Associate1B - 3B USD, Manufacturing",
+      "date": "Jul 15, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Simple, Secure and Effective Endpoint Management”",
+      "reviewer": "IT Manager250M - 500M USD, Services (non-Government)",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Frustrations with limited controls for managing complex mobile environments”",
+      "reviewer": "It Associate1B - 3B USD, Manufacturing",
+      "date": "Jul 15, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Simple, Secure and Effective Endpoint Management”",
+      "reviewer": "IT Manager250M - 500M USD, Services (non-Government)",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Frustrations with limited controls for managing complex mobile environments”",
+      "reviewer": "It Associate1B - 3B USD, Manufacturing",
+      "date": "Jul 15, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Simple, Secure and Effective Endpoint Management”",
+      "reviewer": "IT Manager250M - 500M USD, Services (non-Government)",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Frustrations with limited controls for managing complex mobile environments”",
+      "reviewer": "It Associate1B - 3B USD, Manufacturing",
+      "date": "Jul 15, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Simple, Secure and Effective Endpoint Management”",
+      "reviewer": "IT Manager250M - 500M USD, Services (non-Government)",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "“Frustrations with limited controls for managing complex mobile environments”",
+      "reviewer": "It Associate1B - 3B USD, Manufacturing",
+      "date": "Jul 15, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "reviewer": "IT Manager50M-1B USDServices (non-Government)Review Source",
+      "date": "Aug 2, 2026"
+    },
+    {
+      "title": "Simple, Secure and Effective Endpoint Management",
+      "rating": 5.0,
+      "date": "Aug 2, 2026"
+    }
+  ],
+  "total_reviews_crawled": 60
+}

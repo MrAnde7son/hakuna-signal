@@ -72,7 +72,11 @@ def generate_report(opportunities: list[dict], intel: dict | None = None):
     all_entries = sorted(by_id.values(), key=lambda e: e["added_at"], reverse=True)
     intel_data = intel if intel is not None else aggregate_profiles(all_entries)
 
-    entries_json = json.dumps(all_entries, indent=2, default=str)
+    # data.json / data.js are machine-read only and large (100k+ entries). Dump
+    # them compact — `indent=2` roughly triples the byte size, which in turn
+    # triples the dashboard service's peak memory when it json.loads the blob
+    # (a 2 GiB Cloud Run instance OOMs parsing the pretty-printed form).
+    entries_json = json.dumps(all_entries, separators=(",", ":"), default=str)
     intel_json = json.dumps(intel_data, indent=2, default=str)
 
     DATA_FILE.write_text(entries_json)

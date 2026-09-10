@@ -24,28 +24,43 @@ PAIN_POINT_CATEGORIES = frozenset({
     "prioritization", "cost", "integration", "coverage", "workflow",
     "alert_fatigue", "staffing", "reporting", "compliance", "tool_sprawl",
     "accuracy", "remediation", "asset_management",
+    # Endpoint / patch / configuration management
+    "patching", "configuration_drift", "hardening", "endpoint_visibility",
+    "agent_sprawl", "reboot_disruption",
 })
 TEAM_FUNCTIONS = frozenset({
     "vulnerability_management", "soc", "incident_response", "it_ops",
     "compliance", "grc", "appsec", "cloud_security", "network_security",
     "endpoint_security", "penetration_testing",
+    "endpoint_management", "patch_management", "desktop_engineering",
+    "sysadmin", "msp",
 })
 
-SCORER_SYSTEM = """You are an objective market research analyst studying how cybersecurity \
-practitioners talk about vulnerability management (VM) and exposure management (EM). \
-You are monitoring Reddit to understand real practitioner needs, frustrations, workflows, \
-and tool opinions — across all company sizes and maturity levels.
+SCORER_SYSTEM = """You are an objective market research analyst studying how cybersecurity and IT \
+practitioners talk about the connected space of vulnerability management (VM), exposure \
+management (EM), endpoint management, patch management, and configuration management / \
+security hardening. You are monitoring practitioner discussions to understand real needs, \
+frustrations, workflows, and tool opinions — across all company sizes and maturity levels.
 
-Your goal is to extract honest, unbiased intelligence about the VM/EM landscape. You are NOT \
+Treat these domains as one continuous problem: knowing what you have (asset/endpoint \
+inventory), knowing what's wrong (vulnerabilities, misconfigurations, drift), and actually \
+fixing it (patching, hardening, remediation, config enforcement). A thread about failed \
+patches, GPO/Intune/SCCM headaches, CIS/STIG hardening, third-party app updates, or RMM/UEM \
+tooling is just as on-topic as a thread about a vulnerability scanner.
+
+Your goal is to extract honest, unbiased intelligence about this landscape. You are NOT \
 scoring for any specific product or company. You are building a picture of what practitioners \
 actually care about.
 
-RELEVANCE SCORE — how relevant is this thread to understanding VM/EM practitioner needs:
-- 10: Deep, first-hand account of a VM/EM operational struggle with specific details
-- 8–9: Clear discussion of VM/EM pain points, tool opinions, or workflow challenges
-- 6–7: Adjacent security topic with VM/EM implications (e.g., asset management, compliance)
-- 4–5: General security discussion, loosely related to VM/EM
-- 1–3: Not related to VM/EM practice
+RELEVANCE SCORE — how relevant is this thread to understanding practitioner needs across \
+VM/EM, endpoint, patch, and configuration management:
+- 10: Deep, first-hand account of an operational struggle (scanning, patching, hardening, \
+config drift, endpoint fleet management) with specific details
+- 8–9: Clear discussion of pain points, tool opinions, or workflow challenges in any of these domains
+- 6–7: Adjacent IT/security topic with implications for these domains (e.g., asset management, \
+compliance, device management, MDM)
+- 4–5: General IT/security discussion, loosely related
+- 1–3: Not related to VM/EM, endpoint, patch, or configuration management practice
 
 Extract the following intelligence from the thread:
 
@@ -66,8 +81,8 @@ COMPANY PROFILE — infer from context clues (org size mentions, tool stack, tea
 - industry: vertical if detectable, otherwise null
 - employee_range: "1-100", "100-500", "500-2000", "2000+", or null
 - security_team_size: "solo", "2-5", "5-10", "10+", or null
-- maturity_level: "low" (no formal VM program), "medium" (has tools, struggling with process), \
-"high" (mature, optimizing), or null
+- maturity_level: "low" (no formal program — ad hoc patching/scanning), "medium" (has tools, \
+struggling with process), "high" (mature, optimizing), or null
 - country: ISO English country name if there is a clear signal (e.g., explicit mention of HQ \
 or office location, regulator/regulation specific to one country like HIPAA→"United States", \
 DSGVO/BSI→"Germany", APPI→"Japan", non-English language tied to a single locale, country-specific \
@@ -92,10 +107,19 @@ PAIN POINT CATEGORIES — classify into one or more:
 - accuracy: False positives, stale findings, scanner not reflecting reality
 - remediation: Difficulty getting IT/dev teams to actually fix things
 - asset_management: Don't know what they have, CMDB is stale or incomplete
+- patching: Patch deployment failures, missing patches, third-party app updates, \
+patch testing/ring rollout friction, can't keep up with patch cadence
+- configuration_drift: Systems drifting from baseline, inconsistent config across the fleet, \
+GPO/Intune/SCCM policy conflicts
+- hardening: CIS/STIG/benchmark compliance work, building and enforcing secure baselines
+- endpoint_visibility: Can't see all endpoints, unmanaged/unenrolled devices, stale agents
+- agent_sprawl: Too many endpoint agents, agent conflicts, performance impact
+- reboot_disruption: Patch reboots and maintenance windows disrupting the business
 
-TEAM FUNCTIONS — what security functions does this person/team handle:
+TEAM FUNCTIONS — what security/IT functions does this person/team handle:
 - vulnerability_management, soc, incident_response, it_ops, compliance, grc, \
-appsec, cloud_security, network_security, endpoint_security, penetration_testing
+appsec, cloud_security, network_security, endpoint_security, penetration_testing, \
+endpoint_management, patch_management, desktop_engineering, sysadmin, msp
 
 Respond ONLY with valid JSON (no other text):
 {"score": integer, "pain_points_identified": [strings — use the poster's own words/framing], \

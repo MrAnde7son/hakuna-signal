@@ -1,0 +1,333 @@
+{
+  "product": "Cisco Meraki Systems Manager (Legacy)",
+  "slug": "cisco-meraki-systems-manager-legacy",
+  "url": "https://www.gartner.com/reviews/product/cisco-meraki-systems-manager-legacy",
+  "rating": 4.6,
+  "review_count": 173,
+  "vendor": "Cisco Systems",
+  "description": "Cisco Meraki Systems Manager is a software that provides cloud-based endpoint management for devices including laptops, desktops, smartphones, and tablets. The software supports device enrollment, configuration, monitoring, and security for both personal and organizational devices,enabling centralized management. Systems Manager allows administrators to deploy settings, apps, and restrictions, as well as enforce compliance with policies across distributed environments. Features include remote device wipe, location tracking, and integration with network infrastructure to facilitate visibility and control. The software addresses the business problem of managing and securing multiple device types across various operating systems, supporting organizations in maintaining data integrity, controlling access, and ensuring efficient IT administration.",
+  "market": "unified-endpoint-management-tools",
+  "reviews": [
+    {
+      "title": "“Easy configuration and inventory.”",
+      "reviewer": "Engineer50M - 250M USD, Manufacturing",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Stabilized tool for monitoring”",
+      "reviewer": "SENIOR SYSTEM ADMINISTRATOR30B + USD, Banking",
+      "date": "Jan 6, 2023"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Easy configuration and inventory.”",
+      "reviewer": "Engineer50M - 250M USD, Manufacturing",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Stabilized tool for monitoring”",
+      "reviewer": "SENIOR SYSTEM ADMINISTRATOR30B + USD, Banking",
+      "date": "Jan 6, 2023"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Easy configuration and inventory.”",
+      "reviewer": "Engineer50M - 250M USD, Manufacturing",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Stabilized tool for monitoring”",
+      "reviewer": "SENIOR SYSTEM ADMINISTRATOR30B + USD, Banking",
+      "date": "Jan 6, 2023"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Easy configuration and inventory.”",
+      "reviewer": "Engineer50M - 250M USD, Manufacturing",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Stabilized tool for monitoring”",
+      "reviewer": "SENIOR SYSTEM ADMINISTRATOR30B + USD, Banking",
+      "date": "Jan 6, 2023"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Easy configuration and inventory.”",
+      "reviewer": "Engineer50M - 250M USD, Manufacturing",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Stabilized tool for monitoring”",
+      "reviewer": "SENIOR SYSTEM ADMINISTRATOR30B + USD, Banking",
+      "date": "Jan 6, 2023"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Easy configuration and inventory.”",
+      "reviewer": "Engineer50M - 250M USD, Manufacturing",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Stabilized tool for monitoring”",
+      "reviewer": "SENIOR SYSTEM ADMINISTRATOR30B + USD, Banking",
+      "date": "Jan 6, 2023"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Easy configuration and inventory.”",
+      "reviewer": "Engineer50M - 250M USD, Manufacturing",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Stabilized tool for monitoring”",
+      "reviewer": "SENIOR SYSTEM ADMINISTRATOR30B + USD, Banking",
+      "date": "Jan 6, 2023"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Easy configuration and inventory.”",
+      "reviewer": "Engineer50M - 250M USD, Manufacturing",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Stabilized tool for monitoring”",
+      "reviewer": "SENIOR SYSTEM ADMINISTRATOR30B + USD, Banking",
+      "date": "Jan 6, 2023"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Easy configuration and inventory.”",
+      "reviewer": "Engineer50M - 250M USD, Manufacturing",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Stabilized tool for monitoring”",
+      "reviewer": "SENIOR SYSTEM ADMINISTRATOR30B + USD, Banking",
+      "date": "Jan 6, 2023"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Easy configuration and inventory.”",
+      "reviewer": "Engineer50M - 250M USD, Manufacturing",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "“Stabilized tool for monitoring”",
+      "reviewer": "SENIOR SYSTEM ADMINISTRATOR30B + USD, Banking",
+      "date": "Jan 6, 2023"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "reviewer": "Engineer50M-1B USDManufacturingReview Source",
+      "date": "Jun 2, 2026"
+    },
+    {
+      "title": "Easy configuration and inventory.",
+      "rating": 5.0,
+      "date": "Jun 2, 2026"
+    }
+  ],
+  "total_reviews_crawled": 60
+}

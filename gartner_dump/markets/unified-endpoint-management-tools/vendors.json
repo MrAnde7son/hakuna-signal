@@ -1,0 +1,207 @@
+[
+  {
+    "product": "Action1",
+    "slug": "action1",
+    "url": "https://www.gartner.com/reviews/product/action1",
+    "rating": 4.8,
+    "review_count": 220,
+    "vendor": "Action1",
+    "description": "Action1 is a cloud-based software designed for endpoint management and security. The software enables organizations to automate patch management, deploy and update software, and monitor endpoint configuration across Windows devices. Action1 helps address the challengeof managing distributed endpoints by providing features for real-time visibility, remote control, and compliance reporting, aimed at reducing vulnerabilities caused by unpatched or misconfigured systems. It supports policy enforcement and remediation to enhance operational efficiency and reduce security risks associated with unmanaged devices."
+  },
+  {
+    "product": "NinjaOne",
+    "slug": "ninjaone-476582708",
+    "url": "https://www.gartner.com/reviews/product/ninjaone-476582708",
+    "rating": 4.7,
+    "review_count": 381,
+    "vendor": "NinjaOne",
+    "description": "NinjaOne unifies IT to simplify work for nearly 40,000 customers in 140+ countries.The NinjaOne Unified IT Operations Platform delivers endpoint management, autonomous patching, backup, and remote access in a single console to improve efficiency,increase resilience, and reduce spend. By automating IT and managing all endpoints, organizations give employees a great technology experience to work faster, smarter, and easier while IT teams modernize and improve efficiency."
+  },
+  {
+    "product": "Automox",
+    "slug": "automox",
+    "url": "https://www.gartner.com/reviews/product/automox"
+  },
+  {
+    "product": "SureMDM",
+    "slug": "suremdm",
+    "url": "https://www.gartner.com/reviews/product/suremdm",
+    "rating": 4.6,
+    "review_count": 300,
+    "vendor": "42Gears",
+    "description": "SureMDM is a mobile device management software designed to help businesses manage, monitor, and secure mobile devices across various operating systems. The software provides features such as device enrollment, remote control, application management, location tracking,and compliance monitoring. SureMDM enables IT administrators to configure policies, deploy applications, and protect corporate data on smartphones, tablets, and other endpoints. The software addresses the business challenges of ensuring device security, maintaining regulatory compliance, and optimizing operational efficiency in organizations with mobile workforces."
+  },
+  {
+    "product": "Tanium Autonomous IT Platform",
+    "slug": "tanium-autonomous-it-platform",
+    "url": "https://www.gartner.com/reviews/product/tanium-autonomous-it-platform",
+    "rating": 4.6,
+    "review_count": 262,
+    "vendor": "Tanium",
+    "description": "Tanium Platform is an endpoint management and security software that provides organizations with visibility and control across their IT environments. The software enables management of endpoints at scale, offering real-time data collection, monitoring, and automatedresponses to incidents and vulnerabilities. It facilitates patch management, compliance reporting, and asset discovery while supporting the detection and remediation of threats. Tanium Platform helps address business challenges related to operational visibility, system management, and security posture by consolidating information from endpoints and allowing administrators to make informed decisions and execute actions across distributed environments."
+  },
+  {
+    "product": "Scalefusion",
+    "slug": "scalefusion",
+    "url": "https://www.gartner.com/reviews/product/scalefusion"
+  },
+  {
+    "product": "ManageEngine Endpoint Central",
+    "slug": "manageengine-endpoint-central",
+    "url": "https://www.gartner.com/reviews/product/manageengine-endpoint-central",
+    "rating": 4.6,
+    "review_count": 1625,
+    "vendor": "ManageEngine",
+    "description": "Endpoint Central is an IT management platform that helps organizations manage their endpoint infrastructure from a single console, covering the full device lifecycle from provisioning to retirement.IT teams automate patch deployment across operating systemsand third-party applications, distribute software remotely, manage mobile devices, troubleshoot endpoints through built-in remote access tools, and monitor digital employee experience to identify and resolve performance issues proactively. The platform supports Windows, macOS, Linux, iOS, Android, and Chrome OS.Security capabilities include vulnerability assessment, application control, endpoint privilege management, device control, disk encryption management, EDR, NGAV protection, and private access for secure remote connectivity.Available as on-premises or cloud deployments across five editions: Free, Professional, Enterprise, UEM, and Security, giving organisations the flexibility to scale as their requirements grow."
+  },
+  {
+    "product": "Microsoft Intune",
+    "slug": "microsoft-intune",
+    "url": "https://www.gartner.com/reviews/product/microsoft-intune",
+    "rating": 4.2,
+    "review_count": 1132,
+    "vendor": "Microsoft",
+    "description": "Microsoft Intune is a software designed for managing devices and applications within an organization. It provides cloud-based tools that allow administrators to configure policies, control access to company resources, and ensure compliance with corporate requirementsacross mobile phones, tablets, and computers. The software supports deployment, update management, and secure distribution of applications while offering monitoring capabilities for security and usage. By offering features for data protection and device configuration, Microsoft Intune assists organizations in maintaining security standards and productivity for users who access business resources remotely or in office environments."
+  },
+  {
+    "product": "Ivanti Autonomous Endpoint Management",
+    "slug": "ivanti-autonomous-endpoint-management",
+    "url": "https://www.gartner.com/reviews/product/ivanti-autonomous-endpoint-management",
+    "rating": 4.3,
+    "review_count": 999,
+    "vendor": "Ivanti",
+    "description": "Ivanti Autonomous Endpoint Management is a software designed to automate and simplify the management of devices throughout their lifecycle. The software provides capabilities for endpoint discovery, configuration, security, monitoring, and remediation across various platforms, includingWindows, macOS, Linux, and mobile devices. It enables organizations to reduce manual IT workloads by leveraging automation for patch management, software distribution, compliance enforcement, and device provisioning. The software also offers insights into device health and usage, helping businesses address vulnerabilities, ensure policy adherence, and maintain endpoint performance while supporting remote and hybrid work environments. Ivanti Autonomous Endpoint Management aims to improve operational efficiency by centralizing endpoint administration and minimizing risks associated with unmanaged or unpatched devices."
+  },
+  {
+    "product": "Workspace ONE UEM",
+    "slug": "workspace-one-uem",
+    "url": "https://www.gartner.com/reviews/product/workspace-one-uem",
+    "rating": 4.4,
+    "review_count": 681,
+    "vendor": "Omnissa",
+    "description": "Workspace ONE UEM is a software that provides unified endpoint management capabilities, allowing organizations to manage and secure devices across various operating systems from a single console. The software enables device configuration, application management, andcompliance monitoring for smartphones, tablets, laptops, and rugged devices. Workspace ONE UEM supports integration with existing IT systems, automates device provisioning, and applies security policies to safeguard corporate data. It addresses the business need for centralized device management and helps ensure policy enforcement and regulatory compliance across diverse hardware platforms within enterprise environments."
+  },
+  {
+    "product": "Jamf",
+    "slug": "jamf",
+    "url": "https://www.gartner.com/reviews/product/jamf",
+    "rating": 4.6,
+    "review_count": 678,
+    "vendor": "Jamf",
+    "description": "Jamf gives organizations a dedicated platform for managing, securing and onboarding Apple devices at scale, including iPhone, iPad, Mac, Apple Watch and Apple TV. It fits seamlessly into Windows-centric environments and also supports Android tounify mixed-fleet mobility. IT teams gain powerful automation, accurate Apple endpoint telemetry and continuous compliance monitoring, while users enjoy a fast, native Apple experience. Jamf also enables mobility and industry workflows across healthcare, retail and education, providing secure identity, access and purpose-built frontline experiences. Jamf delivers the Apple-specific management, security and compliance capabilities organizations need without adding complexity."
+  },
+  {
+    "product": "Hexnode UEM",
+    "slug": "hexnode-uem",
+    "url": "https://www.gartner.com/reviews/product/hexnode-uem",
+    "rating": 4.6,
+    "review_count": 567,
+    "vendor": "Mitsogo (Hexnode)",
+    "description": "Hexnode UEM is a unified endpoint management software that enables organizations to manage and secure a wide range of devices including smartphones, tablets, laptops, and desktops across multiple operating systems. The software provides centralized devicemonitoring, configuration, application management, security policy enforcement, and compliance tracking. It supports remote device provisioning, content management, and automated workflows to streamline IT operations. Hexnode UEM addresses business challenges related to device scalability, data protection, regulatory compliance, and operational efficiency by offering tools for comprehensive device lifecycle management, ensuring consistent security controls and reducing administrative overhead for enterprises."
+  },
+  {
+    "product": "HCL BigFix",
+    "slug": "hcl-bigfix",
+    "url": "https://www.gartner.com/reviews/product/hcl-bigfix",
+    "rating": 4.4,
+    "review_count": 398,
+    "vendor": "HCLTech (HCLSoftware)",
+    "description": "HCL BigFix is a Unified Endpoint Management and automation platform that manages and secures endpoints and infrastructure across on-premises, hybrid, and multi-cloud environments. It provides centralized visibility and control over servers, desktops, laptops, and cloudworkloads through a single-agent architecture. The platform supports automated patch management, vulnerability remediation, compliance monitoring, software distribution, configuration management, and asset discovery across 120+ operating system variants. As frontier AI models such as Mythos accelerate vulnerability discovery and compress exploitation timelines, HCL BigFix helps organizations reduce exposure through near-real-time remediation and intelligent automation. It enables real-time queries, policy enforcement, and infrastructure operations from a unified control plane, helping organizations reduce endpoint risk, enforce compliance, and maintain control across complex IT environments."
+  },
+  {
+    "product": "IBM MaaS360",
+    "slug": "ibm-maas360",
+    "url": "https://www.gartner.com/reviews/product/ibm-maas360",
+    "rating": 4.5,
+    "review_count": 299,
+    "vendor": "IBM",
+    "description": "IBM Security MaaS360 is a software designed for enterprise mobility management, providing organizations with tools to manage and secure mobile devices, applications, and content. It offers features including device enrollment, policy enforcement, threat management, andcompliance monitoring across various operating systems. The software enables IT administrators to gain visibility into device status, configure security settings, and control data access to support organizational security policies. It addresses business needs related to protecting sensitive corporate data, managing a distributed mobile workforce, and ensuring regulatory compliance while facilitating mobile productivity."
+  },
+  {
+    "product": "Google Endpoint Management",
+    "slug": "google-endpoint-management",
+    "url": "https://www.gartner.com/reviews/product/google-endpoint-management",
+    "rating": 4.3,
+    "review_count": 229,
+    "vendor": "Google",
+    "description": "Google Endpoint Management is a software designed to help organizations manage and secure user devices such as smartphones, tablets, and computers within a business environment. The software enables IT administrators to enforce security policies, configuresettings, and manage applications across both company-owned and personal devices. It offers features including remote device wipe, password enforcement, device inventory, and application management. Google Endpoint Management supports integration with existing workflows and helps address regulatory compliance requirements by managing access to sensitive business data. This software aims to support organizations in reducing security risks related to device usage while streamlining the administration of endpoints across different operating systems."
+  },
+  {
+    "product": "BlackBerry Spark Suite",
+    "slug": "blackberry-spark-suite",
+    "url": "https://www.gartner.com/reviews/product/blackberry-spark-suite",
+    "rating": 4.3,
+    "review_count": 211,
+    "vendor": "BlackBerry",
+    "description": "BlackBerry Spark Suite is a software that integrates unified endpoint management with endpoint security to support enterprise mobility and data protection needs. The software enables organizations to manage devices, applications, and content across various operatingsystems while providing threat prevention, detection, and response features. It allows administrators to enforce security policies, manage device configurations, and monitor for vulnerabilities, addressing compliance and security requirements in regulated environments. The software also supports secure collaboration and identity management, aiming to reduce risks associated with mobile workforce operations and protect sensitive business information from unauthorized access or cyber threats."
+  },
+  {
+    "product": "Quest KACE",
+    "slug": "quest-kace",
+    "url": "https://www.gartner.com/reviews/product/quest-kace",
+    "rating": 4.3,
+    "review_count": 176,
+    "vendor": "Quest",
+    "description": "Quest KACE is a software designed to automate and streamline endpoint management tasks across multiple devices within an organization. The software provides features such as asset inventory, software distribution, patch management, and configuration management. Itenables IT teams to monitor, update, and secure windows, macOS, and Linux endpoints, as well as manage software licenses and compliance requirements. The software aims to address business challenges related to managing and securing endpoints, reducing manual workload, and supporting regulatory compliance by centralizing device control and process automation. Quest KACE also offers tools for service desk integration, remote administration, and vulnerability assessment to assist organizations in maintaining systems and improving overall IT efficiency."
+  },
+  {
+    "product": "Cisco Meraki Systems Manager (Legacy)",
+    "slug": "cisco-meraki-systems-manager-legacy",
+    "url": "https://www.gartner.com/reviews/product/cisco-meraki-systems-manager-legacy",
+    "rating": 4.6,
+    "review_count": 173,
+    "vendor": "Cisco Systems",
+    "description": "Cisco Meraki Systems Manager is a software that provides cloud-based endpoint management for devices including laptops, desktops, smartphones, and tablets. The software supports device enrollment, configuration, monitoring, and security for both personal and organizational devices,enabling centralized management. Systems Manager allows administrators to deploy settings, apps, and restrictions, as well as enforce compliance with policies across distributed environments. Features include remote device wipe, location tracking, and integration with network infrastructure to facilitate visibility and control. The software addresses the business problem of managing and securing multiple device types across various operating systems, supporting organizations in maintaining data integrity, controlling access, and ensuring efficient IT administration."
+  },
+  {
+    "product": "ConnectWise Automate",
+    "slug": "coonectwise-automate",
+    "url": "https://www.gartner.com/reviews/product/coonectwise-automate",
+    "rating": 4.2,
+    "review_count": 161,
+    "vendor": "ConnectWise",
+    "description": "ConnectWise Automate is a software designed to assist managed service providers and IT departments with remote monitoring and management of IT systems. The software provides functionality for automating routine IT tasks, managing software patch deployment,monitoring network devices, and supporting endpoint management. It enables users to detect and resolve issues on workstations, servers, and networks, facilitates policy enforcement, and helps in reporting and analysis of IT performance. The software addresses business needs for reducing manual processes, increasing efficiency in IT operations, and maintaining system reliability across distributed environments."
+  },
+  {
+    "product": "SOTI ONE Platform",
+    "slug": "soti-one-platform",
+    "url": "https://www.gartner.com/reviews/product/soti-one-platform",
+    "rating": 4.2,
+    "review_count": 141,
+    "vendor": "SOTI",
+    "description": "SOTI ONE Platform is a software designed to facilitate the management and security of mobile devices and endpoints across various operating systems. The software enables organizations to streamline the deployment, monitoring, and troubleshooting of connecteddevices, applications, and data. It offers features for device management, mobility administration, remote support, and application lifecycle management. Through integrated modules, the software aids in reducing downtime and optimizing device performance while providing visibility into device usage and compliance. SOTI ONE Platform addresses business needs related to operational efficiency and risk mitigation, allowing organizations to manage their mobile and IoT environments from a unified interface."
+  },
+  {
+    "product": "Knox Suite",
+    "slug": "knox-suite",
+    "url": "https://www.gartner.com/reviews/product/knox-suite",
+    "rating": 4.4,
+    "review_count": 132,
+    "vendor": "Samsung",
+    "description": "Knox Suite is an all-in-one solution designed to manage and secure work devices. Optimized for Samsung Galaxy, it streamlines every step of the mobile journey for IT admins – from setup to use and management."
+  },
+  {
+    "product": "BlackBerry UEM",
+    "slug": "blackberry-uem",
+    "url": "https://www.gartner.com/reviews/product/blackberry-uem",
+    "rating": 4.6,
+    "review_count": 125,
+    "vendor": "BlackBerry",
+    "description": "BlackBerry UEM ® is a highly scalable, extensible and flexible solution that delivers unified endpoint management and maximum control for your diverse and growing fleet of devices, apps and content with unparalleled security for endpointsand data whether at rest or in transit. Moreover, it provides the granular control and visibility that IT needs to secure all endpoints, along with the flexibility to support a wide array of productivity and other business use cases. BlackBerry UEM also allows you to securely manage devices operating on key platforms and support all device ownership models. BlackBerry Dynamics, managed by BlackBerry UEM, extends access to best-in-class secure productivity apps as well as secure mobile app development and containerization, enabling multi-OS support for a wide range of collaboration, line of business (LOB), third-party and custom-built secure apps. BlackBerry UEM can be deployed on premises or in the cloud, depending on your business needs."
+  },
+  {
+    "product": "Datto RMM",
+    "slug": "datto-rmm",
+    "url": "https://www.gartner.com/reviews/product/datto-rmm"
+  },
+  {
+    "product": "ManageEngine Mobile Device Manager Plus",
+    "slug": "manageengine-mobile-device-manager-plus",
+    "url": "https://www.gartner.com/reviews/product/manageengine-mobile-device-manager-plus"
+  },
+  {
+    "product": "LogMeIn Resolve",
+    "slug": "logmein-resolve",
+    "url": "https://www.gartner.com/reviews/product/logmein-resolve"
+  }
+]

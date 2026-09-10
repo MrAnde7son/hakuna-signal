@@ -13,6 +13,7 @@ MARKETS = [
     "vulnerability-assessment",
     "cyber-asset-attack-surface-management",
     "external-attack-surface-management",
+    "unified-endpoint-management-tools",
 ]
 
 BASE = "https://www.gartner.com/reviews/market/{}"

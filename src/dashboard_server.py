@@ -27,6 +27,7 @@ import gzip
 import json
 import logging
 import os
+import threading
 import time
 from http import HTTPStatus
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
@@ -69,6 +70,12 @@ _fetch_impl: FetchFn | None = None
 # in GCS mode), so identity comparison lets us skip re-parsing on the hot path.
 _parsed_cache: dict[str, tuple[int, object]] = {}
 
+# Serializes the parse of a JSON blob across the ThreadingHTTPServer's worker
+# threads. data.json is 100k+ entries; letting N threads each json.loads it
+# concurrently stacks N transient object graphs and OOMs the instance. With the
+# lock, the first thread parses and the rest fall through to the warm cache.
+_parse_lock = threading.Lock()
+
 
 def fetch(name: str) -> tuple[bytes, str] | None:
     if _fetch_impl is None:
@@ -85,9 +92,14 @@ def fetch_parsed(name: str):
     cached = _parsed_cache.get(name)
     if cached and cached[0] == id(body):
         return cached[1]
-    parsed = json.loads(body)
-    _parsed_cache[name] = (id(body), parsed)
-    return parsed
+    with _parse_lock:
+        # Re-check: another thread may have parsed this same body while we waited.
+        cached = _parsed_cache.get(name)
+        if cached and cached[0] == id(body):
+            return cached[1]
+        parsed = json.loads(body)
+        _parsed_cache[name] = (id(body), parsed)
+        return parsed
 
 
 # --- filter/sort helpers ---------------------------------------------------
@@ -442,21 +454,39 @@ def _make_gcs_fetch() -> FetchFn:
     log.info("Backend: GCS bucket %s (cache_seconds=%d)", bucket_name, CACHE_SECONDS)
 
     cache: dict[str, tuple[float, bytes, str]] = {}
+    # One lock per blob name: when the cache entry expires, only one thread
+    # re-downloads (data.json is hundreds of MB — a thundering herd of parallel
+    # downloads every CACHE_SECONDS is enough to OOM the instance on its own).
+    locks: dict[str, threading.Lock] = {}
+    locks_guard = threading.Lock()
+
+    def _lock_for(name: str) -> threading.Lock:
+        with locks_guard:
+            lock = locks.get(name)
+            if lock is None:
+                lock = locks[name] = threading.Lock()
+            return lock
 
     def fetch_gcs(name: str) -> tuple[bytes, str] | None:
         now = time.time()
         cached = cache.get(name)
         if cached and now - cached[0] < CACHE_SECONDS:
             return cached[1], cached[2]
-        # One GCS round-trip: try download, treat 404 as missing. Avoids the
-        # extra blob.exists() HEAD that used to double the latency on a miss.
-        try:
-            body = bucket.blob(name).download_as_bytes()
-        except gcs_exceptions.NotFound:
-            return None
-        ctype = guess_type(name)[0] or "application/octet-stream"
-        cache[name] = (now, body, ctype)
-        return body, ctype
+        with _lock_for(name):
+            # Re-check: another thread may have refilled while we waited.
+            now = time.time()
+            cached = cache.get(name)
+            if cached and now - cached[0] < CACHE_SECONDS:
+                return cached[1], cached[2]
+            # One GCS round-trip: try download, treat 404 as missing. Avoids the
+            # extra blob.exists() HEAD that used to double the latency on a miss.
+            try:
+                body = bucket.blob(name).download_as_bytes()
+            except gcs_exceptions.NotFound:
+                return None
+            ctype = guess_type(name)[0] or "application/octet-stream"
+            cache[name] = (now, body, ctype)
+            return body, ctype
 
     return fetch_gcs
 

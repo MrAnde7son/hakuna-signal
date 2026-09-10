@@ -38,6 +38,8 @@ CATEGORY_QUERIES = {
     "exposure-management": "exposure management",
     "patch-management": "patch management",
     "asset-discovery": "asset discovery",
+    "endpoint-management": "endpoint management",
+    "security-hardening": "security hardening",
 }
 
 

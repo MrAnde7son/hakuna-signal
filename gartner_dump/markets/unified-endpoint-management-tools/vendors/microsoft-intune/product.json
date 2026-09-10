@@ -1,0 +1,333 @@
+{
+  "product": "Microsoft Intune",
+  "slug": "microsoft-intune",
+  "url": "https://www.gartner.com/reviews/product/microsoft-intune",
+  "rating": 4.2,
+  "review_count": 1132,
+  "vendor": "Microsoft",
+  "description": "Microsoft Intune is a software designed for managing devices and applications within an organization. It provides cloud-based tools that allow administrators to configure policies, control access to company resources, and ensure compliance with corporate requirementsacross mobile phones, tablets, and computers. The software supports deployment, update management, and secure distribution of applications while offering monitoring capabilities for security and usage. By offering features for data protection and device configuration, Microsoft Intune assists organizations in maintaining security standards and productivity for users who access business resources remotely or in office environments.",
+  "market": "unified-endpoint-management-tools",
+  "reviews": [
+    {
+      "title": "“Effortless Windows device enrollment, but slow policy deployment persists”",
+      "reviewer": "IT Associate50M - 250M USD, Healthcare and Biotech",
+      "date": "Jul 29, 2026"
+    },
+    {
+      "title": "“Intune Eases Device Management But Transition From AD Presents Challenges And Costs”",
+      "reviewer": "It Associate50M - 250M USD, Consumer Goods",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "“Effortless Windows device enrollment, but slow policy deployment persists”",
+      "reviewer": "IT Associate50M - 250M USD, Healthcare and Biotech",
+      "date": "Jul 29, 2026"
+    },
+    {
+      "title": "“Intune Eases Device Management But Transition From AD Presents Challenges And Costs”",
+      "reviewer": "It Associate50M - 250M USD, Consumer Goods",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "“Effortless Windows device enrollment, but slow policy deployment persists”",
+      "reviewer": "IT Associate50M - 250M USD, Healthcare and Biotech",
+      "date": "Jul 29, 2026"
+    },
+    {
+      "title": "“Intune Eases Device Management But Transition From AD Presents Challenges And Costs”",
+      "reviewer": "It Associate50M - 250M USD, Consumer Goods",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "“Effortless Windows device enrollment, but slow policy deployment persists”",
+      "reviewer": "IT Associate50M - 250M USD, Healthcare and Biotech",
+      "date": "Jul 29, 2026"
+    },
+    {
+      "title": "“Intune Eases Device Management But Transition From AD Presents Challenges And Costs”",
+      "reviewer": "It Associate50M - 250M USD, Consumer Goods",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "“Effortless Windows device enrollment, but slow policy deployment persists”",
+      "reviewer": "IT Associate50M - 250M USD, Healthcare and Biotech",
+      "date": "Jul 29, 2026"
+    },
+    {
+      "title": "“Intune Eases Device Management But Transition From AD Presents Challenges And Costs”",
+      "reviewer": "It Associate50M - 250M USD, Consumer Goods",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "“Effortless Windows device enrollment, but slow policy deployment persists”",
+      "reviewer": "IT Associate50M - 250M USD, Healthcare and Biotech",
+      "date": "Jul 29, 2026"
+    },
+    {
+      "title": "“Intune Eases Device Management But Transition From AD Presents Challenges And Costs”",
+      "reviewer": "It Associate50M - 250M USD, Consumer Goods",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "“Effortless Windows device enrollment, but slow policy deployment persists”",
+      "reviewer": "IT Associate50M - 250M USD, Healthcare and Biotech",
+      "date": "Jul 29, 2026"
+    },
+    {
+      "title": "“Intune Eases Device Management But Transition From AD Presents Challenges And Costs”",
+      "reviewer": "It Associate50M - 250M USD, Consumer Goods",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "“Effortless Windows device enrollment, but slow policy deployment persists”",
+      "reviewer": "IT Associate50M - 250M USD, Healthcare and Biotech",
+      "date": "Jul 29, 2026"
+    },
+    {
+      "title": "“Intune Eases Device Management But Transition From AD Presents Challenges And Costs”",
+      "reviewer": "It Associate50M - 250M USD, Consumer Goods",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "“Effortless Windows device enrollment, but slow policy deployment persists”",
+      "reviewer": "IT Associate50M - 250M USD, Healthcare and Biotech",
+      "date": "Jul 29, 2026"
+    },
+    {
+      "title": "“Intune Eases Device Management But Transition From AD Presents Challenges And Costs”",
+      "reviewer": "It Associate50M - 250M USD, Consumer Goods",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "“Effortless Windows device enrollment, but slow policy deployment persists”",
+      "reviewer": "IT Associate50M - 250M USD, Healthcare and Biotech",
+      "date": "Jul 29, 2026"
+    },
+    {
+      "title": "“Intune Eases Device Management But Transition From AD Presents Challenges And Costs”",
+      "reviewer": "It Associate50M - 250M USD, Consumer Goods",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "reviewer": "It Associate50M-1B USDConsumer GoodsReview Source",
+      "date": "Mar 6, 2026"
+    },
+    {
+      "title": "Intune Eases Device Management But Transition From AD Presents Challenges And Costs",
+      "rating": 3.0,
+      "date": "Mar 6, 2026"
+    }
+  ],
+  "total_reviews_crawled": 60
+}

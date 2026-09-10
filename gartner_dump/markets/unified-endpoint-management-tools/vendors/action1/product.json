@@ -1,0 +1,333 @@
+{
+  "product": "Action1",
+  "slug": "action1",
+  "url": "https://www.gartner.com/reviews/product/action1",
+  "rating": 4.8,
+  "review_count": 220,
+  "vendor": "Action1",
+  "description": "Action1 is a cloud-based software designed for endpoint management and security. The software enables organizations to automate patch management, deploy and update software, and monitor endpoint configuration across Windows devices. Action1 helps address the challengeof managing distributed endpoints by providing features for real-time visibility, remote control, and compliance reporting, aimed at reducing vulnerabilities caused by unpatched or misconfigured systems. It supports policy enforcement and remediation to enhance operational efficiency and reduce security risks associated with unmanaged devices.",
+  "market": "unified-endpoint-management-tools",
+  "reviews": [
+    {
+      "title": "“Action1 is ActionFun”",
+      "reviewer": "IT Associate<50M USD, Software",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Straightforward navigation reduces disruption, though error notifications lack clarity”",
+      "reviewer": "Engineer50M - 250M USD, IT Services",
+      "date": "Jul 28, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Action1 is ActionFun”",
+      "reviewer": "IT Associate<50M USD, Software",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Straightforward navigation reduces disruption, though error notifications lack clarity”",
+      "reviewer": "Engineer50M - 250M USD, IT Services",
+      "date": "Jul 28, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Action1 is ActionFun”",
+      "reviewer": "IT Associate<50M USD, Software",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Straightforward navigation reduces disruption, though error notifications lack clarity”",
+      "reviewer": "Engineer50M - 250M USD, IT Services",
+      "date": "Jul 28, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Action1 is ActionFun”",
+      "reviewer": "IT Associate<50M USD, Software",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Straightforward navigation reduces disruption, though error notifications lack clarity”",
+      "reviewer": "Engineer50M - 250M USD, IT Services",
+      "date": "Jul 28, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Action1 is ActionFun”",
+      "reviewer": "IT Associate<50M USD, Software",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Straightforward navigation reduces disruption, though error notifications lack clarity”",
+      "reviewer": "Engineer50M - 250M USD, IT Services",
+      "date": "Jul 28, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Action1 is ActionFun”",
+      "reviewer": "IT Associate<50M USD, Software",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Straightforward navigation reduces disruption, though error notifications lack clarity”",
+      "reviewer": "Engineer50M - 250M USD, IT Services",
+      "date": "Jul 28, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Action1 is ActionFun”",
+      "reviewer": "IT Associate<50M USD, Software",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Straightforward navigation reduces disruption, though error notifications lack clarity”",
+      "reviewer": "Engineer50M - 250M USD, IT Services",
+      "date": "Jul 28, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Action1 is ActionFun”",
+      "reviewer": "IT Associate<50M USD, Software",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Straightforward navigation reduces disruption, though error notifications lack clarity”",
+      "reviewer": "Engineer50M - 250M USD, IT Services",
+      "date": "Jul 28, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Action1 is ActionFun”",
+      "reviewer": "IT Associate<50M USD, Software",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Straightforward navigation reduces disruption, though error notifications lack clarity”",
+      "reviewer": "Engineer50M - 250M USD, IT Services",
+      "date": "Jul 28, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Action1 is ActionFun”",
+      "reviewer": "IT Associate<50M USD, Software",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "“Straightforward navigation reduces disruption, though error notifications lack clarity”",
+      "reviewer": "Engineer50M - 250M USD, IT Services",
+      "date": "Jul 28, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "reviewer": "IT Associate<50M USDSoftwareReview Source",
+      "date": "May 27, 2026"
+    },
+    {
+      "title": "Action1 is ActionFun",
+      "rating": 5.0,
+      "date": "May 27, 2026"
+    }
+  ],
+  "total_reviews_crawled": 60
+}

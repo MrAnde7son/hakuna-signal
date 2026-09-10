@@ -1,0 +1,333 @@
+{
+  "product": "HCL BigFix",
+  "slug": "hcl-bigfix",
+  "url": "https://www.gartner.com/reviews/product/hcl-bigfix",
+  "rating": 4.4,
+  "review_count": 398,
+  "vendor": "HCLTech (HCLSoftware)",
+  "description": "HCL BigFix is a Unified Endpoint Management and automation platform that manages and secures endpoints and infrastructure across on-premises, hybrid, and multi-cloud environments. It provides centralized visibility and control over servers, desktops, laptops, and cloudworkloads through a single-agent architecture. The platform supports automated patch management, vulnerability remediation, compliance monitoring, software distribution, configuration management, and asset discovery across 120+ operating system variants. As frontier AI models such as Mythos accelerate vulnerability discovery and compress exploitation timelines, HCL BigFix helps organizations reduce exposure through near-real-time remediation and intelligent automation. It enables real-time queries, policy enforcement, and infrastructure operations from a unified control plane, helping organizations reduce endpoint risk, enforce compliance, and maintain control across complex IT environments.",
+  "market": "unified-endpoint-management-tools",
+  "reviews": [
+    {
+      "title": "“Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.”",
+      "reviewer": "Product Manager<50M USD, Services (non-Government)",
+      "date": "Jul 1, 2026"
+    },
+    {
+      "title": "“Strong Patch Management and Compliance Offset by Challenging User Experience”",
+      "reviewer": "Cyber Analyst250M - 500M USD, Construction",
+      "date": "Apr 17, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "“Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.”",
+      "reviewer": "Product Manager<50M USD, Services (non-Government)",
+      "date": "Jul 1, 2026"
+    },
+    {
+      "title": "“Strong Patch Management and Compliance Offset by Challenging User Experience”",
+      "reviewer": "Cyber Analyst250M - 500M USD, Construction",
+      "date": "Apr 17, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "“Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.”",
+      "reviewer": "Product Manager<50M USD, Services (non-Government)",
+      "date": "Jul 1, 2026"
+    },
+    {
+      "title": "“Strong Patch Management and Compliance Offset by Challenging User Experience”",
+      "reviewer": "Cyber Analyst250M - 500M USD, Construction",
+      "date": "Apr 17, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "“Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.”",
+      "reviewer": "Product Manager<50M USD, Services (non-Government)",
+      "date": "Jul 1, 2026"
+    },
+    {
+      "title": "“Strong Patch Management and Compliance Offset by Challenging User Experience”",
+      "reviewer": "Cyber Analyst250M - 500M USD, Construction",
+      "date": "Apr 17, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "“Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.”",
+      "reviewer": "Product Manager<50M USD, Services (non-Government)",
+      "date": "Jul 1, 2026"
+    },
+    {
+      "title": "“Strong Patch Management and Compliance Offset by Challenging User Experience”",
+      "reviewer": "Cyber Analyst250M - 500M USD, Construction",
+      "date": "Apr 17, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "“Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.”",
+      "reviewer": "Product Manager<50M USD, Services (non-Government)",
+      "date": "Jul 1, 2026"
+    },
+    {
+      "title": "“Strong Patch Management and Compliance Offset by Challenging User Experience”",
+      "reviewer": "Cyber Analyst250M - 500M USD, Construction",
+      "date": "Apr 17, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "“Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.”",
+      "reviewer": "Product Manager<50M USD, Services (non-Government)",
+      "date": "Jul 1, 2026"
+    },
+    {
+      "title": "“Strong Patch Management and Compliance Offset by Challenging User Experience”",
+      "reviewer": "Cyber Analyst250M - 500M USD, Construction",
+      "date": "Apr 17, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "“Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.”",
+      "reviewer": "Product Manager<50M USD, Services (non-Government)",
+      "date": "Jul 1, 2026"
+    },
+    {
+      "title": "“Strong Patch Management and Compliance Offset by Challenging User Experience”",
+      "reviewer": "Cyber Analyst250M - 500M USD, Construction",
+      "date": "Apr 17, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "“Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.”",
+      "reviewer": "Product Manager<50M USD, Services (non-Government)",
+      "date": "Jul 1, 2026"
+    },
+    {
+      "title": "“Strong Patch Management and Compliance Offset by Challenging User Experience”",
+      "reviewer": "Cyber Analyst250M - 500M USD, Construction",
+      "date": "Apr 17, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "“Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.”",
+      "reviewer": "Product Manager<50M USD, Services (non-Government)",
+      "date": "Jul 1, 2026"
+    },
+    {
+      "title": "“Strong Patch Management and Compliance Offset by Challenging User Experience”",
+      "reviewer": "Cyber Analyst250M - 500M USD, Construction",
+      "date": "Apr 17, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "reviewer": "Product Manager<50M USDServices (non-Government)Review Source",
+      "date": "Jun 30, 2026"
+    },
+    {
+      "title": "Unbeatable scale and patching speed, but the learing curve will test your IT team's sanity.",
+      "rating": 4.0,
+      "date": "Jun 30, 2026"
+    }
+  ],
+  "total_reviews_crawled": 60
+}

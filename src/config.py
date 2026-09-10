@@ -28,10 +28,17 @@ SOURCES = {
         "qualys",
         "crowdstrike",
         "ciso",
+        # Endpoint / patch / configuration management practitioner subs
+        "patchmanagement",
+        "SCCM",
+        "Intune",
+        "msp",
+        "ITManagers",
     ],
     "spiceworks": [  # Discourse category slugs
         "security",
         "vendors",
+        "software-applications",  # patch/deployment/endpoint-tooling discussion
     ],
     "tenable": [  # Khoros board slugs (community.tenable.com)
         "vulnerability-watch",
@@ -41,11 +48,14 @@ SOURCES = {
     "peerspot": [  # peerspot.com category slugs
         "vulnerability-management",
         "patch-management",
+        "unified-endpoint-management-uem",
+        "configuration-management",
     ],
     "g2": [  # market segments — fan out to per-product RSS feeds in sources/g2.py
         "vulnerability-management",
         "exposure-and-asset-management",
         "appsec-and-cloud",
+        "endpoint-and-patch-management",
     ],
     "hackernews": [  # Algolia search queries — see sources/hackernews.CATEGORY_QUERIES
         "vulnerability-scanner",
@@ -54,6 +64,8 @@ SOURCES = {
         "exposure-management",
         "patch-management",
         "asset-discovery",
+        "endpoint-management",
+        "security-hardening",
     ],
     "stackexchange": [  # Stack Exchange site names; SO is excluded as too noisy
         "security",
@@ -74,6 +86,12 @@ SOURCES = {
         # Vulnerability / configuration / identity validation
         "prowler-cloud/prowler",
         "SpecterOps/BloodHound",
+        # Endpoint / patch / configuration management & hardening
+        "fleetdm/fleet",
+        "wazuh/wazuh",
+        "ComplianceAsCode/content",
+        "OpenSCAP/openscap",
+        "CISOfy/lynis",
     ],
     "rapid7": [  # discuss.rapid7.com Discourse boards
         "insightvm",
@@ -88,6 +106,9 @@ SOURCES = {
         "vulnerability-assessment",
         "exposure-management",
         "attack-surface-management",
+        # Needs `python scripts/gartner_crawler.py unified-endpoint-management-tools`
+        # to populate gartner_dump/ — until then this category yields nothing.
+        "endpoint-management",
     ],
     "arxiv": [  # arXiv category codes — gated by keyword_filter (cs.CR is broad)
         "cs.CR",
@@ -111,6 +132,7 @@ ITEMS_PER_CATEGORY = {
     "rapid7": 30,
     "servicenow": 20,
     # Gartner reads from local JSON dump — no HTTP, no rate limit.
+    # (endpoint-management shares the per-category cap below.)
     # Cap is per-category; each market has ~20 vendors × ~10 unique reviews.
     "gartner": 200,
     "arxiv": 50,

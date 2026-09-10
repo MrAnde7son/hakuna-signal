@@ -8,6 +8,7 @@ import re
 ALWAYS_PASS_CATEGORIES = {
     # Reddit
     "nessus", "qualys",
+    "patchmanagement", "sccm", "intune",
     # Tenable Community boards (community.tenable.com)
     "vulnerability-watch",
     "tenable-research-release-highlights",
@@ -15,14 +16,19 @@ ALWAYS_PASS_CATEGORIES = {
     # PeerSpot review categories
     "vulnerability-management",
     "patch-management",
+    "unified-endpoint-management-uem",
+    "configuration-management",
     # G2 market segments (vulnerability-management already covered above)
     "exposure-and-asset-management",
     "appsec-and-cloud",
+    "endpoint-and-patch-management",
     # Hacker News search-query slugs — query already enforces topic relevance
     "vulnerability-scanner",
     "attack-surface",
     "exposure-management",
     "asset-discovery",
+    "endpoint-management",
+    "security-hardening",
     # Rapid7 Discuss vendor boards — every post is about a Rapid7 product
     "insightvm",
     "surface-command",
@@ -32,11 +38,18 @@ ALWAYS_PASS_CATEGORIES = {
     "vulnerability-assessment",
     "exposure-management",
     "attack-surface-management",
-    # GitHub repos — every issue is on the OSS scanner / asset / fleet tool
+    "endpoint-management",
+    # GitHub repos — every issue is on the OSS scanner / asset / fleet /
+    # endpoint / hardening tool
     "projectdiscovery/nuclei",
     "zaproxy/zaproxy",
     "greenbone/openvas-scanner",
     "osquery/osquery",
+    "fleetdm/fleet",
+    "wazuh/wazuh",
+    "complianceascode/content",
+    "openscap/openscap",
+    "cisofy/lynis",
     # Stack Exchange: NOT listed — security.stackexchange.com and serverfault.com
     # are broad enough that we want the keyword filter to gate them.
 }
@@ -52,6 +65,16 @@ HIGH_SIGNAL = [
     "censys", "shodan",
     "armis", "servicenow vr",
     "securityscorecard", "bitsight",
+    # Endpoint / patch / configuration management competitors
+    "ninjaone", "ninja one", "automox", "action1", "action 1",
+    "ivanti", "ivanti neurons", "tanium",
+    "furl", "furl.ai", "remedio", "gytpol",
+    "manageengine", "endpoint central", "patch manager plus",
+    "pdq deploy", "pdq connect", "quest kace", "kace",
+    "bigfix", "hcl bigfix", "syxsense", "adaptiva", "baramundi",
+    "heimdal", "vicarius", "kaseya vsa", "datto rmm", "connectwise automate",
+    "jamf", "kandji", "jumpcloud", "scappman",
+    "intune", "microsoft intune", "sccm", "mecm", "wsus",
     # Open source / other scanners
     "nuclei", "trivy", "openvas", "greenbone", "nikto",
     "owasp zap", "zaproxy", "burp suite", "acunetix",
@@ -64,6 +87,22 @@ HIGH_SIGNAL = [
     "vuln scan", "vulnerability assessment",
     "asm tool", "asm platform",
     "continuous monitoring",
+    # Endpoint / patch / configuration management core domain
+    "patch management", "patch management tool", "patching tool",
+    "third party patching", "third-party patching", "3rd party patching",
+    "endpoint management", "unified endpoint management", "uem",
+    "endpoint management tool", "device management",
+    "configuration management", "security configuration management",
+    "configuration drift", "config drift", "misconfiguration",
+    "security baseline", "hardening", "system hardening", "os hardening",
+    "cis benchmark", "cis benchmarks", "stig", "disa stig", "security hardening",
+    "patch compliance", "patch deployment", "patch ring", "patch rings",
+    "patch automation", "automated patching", "autonomous remediation",
+    "continuous remediation", "remediation automation",
+    "software deployment", "application deployment", "package deployment",
+    "rmm tool", "rmm platform", "fleet management",
+    "golden image", "image management", "endpoint hardening",
+    "config as code", "desired state configuration",
     "external facing", "internet facing", "internet-facing",
     "perimeter scan", "cve",
     # Pain points (how people actually talk)
@@ -79,6 +118,19 @@ HIGH_SIGNAL = [
     "finding owners", "asset owners", "accountability remediation",
     "sla breach", "remediation sla",
     "aging vulnerabilities", "old findings",
+    # Endpoint / patch / config pain points
+    "failed patches", "patch failures", "patch broke", "patch bricked",
+    "patch rollback", "rollback patch", "reboot fatigue", "patch reboots",
+    "missing patches", "unpatched machines", "unpatched endpoints",
+    "third party app updates", "3rd party app updates", "app updates lagging",
+    "patch tuesday scramble", "patch backlog", "patching backlog",
+    "config drift", "drifted config", "inconsistent configuration",
+    "stig compliance", "cis hardening", "hardening backlog",
+    "gpo sprawl", "too many gpos", "group policy mess",
+    "sccm co-management", "sccm to intune", "intune migration",
+    "agent sprawl", "too many agents", "endpoint agent bloat",
+    "can't keep up with patching", "patching is manual",
+    "no patch visibility", "patch reporting", "patch compliance reporting",
     # Workflow / integration pain
     "jira tickets security", "vuln ticketing", "ticketing integration",
     "servicenow security", "servicenow vulnerability",
@@ -95,6 +147,15 @@ HIGH_SIGNAL = [
     "best vulnerability scanner", "vulnerability scanner comparison",
     "compare security tools", "which scanner", "scanner recommendation",
     "tenable vs", "qualys vs", "rapid7 vs", "nessus vs", "insightvm vs",
+    # Endpoint / patch / config shopping & switching
+    "patch management recommendation", "best patch management",
+    "patch management comparison", "patching tool recommendation",
+    "sccm alternative", "wsus alternative", "replace wsus", "replace sccm",
+    "ninjaone vs", "automox vs", "action1 vs", "ivanti vs", "tanium vs",
+    "intune vs", "manageengine vs",
+    "rmm recommendation", "best rmm", "uem recommendation",
+    "looking for a patching tool", "recommend a patch tool",
+    "endpoint management recommendation",
     # EASM / external exposure
     "external attack surface", "easm", "internet-facing assets",
     "shadow it discovery", "asset discovery",
@@ -129,6 +190,14 @@ MEDIUM_SIGNAL = [
     # Patch management
     "patch management", "patching cadence", "patch tuesday",
     "unpatched", "missing patches",
+    # Endpoint / configuration management (adjacent — LLM confirms relevance)
+    "endpoint management", "device management", "mdm", "uem",
+    "group policy", "gpo", "sccm", "intune", "wsus", "mecm",
+    "configuration management", "config drift", "misconfiguration",
+    "security baseline", "hardening", "cis benchmark", "stig",
+    "rmm", "remote monitoring and management", "msp tooling",
+    "software deployment", "third party patching", "autonomous remediation",
+    "fleet management", "endpoint agent", "co-management",
 ]
 
 DISCARD_PATTERNS = [
@@ -140,7 +209,10 @@ DISCARD_PATTERNS = [
 MALWARE_ANALYSIS = re.compile(r"malware\s+analysis", re.IGNORECASE)
 VM_KEYWORDS = re.compile(
     r"vulnerability management|exposure management|attack surface"
-    r"|nessus|tenable|qualys|rapid7|easm|vuln scan",
+    r"|nessus|tenable|qualys|rapid7|easm|vuln scan"
+    r"|patch management|endpoint management|configuration management"
+    r"|hardening|misconfiguration|ninjaone|automox|action1|ivanti|tanium"
+    r"|intune|sccm|remediation",
     re.IGNORECASE,
 )
 

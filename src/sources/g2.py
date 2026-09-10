@@ -47,7 +47,7 @@ CATEGORY_PRODUCTS = {
         "insightvm",
         "rapid7",
         "microsoft-defender-vulnerability-management",
-        "tanium-platform",
+        "tanium",
         "crowdstrike-falcon",
         "trend-vision-one",
     ],
@@ -69,6 +69,25 @@ CATEGORY_PRODUCTS = {
         "orca-security",
         "nucleus-security",
         "brinqa",
+    ],
+    # Endpoint / patch / configuration management competitors. Slugs verified
+    # to 200 on /products/{slug}/reviews.rss (Sept 2026). Note the non-obvious
+    # ones: it's `tanium` (not `tanium-platform`), `jamf` (not `jamf-pro`),
+    # `pdq-deploy-inventory` (not `pdq-deploy`), and Intune's review feed lives
+    # under `microsoft-intune-enterprise-application-management`.
+    "endpoint-and-patch-management": [
+        "ninjaone",
+        "automox",
+        "action1",
+        "ivanti-neurons-for-patch-management",
+        "manageengine-endpoint-central",
+        "tanium",
+        "microsoft-intune-enterprise-application-management",
+        "pdq-deploy-inventory",
+        "pdq-connect",
+        "heimdal-patch-management",
+        "jumpcloud",
+        "jamf",
     ],
 }
 

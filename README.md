@@ -1,13 +1,15 @@
 # Hakuna Signal
 
-Agentic intelligence tool that scans practitioner discussions across Reddit, Spiceworks, Tenable Community, PeerSpot, and G2 for VM/EM sales opportunities and market signal — and drafts founder-voice replies for the Reddit ones.
+Agentic intelligence tool that scans practitioner discussions across Reddit, Spiceworks, Tenable Community, PeerSpot, G2, and more for sales opportunities and market signal across vulnerability & exposure management, endpoint management, patch management, and configuration management / security hardening — and drafts founder-voice replies for the Reddit ones.
+
+Competitors tracked include Tenable, Qualys, Rapid7, and the exposure-management field alongside NinjaOne, Automox, Action1, Ivanti, Tanium, Furl, and Remedio (formerly GYTPOL) on the endpoint/patch/config side.
 
 ## How It Works
 
 1. **Fetch** — Pulls recent items from each configured source/category (subreddits, Discourse boards, Khoros forums, review feeds)
 2. **Dedup** — Skips items already processed (composite `(source, id)` key in local SQLite)
 3. **Keyword filter** — Cheap pre-LLM pass that discards noise (job posts, CTFs, homework) and waves through high-signal topics (competitor mentions, pain keywords). Vendor-curated and review categories bypass the filter entirely.
-4. **Score** — Sends surviving items to Gemini 2.5 Flash (Vertex AI) for relevance scoring (1–10) plus structured intel: pain points, tools mentioned, company profile, team functions
+4. **Score** — Sends surviving items to Gemini 2.5 Flash (Vertex AI) for relevance scoring (1–10) across VM/EM + endpoint/patch/configuration management, plus structured intel: pain points, tools mentioned, company profile, team functions
 5. **Draft** — Reddit threads scoring 7+ get a founder-voice comment drafted by the LLM. Other sources feed the Intel tab only — replying on a forum/review site is a different workflow.
 6. **Dashboard** — Appends results to a single HTML dashboard (Opportunities + Market Intelligence tabs) with filters and drill-down
 
@@ -15,11 +17,15 @@ Agentic intelligence tool that scans practitioner discussions across Reddit, Spi
 
 | Source | Categories |
 |--------|------------|
-| Reddit | `sysadmin` · `nessus` · `cybersecurity` · `AskNetsec` · `netsec` · `qualys` · `crowdstrike` · `ciso` |
-| Spiceworks | `security` · `vendors` |
+| Reddit | `sysadmin` · `nessus` · `tenable` · `cybersecurity` · `AskNetsec` · `netsec` · `qualys` · `crowdstrike` · `ciso` · `patchmanagement` · `SCCM` · `Intune` · `msp` · `ITManagers` |
+| Spiceworks | `security` · `vendors` · `software-applications` |
 | Tenable Community | `vulnerability-watch` · `tenable-research-release-highlights` · `product-announcements` |
-| PeerSpot | `vulnerability-management` · `patch-management` |
-| G2 | `vulnerability-management` · `exposure-and-asset-management` · `appsec-and-cloud` |
+| PeerSpot | `vulnerability-management` · `patch-management` · `unified-endpoint-management-uem` · `configuration-management` |
+| G2 | `vulnerability-management` · `exposure-and-asset-management` · `appsec-and-cloud` · `endpoint-and-patch-management` |
+| Hacker News | `vulnerability-scanner` · `vulnerability-management` · `attack-surface` · `exposure-management` · `patch-management` · `asset-discovery` · `endpoint-management` · `security-hardening` |
+| GitHub | scanner / asset / fleet / hardening OSS repos (nuclei, osquery, fleet, wazuh, openscap, lynis, …) |
+| Gartner Peer Insights | `vulnerability-assessment` · `exposure-management` · `attack-surface-management` · `endpoint-management` |
+| Rapid7 Discuss · ServiceNow · Stack Exchange · arXiv | see `src/config.py` |
 
 ## Setup
 

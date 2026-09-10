@@ -34,6 +34,18 @@ _ALIASES = {
     "nexpose": "InsightVM",
     "qualys vmdr": "Qualys VMDR",
     "crowdstrike falcon": "CrowdStrike Falcon Exposure Management",
+    # Endpoint / patch / configuration management (populated once the
+    # unified-endpoint-management-tools market is crawled into gartner_dump/)
+    "intune": "Microsoft Intune",
+    "microsoft intune": "Microsoft Intune",
+    "sccm": "Microsoft Configuration Manager",
+    "mecm": "Microsoft Configuration Manager",
+    "endpoint central": "ManageEngine Endpoint Central",
+    "manageengine": "ManageEngine Endpoint Central",
+    "ninja one": "NinjaOne",
+    "action1": "Action1",
+    "ivanti neurons": "Ivanti Neurons for MDM",
+    "kace": "Quest KACE",
 }
 
 

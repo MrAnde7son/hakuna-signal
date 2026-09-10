@@ -1,0 +1,333 @@
+{
+  "product": "Hexnode UEM",
+  "slug": "hexnode-uem",
+  "url": "https://www.gartner.com/reviews/product/hexnode-uem",
+  "rating": 4.6,
+  "review_count": 567,
+  "vendor": "Mitsogo (Hexnode)",
+  "description": "Hexnode UEM is a unified endpoint management software that enables organizations to manage and secure a wide range of devices including smartphones, tablets, laptops, and desktops across multiple operating systems. The software provides centralized devicemonitoring, configuration, application management, security policy enforcement, and compliance tracking. It supports remote device provisioning, content management, and automated workflows to streamline IT operations. Hexnode UEM addresses business challenges related to device scalability, data protection, regulatory compliance, and operational efficiency by offering tools for comprehensive device lifecycle management, ensuring consistent security controls and reducing administrative overhead for enterprises.",
+  "market": "unified-endpoint-management-tools",
+  "reviews": [
+    {
+      "title": "“A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms”",
+      "reviewer": "IT Services Associate500M - 1B USD, IT Services",
+      "date": "Aug 16, 2026"
+    },
+    {
+      "title": "“Device enrollment and security are solid but offline control is challenging”",
+      "reviewer": "It Associate<50M USD, Healthcare and Biotech",
+      "date": "Jul 14, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "“A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms”",
+      "reviewer": "IT Services Associate500M - 1B USD, IT Services",
+      "date": "Aug 16, 2026"
+    },
+    {
+      "title": "“Device enrollment and security are solid but offline control is challenging”",
+      "reviewer": "It Associate<50M USD, Healthcare and Biotech",
+      "date": "Jul 14, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "“A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms”",
+      "reviewer": "IT Services Associate500M - 1B USD, IT Services",
+      "date": "Aug 16, 2026"
+    },
+    {
+      "title": "“Device enrollment and security are solid but offline control is challenging”",
+      "reviewer": "It Associate<50M USD, Healthcare and Biotech",
+      "date": "Jul 14, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "“A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms”",
+      "reviewer": "IT Services Associate500M - 1B USD, IT Services",
+      "date": "Aug 16, 2026"
+    },
+    {
+      "title": "“Device enrollment and security are solid but offline control is challenging”",
+      "reviewer": "It Associate<50M USD, Healthcare and Biotech",
+      "date": "Jul 14, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "“A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms”",
+      "reviewer": "IT Services Associate500M - 1B USD, IT Services",
+      "date": "Aug 16, 2026"
+    },
+    {
+      "title": "“Device enrollment and security are solid but offline control is challenging”",
+      "reviewer": "It Associate<50M USD, Healthcare and Biotech",
+      "date": "Jul 14, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "“A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms”",
+      "reviewer": "IT Services Associate500M - 1B USD, IT Services",
+      "date": "Aug 16, 2026"
+    },
+    {
+      "title": "“Device enrollment and security are solid but offline control is challenging”",
+      "reviewer": "It Associate<50M USD, Healthcare and Biotech",
+      "date": "Jul 14, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "“A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms”",
+      "reviewer": "IT Services Associate500M - 1B USD, IT Services",
+      "date": "Aug 16, 2026"
+    },
+    {
+      "title": "“Device enrollment and security are solid but offline control is challenging”",
+      "reviewer": "It Associate<50M USD, Healthcare and Biotech",
+      "date": "Jul 14, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "“A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms”",
+      "reviewer": "IT Services Associate500M - 1B USD, IT Services",
+      "date": "Aug 16, 2026"
+    },
+    {
+      "title": "“Device enrollment and security are solid but offline control is challenging”",
+      "reviewer": "It Associate<50M USD, Healthcare and Biotech",
+      "date": "Jul 14, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "“A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms”",
+      "reviewer": "IT Services Associate500M - 1B USD, IT Services",
+      "date": "Aug 16, 2026"
+    },
+    {
+      "title": "“Device enrollment and security are solid but offline control is challenging”",
+      "reviewer": "It Associate<50M USD, Healthcare and Biotech",
+      "date": "Jul 14, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "“A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms”",
+      "reviewer": "IT Services Associate500M - 1B USD, IT Services",
+      "date": "Aug 16, 2026"
+    },
+    {
+      "title": "“Device enrollment and security are solid but offline control is challenging”",
+      "reviewer": "It Associate<50M USD, Healthcare and Biotech",
+      "date": "Jul 14, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "reviewer": "IT Services Associate50M-1B USDIT ServicesReview Source",
+      "date": "Aug 15, 2026"
+    },
+    {
+      "title": "A reliable and intuitive UEM platform that significantly streamlines device management and QA validation across multiple platforms",
+      "rating": 4.0,
+      "date": "Aug 15, 2026"
+    }
+  ],
+  "total_reviews_crawled": 60
+}
